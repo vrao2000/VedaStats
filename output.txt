@@ -1,0 +1,4085 @@
+/System/Library/Frameworks/Python.framework/Versions/2.7/bin/python2.7 /Users/vrra/Documents/GitHub/VedaStats/bgFile.py
+Gita htable size:  4081
+hits =  0
+ADhyaH	 wealthy	1	16
+AShu	 very soon	1	2
+AbhAsaM	 the original source	1	13
+AbharaNaM	 ornaments	1	11
+AbrahmabhuvanAt.h	 up to the Brahmaloka planet	1	8	brahma
+AchAraH	 behavior	2	14, 16	mithyAchAraH, sudurAchAraH
+AchAryAH	 teachers	1	1
+AchAryAn.h	 teachers	1	1	yAn.h
+AchArya	 O teacher	1	1	AchAryaM
+AchAryaM	 the teacher	1	1	AchArya
+AchAryopAsanaM	 approaching a bona fide spiritual master	1	13	AsanaM, Asana
+AcharAn.h	 performing	1	3
+AcharataH	 acting	1	4	chara
+Acharati	 he does	2	3, 16	chara, charati, harati
+Adatte	 accepts	1	5
+Adau	 in the beginning	2	3, 4
+AdhAya	 resigning	2	5, 8	samAdhAya
+Adhatsva	 fix	1	12
+AdhipatyaM	 supremacy.	1	2
+Adi	 beginning	1	5
+AdiH	 the origin	4	10, 10, 10, 15
+AdiM	 the origin	2	9, 11
+AdidevaH	 the original Supreme God	1	11
+AdidevaM	 the original Lord	1	10	devaM
+Adikartre	 to the supreme creator	1	11
+AdityAn.h	 the twelve sons of Aditi	1	11	yAn.h
+AdityAnAM	 of the Adityas	1	10
+AdityaH	 the Adityas	1	11
+AdityagataM	 in the sunshine	1	15	agata
+AdityavarNaM	 luminous like the sun	1	8	varNaM, varNa
+Adityavat.h	 like the rising sun	1	5
+Adya	 immediately	1	11
+AdyaM	 original.	4	8, 11, 11, 15
+AgachChet.h	 one should come	1	3
+Agama	 appearing	1	2
+Agame	 on the arrival	2	8, 8	aharAgame, rAtryAgame
+AgatAH	 attained.	1	4	samAgatAH, gatAH
+AgataH	 having attained	1	14	gataH
+AhArAH	 eating	1	4
+AhAra	 eating	1	6	AhAraH, nirAhArasya
+AhAraH	 eating	3	17, 17, 17	AhAra
+Aha	 said	1	1
+Ahave	 in the fight	1	1
+Aho	 or else	1	17
+AhuH	 are said	6	3, 4, 8, 10, 14, 16
+AjyaM	 melted butter	1	9	tyAjyaM, rAjyaM
+AkAshaM	 the sky	1	13
+AkAshasthitaH	 situated in the sky	1	9	sthitaH
+AkR^itIni	 forms	1	11
+AkhyAhi	 please explain	1	11
+AkhyAtaM	 described	1	18
+Alasya	 laziness	1	18
+Amaya	 disease	1	17	anAmayaM, bhrAmayan.h
+Amla	 sour	1	17
+AnanaM	 mouths	1	11
+ApUrya	 covering	1	11
+ApaH	 water	3	2, 2, 7
+ApannAH	 gaining	1	16
+ApannaM	 achieved	1	7	annaM
+Apnoti	 achieves	6	2, 3, 4, 5, 18, 18	avApnoti
+Apnuvanti	 attain	1	8	prApnuvanti
+ApnuyAM	 may have.	1	3
+AptuM	 afflicts one with	2	5, 12	avAptuM
+ApuryamANaM	 always being filled	1	2
+ArAdhanaM	 for the worship	1	7	dhanaM
+ArUDhAni	 being placed	1	18
+ArUDhasya	 of one who has attained	1	6
+Arabhate	 begins	1	3	prArabhate
+Arabhyate	 is begun	1	18
+Arambha	 endeavors	1	14	sarvArambhaH, sarvArambha, ArambhaH
+ArambhaH	 endeavor	1	14	Arambha, sarvArambhaH
+ArhAH	 deserving	1	1
+ArjavaM	 simplicity	4	13, 16, 17, 18
+Arogya	 health	1	17
+ArtaH	 the distressed	1	7
+ArurukShoH	 who has just begun yoga	1	6
+AsAdya	 attaining	1	9
+AsInaH	 situated	1	14	udAsInaH
+AsIta	 does remain still	3	2, 2, 6
+AsaM	 exist	1	2
+AsaktamanAH	 mind attached	1	7
+Asana	 in sitting	1	11	kamalAsanasthaM, AsanaM, AchAryopAsanaM
+AsanaM	 seat	1	6	Asana, AchAryopAsanaM
+Asane	 on the seat	1	6
+AshApAsha	 entanglements in a network of hope	1	16
+AshayasthitAH	 situated within the heart	1	10	sthitAH
+AshcharyANi	 all the wonders	1	11
+AshcharyamayaM	 wonderful	1	11
+Ashcharyavat.h	 as amazing	3	2, 2, 2
+Ashrayet.h	 must come upon	1	1
+AshritAH	 accepting.	2	7, 9	shritAH, upAshritAH
+AshritaH	 taking refuge	2	12, 15	anAshritaH, samupAshritaH
+AshritaM	 assuming	1	9
+Ashritya	 taking shelter of	3	7, 16, 18	upAshritya, vyapAshritya
+AshvAsayAmAsa	 encouraged	1	11
+Asina	 by the weapon	1	4	AsinaM, AsinaH
+AsinaH	 eaters	1	3	Asina
+AsinaM	 situated	1	9	Asina
+Aste	 remains	2	3, 5
+AsthAya	 following	1	7
+AsthitAH	 situated	1	3	sthitAH
+AsthitaH	 being situated	4	5, 6, 7, 8	sthitaH
+AstikyaM	 religiousness	1	18
+AsurI	 demoniac qualities	1	16	AsurIM, AsurIShu
+AsurIM	 atheistic	3	9, 16, 16	AsurI
+AsurIShu	 demoniac	1	16	AsurI
+AsuraH	 demoniac	2	16, 16
+AsuraM	 demonic	2	7, 16
+AsuranishchayAn.h	 demons.	1	17	yAn.h
+AtatAyinaH	 aggressors	1	1
+AtiShTha	 be situated	1	4
+AtmA	 soul	18	3, 3, 4, 4, 6, 6, 6, 6, 6, 6, 6, 6, 9, 10, 11, 13, 13, 15
+AtmAnaM	 the mind	18	3, 4, 6, 6, 6, 6, 6, 6, 6, 9, 10, 11, 11, 13, 13, 13, 18, 18
+AtmAni	 in the pure state of the soul	1	2
+AtmAsambhavitAH	 self-complacent	1	16	bhavitA
+Atma	 of the self	5	5, 10, 16, 17, 18
+AtmabhAva	 within their hearts	1	10	bhAva
+AtmabhUtAtmA	 compassionate	1	5
+Atmaiva	 the very mind	2	6, 7
+AtmakAraNAt.h	 for sense enjoyment.	1	3	raNAt.h
+AtmakaM	 consisting of	1	18	rAgAtmakaM
+AtmamAyayA	 by My internal energy.	1	4	mAyayA
+AtmanA	 by the purified mind	10	2, 3, 6, 6, 6, 6, 6, 10, 13, 13	yatAtmanAH, antarAtmanA, viditAtmanAM
+AtmanaH	 of the person.	15	4, 4, 5, 6, 6, 6, 6, 6, 8, 10, 16, 16, 16, 17, 18	prayatAtmanaH, manaH, mahAtmanaH, anAtmanaH, jitAtmanaH
+Atmani	 in himself	10	3, 4, 4, 5, 6, 6, 6, 6, 13, 15
+AtmaratiH	 taking pleasure in the self	1	3	aratiH
+Atmasa.nsthaM	 placed in transcendence	1	6
+Atmasa.nstutiH	 and praise of himself	1	14	stutiH
+Atmasa.nyama	 of controlling the mind	1	4	sa.nyama
+AtmatR^iptaH	 self-illuminated	1	3	tR^ipta, tR^iptaH
+AtmavAn.h	 established in the self.	1	2	yatAtmavAn.h
+AtmavantaM	 situated in the self	1	4	antaM
+AtmavashyaiH	 under one's control	1	2	vashya
+AtmavibhUtayaH	 personal opulences	1	10	vibhUtayaH, bhUta
+AtmavinigrahaH	 self-control	1	13	vinigrahaH, nigrahaH
+AtmayogAt.h	 by My internal potency	1	11	yogAt.h
+Attha	 have spoken	1	11
+AtyantikaM	 supreme	1	6
+AvR^itA	 covered	1	18	AvR^itAH
+AvR^itAH	 covered.	1	18	AvR^itA
+AvR^itaH	 is covered	1	3	samAvR^itaH
+AvR^itaM	 is covered.	3	3, 3, 5	R^itaM, apAvR^itaM
+AvR^ittiM	 return	1	8	apunarAvR^ittiM, anAvR^ittiM
+AvR^itya	 covering	3	3, 13, 14
+Avartate	 comes back	1	8	vartate
+AvartinaH	 returning	1	8
+AvayoH	 of ours	1	18
+Aveshita	 fixed	1	12
+Aveshya	 establishing	2	8, 12
+AviShTaH	 overwhelmed	1	1	iShTa, vismayAviShTaH, samAviShTaH, iShTaH
+AviShTaM	 overwhelmed	1	2	iShTa, iShTaM
+Avishya	 entering	2	15, 15
+Avriyate	 is covered	1	3
+AyuH	 duration of life	1	17
+AyudhAnAM	 of all weapons	1	10
+AyudhaM	 weapons	1	11
+ChalayatAM	 of all cheats	1	10
+ChandA.nsi	 the Vedic hymns	1	15
+ChandasAM	 of all poetry	1	10
+ChandobhiH	 by Vedic hymns	1	13
+ChettA	 remover	1	6
+ChettuM	 to dispel	1	6
+Chindanti	 can cut to pieces	1	2
+Chinna	 having torn off	3	5, 6, 18	sa~nChinna
+ChittvA	 cutting off	1	4
+Chittva	 cutting	1	15
+IdR^iShaM	 like this.	2	2, 6
+Ihante	 they desire	1	16
+Ihate	 he aspires	1	7
+IkShaNaM	 eyes	1	2	kShaNaM
+IkShate	 does see	2	6, 18
+IshaM	 Lord Siva	2	11, 11
+Ishvara	 of leadership	1	18	IshvaraM, anIshvaraM, IshvaraH
+IshvaraH	 the Supreme Lord	5	4, 15, 15, 16, 18	Ishvara
+IshvaraM	 the Supersoul	1	13	Ishvara, anIshvaraM
+OM	 the combination of letters om (omkara)	3	8, 17, 17
+OMkAra	 the syllable om	1	9
+R^iShayaH	 those who are active within	2	5, 10
+R^iShibhiH	 by the wise sages	1	13
+R^iShin.h	 great sages	1	11
+R^ichChati	 one attains.	2	2, 5	ichChati
+R^iddhaM	 prosperous	1	2	vivR^iddhaM, samR^iddhaM
+R^ik.h	 the Rg Veda	1	9	yAdR^ik.h, idR^ik.h
+R^itUnAM	 of all seasons	1	10
+R^itaM	 truth	1	10	AvR^itaM, bhaktyupahR^itaM, asatkR^itaM, amR^itaM, kR^itaM, apAvR^itaM, puNyakR^itaM, sukR^itaM, udAhR^itaM, smR^itaM, mR^itaM
+R^ite	 without, except for	1	11	mahIkR^ite, kR^itena, dhR^iteH, prakR^iteH, sukR^itaduShkR^ite, akR^itena
+ShaNmAsAH	 the six months	2	8, 8
+ShaShThANi	 the six	1	15
+UrdhvaM	 upwards	2	14, 15
+UrdhvamUlaM	 with roots above	1	15	mUlaM
+a		1	1
+a.nsha	 a part	1	10	asa.nshayaM, asa.nshayaH, sa.nshayaH, sa.nshayaM, sa.nshayasya, a.nshaH, sa.nshaya
+a.nshaH	 fragmental particle	1	15	a.nsha
+a.nshena	 part	1	10
+a.nshumAn.h	 radiant	1	10
+aNIyA.nsaM	 smaller	1	8
+aNoH	 than the atom	1	8
+aShTadhA	 eightfold.	1	7
+abhAShata	 began to speak.	1	11
+abhAvaH	 changing quality	2	2, 10	svabhAvaH, bhAva, prabhAvaH, bhAvaH, vimUDhabhAvaH
+abhAvayataH	 of one who is not fixed	1	2	bhAva, yataH
+abhaktAya	 to one who is not a devotee	1	18
+abhavat.h	 became.	1	1	bhava
+abhayaM	 fearlessness	2	10, 16	bhayaM, bhaya
+abhaye	 and fearlessness	1	18
+abhibhUya	 surpassing	1	14
+abhibhavAt.h	 having become predominant	1	1
+abhibhavati	 transforms	1	1	bhavati, bhava
+abhidhAsyati	 explains	1	18
+abhidhIyate	 is called	3	13, 17, 18
+abhihitA	 described	1	2
+abhijAnAti	 does know	3	4, 7, 18	jAnAti
+abhijAnanti	 they know	1	9
+abhijAtaH	 born of	1	16
+abhijAtasya	 of one who is born of	2	16, 16	jAtasya, tasya
+abhijAyate	 becomes manifest.	3	2, 6, 13	jAyate
+abhijanavAn.h	 surrounded by aristocratic relatives	1	16
+abhikrama	 in endeavoring	1	2
+abhimanaH	 conceit	1	16	manaH
+abhimukhAH	 towards	1	11
+abhinandatI	 praises	1	2
+abhipravR^ittaH	 being fully engaged	1	4	pravR^ittaH
+abhirakShantu	 should give support	1	1
+abhirakShitaM	 perfectly protected	2	1, 1	akShi, hitaM
+abhirataH	 following	1	18
+abhisandhAya	 desiring	1	17	anabhisandhAya
+abhitaH	 assured in the near future	1	5
+abhivijvalanti	 and are blazing.	1	11
+abhiyuktAnAM	 fixed in devotion	1	9
+abhraM	 cloud	1	6
+abhyAsAt.h	 than practice	2	12, 18
+abhyAsayoga	 by practice	1	8
+abhyAsayogena	 by the practice of devotional service	1	12	yogena
+abhyAse	 in practice	1	12	abhyAsena
+abhyAsena	 by practice	2	6, 6	abhyAse
+abhyadhikaH	 greater	1	11	adhikaH
+abhyahanyanta	 were simultaneously sounded	1	1
+abhyanunAdayan.h	 resounding.	1	1
+abhyarchya	 by worshiping	1	18
+abhyasUyakAH	 envious.	1	16
+abhyasUyantaH	 out of envy	1	3	antaH
+abhyasUyati	 is envious.	1	18
+abhyasanaM	 practice	1	17
+abhyutthAnaM	 predominance	1	4
+abravIt.h	 spoke.	3	1, 1, 4
+abuddhayaH	 less intelligent persons	1	7	buddhayaH, alpabuddhayaH, samabuddhayaH
+achApalaM	 determination	1	16
+achChedyaH	 unbreakable	1	2
+achalA	 unflinching	1	2
+achalaH	 immovable	1	2
+achalaM	 unmoving	3	6, 7, 12	chalaM
+achalapratiShThaM	 steadily situated	1	2	prati, apratiShThaM
+achalena	 without its being deviated	1	8
+acharaM	 and not moving	2	11, 13	charaM, chara
+acharasya	 and nonmoving	1	11	chara
+achetasaH	 without KRiShNa consciousness.	3	3, 15, 17	prasannachetasaH, yuktachetasaH, chetasaH
+achintya	 inconceivable	1	8	achintyaH, achintyaM
+achintyaH	 inconceivable	1	2	achintya
+achintyaM	 inconceivable	1	12	achintya
+achireNa	 very soon	1	4
+achyuta	 O infallible one	3	1, 11, 18
+adAhyaH	 unable to be burned	1	2
+adR^iShTa	 that you have not seen	1	11	iShTa, adR^iShTapUrvaM
+adR^iShTapUrvaM	 never seen before	1	11	iShTa, adR^iShTa, pUrva
+adakShiNaM	 with no remunerations to the priests	1	17	akShi
+adambhitvaM	 pridelessness	1	13
+adarshaH	 mirror	1	3
+adbhuta	 wonderful	1	11	adbhutaM
+adbhutaM	 wonderful	4	11, 18, 18, 18	adbhuta, hutaM
+adesha	 at an unpurified place	1	17	desha
+adhaH	 down	4	14, 15, 15, 15
+adhamAM	 condemned	1	16
+adharma	 irreligion	1	1	paradharmaH, adharmaH, shAshvatadharmagoptA, svadharmaH, adharmaM, adharmasya, dharma, svadharmaM
+adharmaH	 irreligion	1	1	paradharmaH, svadharmaH, adharma, dharma
+adharmaM	 irreligion	2	18, 18	dharmaM, adharma, dharma, svadharmaM
+adharmasya	 of irreligion	1	4	dharmasya, adharma, dharma
+adhiShThAnaM	 sitting place	2	3, 18
+adhiShThAya	 being so situated	2	4, 15
+adhibhUtaM	 the material manifestation	2	8, 8	bhUtaM, bhUta
+adhidaivaM	 governing all the demigods	2	7, 8	daivaM
+adhidaivataM	 called adhidaiva	1	8
+adhigachChati	 attains.	8	2, 2, 4, 5, 5, 6, 14, 18	samadhigachChati, gachChati
+adhikAraH	 right	1	2
+adhikaH	 greater	3	6, 6, 6	abhyadhikaH
+adhikaM	 more	1	6
+adhikataraH	 very much	1	12
+adhiyaj~naH	 the Lord of sacrifice	2	8, 8	yaj~naH, aj~naH, yaj~na
+adhruvaM	 temporary.	1	17	dhruvaM
+adhyAtma	 with full knowledge of the self	4	3, 11, 13, 15	adhyAtmavidyA, adhyAtmaM
+adhyAtmaM	 transcendental	3	7, 8, 8	adhyAtma
+adhyAtmavidyA	 spiritual knowledge	1	10	adhyAtma, vidyA
+adhyakSheNa	 by superintendence	1	9
+adhyayanaiH	 or Vedic study	1	11
+adhyeShyate	 will study	1	18
+adrohaH	 freedom from envy	1	16
+adveShTA	 nonenvious	1	12
+adya	 today	2	4, 16
+agata	 not past	1	2	antagataM, jagataH, sarvagataH, sarvagataM, AdityagataM
+aghAyuH	 whose life is full of sins	1	3
+aghaM	 grievous sins	1	3
+agnau	 in the fire of consummation	4	4, 4, 4, 15
+agni	 by the fire	1	4
+agniH	 fire	6	4, 6, 8, 9, 11, 18
+agniShu	 in the fires	2	4, 4
+agraM	 at the tip	1	6	samagraM
+agre	 in the beginning	3	18, 18, 18
+aha	 said	1	11
+ahaH	 day	3	8, 8, 8
+ahaM	 I	102	1, 1, 2, 2, 2, 3, 3, 3, 3, 4, 4, 4, 4, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 12, 14, 14, 14, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 18, 18, 18, 18
+ahaitukaM	 without cause	1	18	kAmahaitukaM
+aharAgame	 at the beginning of the day	1	8	Agame
+ahatvA	 not killing	1	2	hatvA
+aha~NkArAt.h	 by false ego	1	18
+aha~NkAra	 and egoism	1	17	niraha~NkAraH, aha~NkAraH, aha~NkAraM, aha~NkAravimUDha, anaha~NkAraH
+aha~NkAraH	 false ego	2	7, 13	niraha~NkAraH, aha~NkAra, anaha~NkAraH
+aha~NkAraM	 false ego	3	16, 18, 18	aha~NkAra
+aha~NkAravimUDha	 bewildered by false ego	1	3	vimUDha, mUDha, aha~NkAra
+aha~NkR^itaH	 of false ego	1	18	kR^ita
+ahi.nsA	 nonviolence	4	10, 13, 16, 17
+ahitAH	 enemies	2	2, 16
+aho	 alas	1	1
+ahorAtra	 day and night	1	8
+aikAntikasya	 ultimate	1	14
+airAvataM	 Airavata	1	10
+aishvaraM	 divine	1	11	rUpamaishvaraM, yogamaishvaraM
+aishvarya	 and opulence	2	2, 2
+ajAnantaH	 without knowing	3	7, 9, 13	antaH
+ajAnatA	 without knowing	1	11
+ajaH	 unborn	2	2, 4
+ajaM	 unborn	4	2, 7, 10, 10
+ajasraM	 forever	1	16
+aj~nAnAM	 of the foolish	1	3	yaj~nAnAM
+aj~nAna	 by ignorance	2	16, 18	aj~nAnajaM, aj~nAnasambhUtaM, j~nAna, aj~nAnaM, sarvaj~nAna, tattvaj~nAna
+aj~nAnaM	 nescience	5	5, 13, 14, 14, 16	j~nAnaM, j~nAna, aj~nAna
+aj~nAnajaM	 due to ignorance	2	10, 14	j~nAna, aj~nAna
+aj~nAnasambhUtaM	 born of ignorance	1	4	j~nAna, bhUtaM, bhUta, sambhUtaM, aj~nAna
+aj~nAnena	 by ignorance	1	5	j~nAnena, j~nAne
+aj~naH	 a fool who has no knowledge in standard scriptures	1	4	yaj~naH, kShetraj~naH, sthitapraj~naH, japayaj~naH, adhiyaj~naH, j~nAnayaj~naH
+akAraH	 the first letter	1	10
+akArya	 and forbidden activities	1	16	kArya, akAryaM
+akAryaM	 what ought not to be done	1	18	kAryaM, kArya, akArya
+akArye	 and what ought not to be done	1	18	kArye
+akIrti	 infamy	1	2	samprakIrtitaH, akIrtiH, akIrtiM
+akIrtiH	 ill fame	1	2	akIrti, kIrtiH
+akIrtiM	 infamy	1	2	akIrti, kIrtiM
+akR^itAtmAnaH	 those without self-realization	1	15
+akR^itabuddhitvAt.h	 due to unintelligence	1	18	buddhi, kR^ita, hitvA
+akR^itena	 without discharge of duty	1	3	kR^itena, R^ite
+akR^itsnavidAH	 persons with a poor fund of knowledge	1	3
+akSharANAM	 of letters	1	10
+akSharAt.h	 beyond the infallible	1	15
+akShara	 from the Supreme Brahman (Personality of Godhead)	1	3	akSharaM, akSharaH, yakSharakShasAM, yakSharakShA.nsi, ekamakSharaM
+akSharaH	 infallible	3	8, 15, 15	kSharaH, akShara
+akSharaM	 indestructible	6	8, 8, 11, 11, 12, 12	akShara, ekamakSharaM, kSharaM
+akShayaH	 eternal	1	10
+akShayaM	 unlimited	1	5	kShayaM
+akShi	 eyes	1	13	dakShiNAyanaM, pakShiNAM, adakShiNaM, abhirakShitaM
+akalmaShaM	 freed from all past sinful reactions.	1	6
+akarma	 inaction	2	4, 4	akarmaNaH, kR^itsnakarmakR^it.h, guNakarmasu, svakarma, akarmaNi, akarmakR^it.h, janmakarmaphalapradAM, guNakarma, puNyakarmaNAM, karma, svakarmaNA, sarvakarma
+akarmaNaH	 than no work	3	3, 3, 4	karmaNaH, karma, akarma
+akarmaNi	 in not doing prescribed duties.	2	2, 4	karmaNi, karma, akarma
+akarmakR^it.h	 without doing something	1	3	kR^itsnakarmakR^it.h, karma, akarma
+akartAraM	 as the nondoer	2	4, 13	kartAraM, kartA
+akhilaM	 in totality	3	4, 7, 15
+akledyaH	 insoluble	1	2
+akriyAH	 without duty.	1	6	kriyAH
+akrodhaH	 freedom from anger	1	16	krodha, krodhaH
+akurvata	 did they do	1	1
+akushalaM	 inauspicious	1	18	kusha
+alasaH	 lazy	1	18
+alasya	 indolence	1	14
+aloluptvaM	 freedom from greed	1	16
+alpaM	 very meager	1	18	svalpaM
+alpabuddhayaH	 the less intelligent	1	16	abuddhayaH, buddhayaH
+alpamedhasAM	 of those of small intelligence	1	7
+amAnitvaM	 humility	1	13
+amI	 all those	3	11, 11, 11
+amR^ita	 nectar	1	18	amR^itaM, amR^itattvAya, amR^itasya, amR^itabhujaH
+amR^itaM	 immortality	5	9, 10, 12, 13, 14	R^itaM, amR^ita, mR^itaM
+amR^itabhujaH	 those who have tasted such nectar	1	4	amR^ita
+amR^itasya	 of the immortal	1	14	tasya, amR^ita, mR^itasya
+amR^itattvAya	 for liberation	1	2	amR^ita
+amR^itodbhavaM	 produced from the churning of the ocean	1	10	bhava
+amR^itopamaM	 just like nectar	1	18
+amUDhAH	 unbewildered	1	15	mUDhAH
+amalAn.h	 pure	1	14
+amarSha	 distress	1	12
+ambara	 dresses	1	11
+ambhasA	 by the water.	1	5
+ambhasi	 on the water.	1	2
+ambuvegAH	 waves of the waters	1	11	vegAH
+amedhyaM	 untouchable	1	17
+amitavikramaH	 and unlimited force	1	11
+amutra	 in the next life	1	6
+anAdi	 without beginning	3	11, 13, 13	anAdiM, anAditvAt.h
+anAdiM	 without beginning	1	10	anAdi
+anAditvAt.h	 due to eternity	1	13	anAdi
+anAmayaM	 without miseries.	2	2, 14	Amaya
+anArambhAt.h	 by nonperformance	1	3
+anArya	 persons who do not know the value of life	1	2
+anAshinaH	 never to be destroyed	1	2
+anAshritaH	 without taking shelter	1	6	AshritaH
+anAtmanaH	 of one who has failed to control the mind	1	6	manaH, AtmanaH
+anAvR^ittiM	 no return	2	8, 8	AvR^ittiM
+anIshvaraM	 with no controller	1	16	IshvaraM, Ishvara
+anabhisandhAya	 without desiring	1	17	abhisandhAya
+anabhishva~NgaH	 being without association	1	13
+anabhisnehaH	 without affection	1	2
+anagha	 O sinless one	3	3, 14, 15
+anaha.nvAdi	 without false ego	1	18
+anaha~NkAraH	 being without false egoism	1	13	aha~NkAraH, aha~NkAra
+analaH	 fire	1	7
+analena	 by the fire	1	3
+anantAH	 unlimited	1	2
+ananta	 unlimited	3	11, 11, 11	anantaM, anantaH, anantarUpa, anantavijayaM, anantarUpaM, tadanantaraM, anantaraM, anantavIryA
+anantaH	 Ananta	1	10	ananta, antaH
+anantaM	 unlimited	2	11, 11	ananta, antaM
+anantarUpa	 O unlimited form.	1	11	anantarUpaM, ananta
+anantarUpaM	 unlimited form	1	11	anantarUpa, rUpaM, ananta
+anantaraM	 thereafter.	1	12	antaraM, tadanantaraM, ananta
+anantavIryA	 unlimited potency	1	11	ananta
+anantavijayaM	 the conch named Ananta-vijaya	1	1	vijayaM, ananta
+ananyAH	 having no other object	1	9
+ananyabhAk.h	 without deviation	1	9
+ananyachetAH	 without deviation of the mind	1	8	chetAH
+ananyamanasaH	 without deviation of the mind	1	9	manasaH
+ananyayA	 unalloyed, undeviating	2	8, 11	anyayA
+ananyayogena	 by unalloyed devotional service	1	13	yogena
+ananyena	 without division	1	12	anyena
+anapekShaH	 neutral	1	12
+anapekShya	 without considering the consequences	1	18
+anasUyaH	 not envious	1	18
+anasUyantaH	 without envy	1	3	antaH
+anashnataH	 abstaining from eating	1	6	ashnataH
+anasuyave	 to the nonenvious	1	9
+anavAptaM	 wanted	1	3
+anavalokayAn.h	 not looking	1	6	yAn.h
+anayoH	 of them	1	2
+aneka	 after many, many	8	6, 11, 11, 11, 11, 11, 11, 16	anekadhA
+anekadhA	 into many	1	11	aneka
+anena	 by this	4	3, 3, 9, 11
+aniShTa	 and undesirable	1	13	iShTa, aniShTaM
+aniShTaM	 leading to hell	1	18	aniShTa, iShTa, iShTaM
+anichChan.h	 without desiring	1	3
+aniketaH	 having no residence	1	12
+anirdeshyaM	 indefinite	1	12
+anirviNNachetasa	 without deviation	1	6
+anityaH	 nonpermanent	1	2	nityaH, nitya
+anityaM	 temporary	1	9	nityaM, nitya
+annAt.h	 from grains	1	3
+anna	 of food grains	1	3
+annaM	 foodstuff	1	15	upapannaM, ApannaM, prapannaM
+anta	 end	1	5
+antaH	 conclusion	9	2, 10, 10, 10, 10, 11, 13, 15, 17	anasUyantaH, anantaH, pradviShantaH, bhAvayantaH, antaHsthAni, shraddhAvantaH, chintayantaH, kA~NkShantaH, ajAnantaH, antavantaH, dhyAyantaH, bhavantaH, ichChantaH, bodhayantaH, namasyantaH, vantaH, kIrtayantaH, nindantaH, karShayantaH, yatantaH, yajantaH, abhyasUyantaH, santaH, kathayantaH
+antaHsthAni	 within	1	8	sthAni, antaH
+antaM	 or end	2	11, 18	tapantaM, anantaM, atyantaM, dIptimantaM, paryantaM, bhavantaM, utkrAmantaM, tiShThantaM, AtmavantaM, avinashyantaM, viShIdantaM
+antagataM	 completely eradicated	1	7	agata
+antakAle	 at the end of life	2	2, 8
+antarArAmaH	 actively enjoying within	1	5	rAmaH
+antarAtmanA	 within himself	1	6	AtmanA
+antaraM	 between	2	11, 13	tadanantaraM, anantaraM
+antare	 between	1	5
+antarjyotiH	 aiming within	1	5	jyotiH
+antarsukhaH	 happy from within	1	5	sukha, sukhaH
+antavantaH	 perishable	1	2	vantaH, antaH
+antavat.h	 perishable	1	7
+ante	 after	2	7, 8
+antike	 near	1	13
+anuShajjate	 one necessarily engages	2	6, 18
+anubandhIni	 bound	1	15
+anubandhaM	 of future bondage	1	18	bandhaM
+anubandhe	 at the end	1	18
+anuchintayan.h	 constantly thinking of.	1	8
+anudarshanaM	 observing	1	13	darshanaM
+anudvegakaraM	 not agitating	1	17	karaM
+anudvignamanAH	 without being agitated in mind	1	2
+anukampArthaM	 to show special mercy	1	10	pArtha
+anulepanaM	 smeared with	1	11
+anumantA	 permitter	1	13
+anupakAriNe	 irrespective of return	1	17
+anupashyAmi	 do I foresee	1	1	pashyAmi
+anupashyanti	 can see	1	15	pashya, pashyanti
+anupashyati	 one tries to see through authority	2	13, 14	pashyati, pashya
+anuprapannAH	 following	1	9
+anurajyate	 is becoming attached	1	11
+anusantatAni	 extended	1	15
+anushAsitAraM	 the controller	1	8
+anushochanti	 lament	1	2	hanti
+anushochituM	 to lament	1	2	shochituM
+anushushruma	 I have heard by disciplic succession.	1	1
+anusmara	 go on remembering	1	8	anusmaran.h
+anusmaran.h	 remembering	1	8	anusmara, smaran.h
+anusmaret.h	 always thinks of	1	8
+anutiShThanti	 execute regularly	2	3, 3	tiShThanti, hanti
+anuttamAM	 the highest	1	7
+anuttamaM	 the finest.	1	7	uttamaM
+anuvartante	 would follow	2	3, 4	vartante
+anuvartate	 follows in the footsteps.	1	3	vartate
+anuvartayati	 adopt	1	3
+anuvidhIyate	 becomes constantly engaged	1	2	vidhIyate
+anvashochaH	 you are lamenting	1	2
+anvichCha	 try for	1	2
+anvitAH	 absorbed	3	16, 17, 17
+anyAM	 another	1	7	upahanyAM
+anyAn.h	 others	1	11	yAn.h
+anyAni	 different	1	2
+anyAyena	 illegally	1	16
+anya	 to other	2	7, 9
+anyaH	 another	9	2, 2, 4, 6, 8, 11, 15, 16, 18	parjanyaH
+anyaM	 other	1	14	pA~nchajanyaM
+anyat.h	 any other	6	2, 2, 7, 7, 11, 16	yat.h
+anyathA	 other.	1	13	yathA
+anyatra	 otherwise	1	3	yatra
+anyayA	 by the other	1	8	ananyayA
+anye	 others	7	1, 4, 4, 9, 13, 13, 17
+anyebhyaH	 from others	1	13	ebhyaH
+anyena	 by another	1	11	ananyena, tvadanyena
+apAna	 and the air going downward	2	4, 15	apAnaM
+apAnaM	 the air going downward	1	4	apAna
+apAne	 in the air which acts downward	1	4	udapAne
+apAtrebhyaH	 to unworthy persons	1	17	ebhyaH, pAtre
+apAvR^itaM	 wide open	1	2	AvR^itaM, R^itaM
+apAyinaH	 disappearing	1	2
+apR^ithivyoH	 to the earth	1	11
+apahR^ita	 stolen	1	7	apahR^itachetasAM, hR^ita
+apahR^itachetasAM	 bewildered in mind	1	2	apahR^ita, chetasAM, chetasA, hR^ita
+apaishunaM	 aversion to fault-finding	1	16
+apalAyanaM	 not fleeing	1	18
+apamAnayoH	 and dishonor.	3	6, 12, 14
+apanudyAt.h	 can drive away	1	2
+aparA	 inferior	1	7	aparAjitaH, aparAn.h, svargaparAH, aparANi
+aparANi	 others	1	2	aparA, parANi
+aparAjitaH	 who had never been vanquished	1	1	aparA, jitaH
+aparAn.h	 others	1	16	aparA
+aparaM	 junior	2	4, 6	paraM
+aparaspara	 without cause	1	16
+apare	 some others	8	4, 4, 4, 4, 4, 4, 13, 18
+aparigrahaH	 free from the feeling of possessiveness.	1	6	parigrahaH
+aparihArye	 of that which is unavoidable	1	2
+aparimeyaM	 immeasurable	1	16
+aparyAptaM	 immeasurable	1	1	paryAptaM
+apashyat.h	 he could see	2	1, 11	pashya, yat.h
+aphalAkA~NkShibhiH	 by those devoid of desire for result	2	17, 17
+aphalaprepsunA	 by one without desire for fruitive result	1	18	phala
+api	 including.	91	1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 9, 9, 9, 9, 9, 9, 9, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 13, 13, 13, 13, 13, 13, 13, 15, 15, 16, 16, 16, 17, 17, 17, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18
+apohanaM	 forgetfulness	1	15
+aprApya	 failing to attain	3	6, 9, 16	prApya
+apradAya	 without offering	1	3
+aprakAshaH	 darkness	1	14	prakAshaH
+aprameyaM	 immeasurable.	2	11, 11
+aprameyasya	 immeasurable	1	2	yasya
+apratIkAraM	 without being resistant	1	1
+apratiShThaH	 without any position	1	6	prati
+apratiShThaM	 without foundation	1	16	prati, achalapratiShThaM
+apratimaprabhAva	 O immeasurable power.	1	11	prati, bhAva, prabhA
+apravR^ittiH	 inactivity	1	14	pravR^ittiH
+apriyaH	 and the undesirable	1	14	priya, priyaH
+apriyaM	 the unpleasant	1	5	priya, priyaM
+apsu	 in water	1	7
+apunarAvR^ittiM	 to liberation	1	5	AvR^ittiM
+apyayau	 disappearance	1	11
+arAgadveShataH	 without love or hatred	1	18	dveSha, hataH
+aratiH	 being without attachment	1	13	AtmaratiH
+archituM	 to worship	1	7
+arhasi	 you deserve.	10	2, 2, 2, 2, 2, 3, 6, 10, 11, 16
+arhati	 is able.	1	2
+ari	 enemies	2	6, 14
+arisUdana	 O killer of the enemies.	1	2
+arjuna	 Arjuna said	44	1, 1, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 4, 5, 6, 6, 6, 6, 6, 7, 7, 8, 8, 8, 9, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 12, 13, 14, 17, 18, 18, 18, 18, 18	arjunayoH, arjunaH, arjunaM
+arjunaH	 Arjuna	1	1	arjuna
+arjunaM	 unto Arjuna	1	11	arjuna
+arjunayoH	 and Arjuna	1	18	arjuna
+arka	 of the sun	1	11
+arpaNaM	 contribution	2	4, 9
+arpita	 surrendering	2	8, 12
+arthArthI	 one who desires material gain	1	7
+artha	 gain	4	2, 3, 13, 16	arthaM, arthaH, atyarthaM, arthan.h, madarthaM, asamarthaH
+arthaH	 is meant	2	2, 3	artha, asamarthaH
+arthaM	 for the sake	4	3, 16, 17, 17	atyarthaM, artha, madarthaM
+arthan.h	 and economic development	1	18	artha
+arthe	 for the sake	2	1, 2	madarthe
+arthiyaM	 meant	1	17
+aryamA	 Aryama	1	10
+asR^iShTAnnaM	 without distribution of prasAdam	1	17
+asUn.h	 life	2	2, 2
+asa.nnyasta	 without giving up	1	6	sa.nnyasta
+asa.nshayaH	 beyond a doubt.	2	8, 18	a.nsha, sa.nshayaH, sa.nshaya
+asa.nshayaM	 undoubtedly	2	6, 7	a.nsha, sa.nshayaM, sa.nshaya
+asa.nyatA	 unbridled	1	6
+asaktAtmA	 one who is not attached	1	5
+asakta	 attached	1	12	asaktabuddhiH, asaktaH, asaktaM
+asaktaH	 without attachment	4	3, 3, 3, 3	asakta
+asaktaM	 without attraction	2	9, 13	asakta, saktaM
+asaktabuddhiH	 having unattached intelligence	1	18	buddhi, buddhiH, asakta
+asaktiH	 being without attachment	1	13
+asamarthaH	 unable	1	12	arthaH, artha
+asammUDhAH	 unbewildered	1	5	sammUDhAH, mUDhAH
+asammUDhaH	 undeluded	2	10, 15	sammUDha, mUDha, mUDhaH
+asammohaH	 freedom from doubt	1	10	mohaH, sammohaH
+asapatnaM	 without rival	1	2
+asat.h	 matter	4	9, 13, 16, 17	sadasat.h, sat.h
+asataH	 of the nonexistent	1	2	sataH
+asatkR^itaH	 dishonored	1	11	kR^ita
+asatkR^itaM	 without respect	1	17	R^itaM, kR^itaM, kR^ita
+asatyaM	 unreal	1	16	satyaM
+asau	 that	2	11, 16
+asa~NgashastreNa	 by the weapon of detachment	1	15	sa~Nga
+ashAntasya	 of the unpeaceful	1	2	tasya, prashAntasya
+ashAshvataM	 temporary	1	8	shAshvataM
+ashAstra	 not in the scriptures	1	17	shAstra
+ashaktaH	 unable	1	12
+ashamaH	 uncontrollable	1	14	shamaH
+ashastraM	 without being fully equipped	1	1	shastra
+ashayAt.h	 from their source.	1	15
+asheShANi	 all	1	4
+asheShataH	 completely	4	6, 6, 7, 18	hataH
+asheSheNa	 in detail	3	10, 18, 18
+ashma	 stone	2	6, 14	kashmalaM
+ashnAmi	 accept	1	9
+ashnAsi	 you eat	1	9
+ashnan.h	 eating	1	5
+ashnanti	 enjoy	1	9
+ashnataH	 of one who eats	1	6	anashnataH
+ashnute	 achieves	5	3, 5, 6, 13, 14
+ashoShyaH	 not able to be dried	1	2
+ashochyAn.h	 not worthy of lamentation	1	2	yAn.h
+ashrUpUrNAkula	 full of tears	1	2
+ashraddadhAnAH	 those who are faithless	1	9	shraddadhAnAH
+ashraddadhAnaH	 without faith in revealed scriptures	1	4
+ashraddhayA	 without faith	1	17	shraddhayA
+ashrauShaM	 have heard	1	18
+ashubhAn.h	 inauspicious	1	16	shubhAn.h
+ashubhAt.h	 from ill fortune.	2	4, 9
+ashubha	 and inauspicious	2	9, 12	shubha, ashubhaM
+ashubhaM	 evil	1	2	shubha, ashubha
+ashuchau	 unclean.	1	16	shuchau
+ashuchi	 to the unclean	1	16	ashuchiH
+ashuchiH	 unclean	1	18	shuchiH, ashuchi
+ashushrUShave	 to one who is not engaged in devotional service	1	18
+ashvAnAM	 among horses	1	10
+ashvatthAmA	 Asvatthama	1	1
+ashvatthaH	 the banyan tree	1	10
+ashvatthaM	 a banyan tree	2	15, 15
+ashvinau	 the two Asvinis	2	11, 11
+asi	 you are	12	4, 4, 10, 11, 11, 11, 11, 11, 12, 12, 16, 18
+asid.hdhyoH	 and failure	1	18	sid.hdhyasid.hdhyoH
+asiddhau	 failure	1	4	siddhau, siddha
+asitaH	 Asita	1	10	vyavasitaH
+asmAbhiH	 by us	1	1
+asmAkaM	 our	2	1, 1
+asmAn.h	 us	1	1
+asmAt.h	 these	1	1	kasmAt.h, tasmAt.h, yasmAt.h
+asmadIyaiH	 our	1	11
+asmi	 I am	38	7, 7, 7, 7, 7, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 15, 16, 18
+asmin.h	 in this	6	1, 2, 3, 8, 13, 16	yasmin.h, dehe.asmin.h, ekasmin.h, tasmin.h
+asthiraM	 unsteady	1	6	sthiraM, sthira
+asti	 there is	15	2, 2, 3, 4, 4, 6, 7, 8, 9, 10, 10, 11, 16, 16, 18
+astu	 there should be	3	2, 3, 11
+asukhaM	 full of miseries	1	9	sukhaM, sukha
+asura	 the demons	1	11
+asvargyaM	 which does not lead to higher planets	1	2
+asyAM	 in this	1	2	tasyAM, yasyAM
+asya	 of it	17	2, 2, 2, 2, 2, 3, 3, 3, 6, 9, 9, 11, 11, 11, 11, 13, 15
+atIndriyaM	 transcendental	1	6
+atItaH	 surpassed	3	4, 14, 15
+atItya	 transcending	1	14
+atIva	 very, very	1	12
+ata	 thereafter	1	12
+ataH	 hereafter.	4	2, 9, 13, 15
+atandritaH	 with great care	1	3
+atapaskAya	 to one who is not austere	1	18
+atattvArthavat.h	 without knowledge of reality	1	18
+atha	 thereupon	10	1, 1, 2, 2, 3, 11, 11, 12, 12, 18
+athau	 or in other words	1	4
+athavA	 or	3	6, 10, 11
+ati	 too	6	6, 6, 6, 6, 16, 18
+atirichyate	 becomes more.	1	2
+atitaranti	 transcend	1	13	taranti
+ativartate	 transcends.	2	6, 14	vartate
+atra	 here	8	1, 1, 4, 8, 8, 8, 10, 18
+atyAginAM	 for those who are not renounced	1	18
+atyantaM	 the highest	1	6	antaM
+atyarthaM	 highly	1	7	arthaM, artha
+atyeti	 surpasses	1	8
+atyuShNa	 very hot	1	17	uShNa
+auShadhIH	 vegetables	1	15
+auShadhaM	 healing herb	1	9
+aupamyena	 by comparison	1	6
+avAchya	 unkind	1	2
+avApnoti	 gets	3	15, 16, 18	Apnoti
+avApsyasi	 will gain.	4	2, 2, 2, 12
+avApsyatha	 you will achieve.	1	3
+avAptavyaM	 to be gained	1	3
+avAptuM	 to achieve	1	6	AptuM
+avApya	 achieving	1	2	avApyate
+avApyate	 is achieved.	1	12	avApya
+avaShTabhya	 entering into	2	9, 16
+avadhyaH	 cannot be killed	1	2
+avagachCha	 must know	1	10
+avagamaM	 understood	1	9
+avahAsArthaM	 for joking	1	11
+avajAnanti	 deride	1	9
+avaj~nAtaM	 without proper attention	1	17
+avanipAla	 of warrior kings	1	11
+avaraM	 abominable	1	2
+avasAdayet.h	 put into degradation	1	6
+avasaM	 automatically	1	9	uchchaiHshravasaM
+avashaH	 helplessly	4	3, 6, 8, 18
+avashiShyate	 remains.	1	7
+avasthAtuM	 to stay	1	1
+avasthitAH	 situated	4	1, 1, 2, 11	sthitAH
+avasthitAn.h	 arrayed on the battlefield	2	1, 1	vyavasthitAn.h, sthitAn.h, tAn.h
+avasthitaH	 situated.	2	9, 13	sthitaH
+avasthitaM	 situated	1	15	samavasthitaM, sthitaM, hitaM
+avatiShThate	 becomes established.	2	2, 6
+avatiShThati	 remains	1	14	tiShThati
+avekShe	 let me see	1	1
+avekShya	 considering	1	2
+avibhaktaM	 without division	2	13, 18	vibhaktaM, pravibhaktaM
+avidhipUrvakaM	 in a wrong way.	2	9, 16	pUrva
+avidvA.nsaH	 the ignorant	1	3
+avij~neyaM	 unknowable	1	13	j~neyaM
+avikAryaH	 unchangeable	1	2	kArya
+avikalpena	 without division	1	10
+avinAshi	 imperishable	1	2	avinAshinaM
+avinAshinaM	 indestructible	1	2	avinAshi
+avinashyantaM	 not destroyed	1	13	antaM
+avipashchitaH	 men with a poor fund of knowledge	1	2	vipashchitaH
+avyabhichAreNa	 without fail	1	14
+avyabhichAriNI	 without any break	1	13
+avyabhichAriNyA	 without any break	1	18
+avyaktA	 toward the unmanifested	1	12	avyaktAt.h, avyaktAdIni
+avyaktAdIni	 in the beginning unmanifested	1	2	avyaktA
+avyaktAt.h	 from the unmanifest	2	8, 8	avyaktA
+avyakta	 nonmanifested	3	2, 8, 12	vyakta, avyaktamUrtinA, avyaktaM, avyaktaH
+avyaktaH	 invisible	3	2, 8, 8	vyakta, avyakta
+avyaktaM	 nonmanifested	4	7, 12, 12, 13	vyakta, avyakta
+avyaktamUrtinA	 by the unmanifested form	1	9	vyakta, avyakta
+avyavasAyinAM	 of those who are not in KRiShNa consciousness.	1	2
+avyaya	 without deterioration	1	4	avyayaM, avyayaH, avyayasya, dravyayaj~nAH
+avyayaH	 inexhaustible	3	11, 13, 15	avyaya
+avyayaM	 immutable	17	2, 2, 4, 4, 7, 7, 7, 9, 9, 9, 11, 11, 14, 15, 15, 18, 18	avyaya
+avyayasya	 of the imperishable	2	2, 14	yasya, avyaya
+ayaM	 this	23	2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 4, 4, 4, 6, 7, 8, 11, 13, 15, 17
+ayaj~nasya	 for one who performs no sacrifice	1	4	yaj~na
+ayaneShu	 in the strategic points	1	1
+ayashaH	 infamy	1	10	yashaH
+ayathAvat.h	 imperfectly	1	18	yathA, yathAvat.h
+ayatiH	 the unsuccessful transcendentalist	1	6
+ayogataH	 without devotional service	1	5	gataH
+ayuktaH	 one who is not in KRiShNa consciousness	2	5, 18	yukta, uktaH, yuktaH, yogayuktaH, nityayuktaH, prayuktaH
+ayuktasya	 of one who is not connected (with KRiShNa consciousness)	2	2, 2	yukta, tasya, yuktasya
+a~NgAni	 limbs	1	2
+bAhu	 arms	2	11, 11
+bAhuM	 arms	1	11
+bAhyAn.h	 unnecessary	1	5	yAn.h
+bAhyasparsheShu	 in external sense pleasure	1	5
+bAlAH	 the less intelligent	1	5
+bIjaM	 the seed	3	7, 9, 10
+bIjapradaH	 the seed-giving	1	14
+bR^ihaspatiM	 Brhaspati	1	10
+bR^ihatsAma	 the BrAhat-sama	1	10
+babhUva	 became	1	2
+baddhAH	 being bound	1	16
+badhnAti	 conditions	1	14	nibadhnAti
+badhyate	 becomes entangled.	1	4	nibadhyate
+bahUdaraM	 many bellies	1	11
+bahUn.h	 many	1	2
+bahUnAM	 many	1	7
+bahUni	 many	2	4, 11
+bahavaH	 in great numbers	3	1, 4, 11
+bahiH	 external	2	5, 13
+bahu	 many	2	11, 11
+bahuda.nShTrA	 many teeth	1	11	da.nShTrA
+bahudhA	 in diversity	2	9, 13
+bahulAM	 various	1	2
+bahulAyAsaM	 with great labor	1	18
+bahumataH	 in great estimation	1	2	mataH
+bahunA	 many	1	10
+bahushAkhAH	 having various branches	1	2	shAkhAH
+bahuvidhAH	 various kinds of	1	4
+balAt.h	 by force	1	3
+bala	 by the force	2	17, 17
+balaM	 strength	5	1, 1, 7, 16, 18
+balavAn.h	 powerful	1	16
+balavat.h	 strong	1	6
+balavatAM	 of the strong	1	7
+bandhAt.h	 from bondage	1	5
+bandhUn.h	 relatives	1	1
+bandhaM	 bondage	1	18	anubandhaM, karmabandhaM
+bandhanaiH	 from the bondage	1	9
+bandhuH	 friend	2	6, 6
+bandhuShu	 and the relatives or well-wishers	1	6
+bata	 how strange it is	1	1
+bhAH	 light	1	11
+bhAShA	 language	1	2
+bhAShase	 speaking	1	2
+bhArata	 O descendant of Bharata	22	1, 2, 2, 2, 2, 2, 3, 4, 4, 7, 11, 13, 13, 14, 14, 14, 14, 15, 15, 16, 17, 18
+bhAsaH	 effulgence	2	11, 11
+bhAsayate	 illuminates	2	15, 15
+bhAsvatA	 glowing.	1	10
+bhAvAH	 natures	1	10	madbhAvAH
+bhAva	 state of being	2	8, 17	svabhAvajena, bhUtabhAvana, svabhAvaH, mad.hbhAvaM, svabhAvaniyataM, bhAvayantaH, AtmabhAva, vibhAvasau, abhAvayataH, apratimaprabhAva, bhUtabhAvanaH, svabhAvajA, bhAvaiH, bhAvayatA, bhAvayantu, svabhAva, madbhAvaM, pR^ithagbhAvaM, svabhAvajaM, bhAvaM, prabhAvaH, bhAvaH, vimUDhabhAvaH, abhAvaH, bhAvanA, bhAvasamanvitaH
+bhAvaH	 endurance	6	2, 7, 8, 8, 18, 18	svabhAvaH, bhAva, prabhAvaH, vimUDhabhAvaH, abhAvaH
+bhAvaM	 nature	5	7, 7, 8, 9, 18	mad.hbhAvaM, bhAva, madbhAvaM, pR^ithagbhAvaM
+bhAvaiH	 by the states of being	1	7	bhAva
+bhAvanA	 fixed mind (in happiness)	1	2	bhAva
+bhAvasamanvitaH	 with great attention.	1	10	samanvitaH, bhAva
+bhAvayantaH	 pleasing one another	1	3	bhAva, antaH
+bhAvayantu	 will please	1	3	bhAva
+bhAvayatA	 having pleased	1	3	bhAva
+bhAveShu	 natures cintyah	1	10
+bhAvitAH	 remembering.	1	8	yaj~nabhAvitAH
+bhIShma	 by Grandfather Bhishma	2	1, 1	bhIShmaM, bhIShmaH
+bhIShmaH	 Grandfather Bhishma	2	1, 11	bhIShma
+bhIShmaM	 unto Grandfather Bhishma	3	1, 2, 11	bhIShma
+bhImArjuna	 to Bhima and Arjuna	1	1
+bhIma	 by Bhima	1	1	bhImakarmA
+bhImakarmA	 one who performs herculean tasks	1	1	bhIma
+bhItAni	 out of fear	1	11
+bhItaM	 fearful	1	11
+bhItabhItaH	 fearful	1	11
+bhR^iguH	 Bhrigu	1	10
+bhUH	 become	1	2
+bhUmiH	 earth	1	7
+bhUtAnAM	 of living entities	9	2, 4, 5, 10, 10, 10, 11, 13, 18	sarvabhUtAnAM
+bhUtAnI	 all that are created	9	2, 3, 6, 7, 7, 8, 9, 15, 15	mahAbhUtAnI, sarvabhUtAnI
+bhUtAni	 living entities (that are born)	7	2, 2, 2, 3, 4, 7, 9	sarvabhUtAni
+bhUta	 of everything that be	5	9, 9, 11, 13, 13	bhUtabhAvana, jIvabhUtaH, bhUtabhartR^i, bhUtabhAvodbhavakaraH, aj~nAnasambhUtaM, bhUtasthaH, bhUtabhAvanaH, sAdhibhUta, sarvabhUtasthaM, vibhUtayaH, bhUtagrAmaH, bhUtagrAmaM, bhUtaM, brahmabhUtaH, sarvabhUta, bhUtasargau, sambhUtaM, brahmabhUtaM, adhibhUtaM, sarvabhUtahite, sarvabhUtasthitaM, bhUtabhR^it.h, AtmavibhUtayaH, bhUtagaNAn.h
+bhUtaM	 created being	1	10	aj~nAnasambhUtaM, bhUta, sambhUtaM, brahmabhUtaM, adhibhUtaM
+bhUtabhAvana	 O origin of everything	1	10	bhAva, bhUtabhAvanaH, bhUta
+bhUtabhAvanaH	 the source of all manifestations.	1	9	bhUtabhAvana, bhAva, bhUta
+bhUtabhAvodbhavakaraH	 producing the material bodies of the living entities	1	8	bhUta
+bhUtabhR^it.h	 the maintainer of all living entities	1	9	bhUta
+bhUtabhartR^i	 the maintainer of all living entities	1	13	bhUta
+bhUtagaNAn.h	 ghosts	1	17	bhUta
+bhUtagrAmaH	 the aggregate of all living entities	1	8	rAmaH, bhUta
+bhUtagrAmaM	 all the cosmic manifestations	2	9, 17	bhUta
+bhUtasargau	 created living beings	1	16	bhUta
+bhUtasthaH	 in the cosmic manifestation	1	9	sthaH, bhUta
+bhUteShu	 living entities	8	7, 7, 8, 13, 13, 16, 18, 18	teShu, sarvabhUteShu
+bhUtejyAH	 worshipers of ghosts and spirits	1	9
+bhUtesha	 O Lord of everything	1	10
+bhUtiH	 exceptional power	1	18
+bhUtvA	 having come into being	8	2, 2, 2, 3, 8, 11, 15, 15
+bhUyaH	 or is again coming to be	12	2, 6, 7, 10, 10, 11, 11, 11, 13, 14, 15, 18
+bhagavAn.h	 O Personality of Godhead	1	10
+bhagavan.h	 O Supreme	1	10
+bhaikShyaM	 by begging	1	2
+bhajAmi	 reward	1	4
+bhajante	 render services	3	7, 7, 10
+bhajanti	 render service	2	9, 9
+bhajasva	 be engaged in loving service	1	9
+bhajatAM	 in rendering devotional service	1	10
+bhajate	 renders transcendental loving service	2	6, 9
+bhajati	 serves in devotional service	2	6, 15
+bhaktAH	 devotees	4	7, 9, 9, 12
+bhaktaH	 devotee	5	4, 7, 9, 9, 12	madbhaktaH, mad.hbhaktaH
+bhakteShu	 amongst devotees	1	18	vibhakteShu, teShu
+bhaktiH	 in devotional service	2	7, 13
+bhaktiM	 devotional service	1	18	mad.hbhaktiM
+bhaktimAn.h	 devotee	2	12, 12	imAn.h
+bhaktiyogena	 by devotional service	1	14	yogena
+bhaktyA	 in full devotion	7	8, 8, 9, 9, 9, 11, 18
+bhaktyupahR^itaM	 offered in devotion	1	9	R^itaM, hR^ita
+bharatarShabha	 O chief amongst the descendants of Bharata	7	3, 7, 7, 8, 13, 14, 18
+bharatasattama	 O best of the Bharatas	1	18
+bharatashreShTha	 O chief of the Bharatas	1	17
+bhartA	 sustainer	2	9, 13
+bhasmasAt.h	 ashes	2	4, 4
+bhavAmi	 I become	1	12	sambhavAmi
+bhavAn.h	 your good self	3	1, 10, 11	samudbhavAn.h, mahAnubhavAn.h, sambhavAn.h, prabhavAn.h
+bhava	 be	10	2, 6, 8, 9, 11, 11, 11, 12, 18, 18	bhavanti, samudbhavaM, samudbhavaH, bhavati, bhavaH, prabhavati, prabhavanti, prabhavaM, prabhavaH, bhavantaM, bhavantaH, bhavataH, amR^itodbhavaM, abhavat.h, sambhavaM, abhibhavati, prabhavaiH, sambhavanti, sambhavaH, udbhavaH, udbhavaM
+bhavaH	 birth	1	10	samudbhavaH, bhava, prabhavaH, sambhavaH, udbhavaH
+bhavantaH	 you	1	1	bhava, vantaH, antaH
+bhavantaM	 You	1	11	bhava, antaM
+bhavanti	 grow	3	3, 10, 16	prabhavanti, bhava, sambhavanti
+bhavataH	 Your	2	4, 14	bhava
+bhavati	 it so becomes	17	1, 2, 3, 4, 4, 6, 6, 6, 7, 9, 14, 14, 14, 17, 17, 17, 18	prabhavati, bhava, abhibhavati
+bhavet.h	 would be.	2	1, 11
+bhaviShyANi	 future	1	7
+bhaviShyAmaH	 shall exist	1	2
+bhaviShyanti	 will be	1	11
+bhaviShyatAM	 of future manifestations	1	10
+bhaviShyati	 it will increase in the future	1	16
+bhavitA	 will come to be	2	2, 18	AtmAsambhavitAH
+bhayAnakAni	 very fearful	1	11
+bhayAt.h	 out of fear	3	2, 2, 18
+bhayAvahaH	 dangerous.	1	3
+bhaya	 fear	5	2, 4, 5, 12, 18	ubhaya, bhayaM, abhayaM
+bhayaM	 fear	2	10, 18	bhaya, abhayaM
+bhayena	 out of fear	1	11
+bhedaM	 the differences	2	17, 18	buddhibhedaM
+bheryaH	 large drums	1	1
+bhinnA	 separated	1	7
+bhitAH	 out of fear	1	11
+bhogAH	 material enjoyment	2	1, 5
+bhogAn.h	 enjoyable things	2	2, 3	devabhogAn.h
+bhogI	 the enjoyer	1	16
+bhoga	 in sense enjoyment	3	2, 2, 16	bhogaiH, kAmopabhoga
+bhogaiH	 enjoyment	1	1	bhoga
+bhojanaM	 eating	1	17
+bhojaneShu	 or while eating together	1	11
+bhokShyase	 you enjoy	1	2
+bhoktA	 the enjoyer	2	9, 13	bhoktAraM
+bhoktAraM	 the beneficiary	1	5	bhoktA
+bhoktR^itve	 in enjoyment	1	13
+bhoktuM	 to enjoy life	1	2
+bhrAmayan.h	 causing to travel	1	18	Amaya
+bhrAtR^In.h	 brothers	1	1
+bhramati	 forgetting	1	1
+bhruvoH	 the eyebrows	2	5, 8
+bhuktvA	 enjoying	1	9	uktvA
+bhumau	 on the earth	1	2
+bhuvi	 in this world.	1	18
+bhu~NkShva	 enjoy	1	11
+bhu~Nkte	 enjoys	2	3, 13
+bhu~njAnaM	 enjoying	1	15
+bhu~njIya	 one has to enjoy	1	2
+bhu~njate	 enjoy	1	3
+bibharti	 is maintaining	1	15
+boddhavyaM	 should be understood	3	4, 4, 4
+bodhayantaH	 preaching	1	10	antaH
+brAhmI	 spiritual	1	2
+brAhmaNAH	 brahmanas	2	9, 17
+brAhmaNa	 of the brahmanas	1	18	brAhmaNasya
+brAhmaNasya	 of the man who knows the Supreme Brahman	1	2	brAhmaNa
+brAhmaNe	 in the brahmana	1	5
+brUhi	 tell	2	2, 5
+brahmANaM	 Lord Brahma	1	11
+brahma	 from the Vedas	24	3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 5, 5, 7, 8, 8, 8, 8, 10, 13, 13, 14, 14, 18, 18	brahmaNaH, brahmavidaH, brahmayoga, brahmavit.h, brahmasa.nsparshaM, brahmabhuyAya, brahmaNi, brahmachArivrate, brahmaNA, brahmasUtra, brahmabhUtaH, AbrahmabhuvanAt.h, brahmabhUyAya, shabdabrahma, brahmavAdinAM, brahmabhUtaM, brahmanirvANaM, brahmacharyaM
+brahmaNA	 by the spirit soul	1	4	brahma
+brahmaNaH	 of the Vedas	6	4, 6, 8, 11, 14, 17	brahma
+brahmaNi	 unto the Supreme Personality of Godhead	3	5, 5, 5	brahma
+brahmabhUtaH	 being self-realized	2	5, 18	bhUta, brahma
+brahmabhUtaM	 liberation by identification with the Absolute	1	6	bhUtaM, bhUta, brahma
+brahmabhUyAya	 for self-realization	1	18	brahma
+brahmabhuyAya	 elevated to the Brahman platform	1	14	brahma
+brahmachArivrate	 in the vow of celibacy	1	6	brahma
+brahmacharyaM	 celibacy	2	8, 17	brahma
+brahmanirvANaM	 the spiritual kingdom of God	4	2, 5, 5, 5	brahma
+brahmasUtra	 of the Vedanta	1	13	brahma
+brahmasa.nsparshaM	 being in constant touch with the Supreme	1	6	brahma
+brahmavAdinAM	 of the transcendentalists.	1	17	brahma
+brahmavidaH	 who know the Absolute	1	8	vidaH, brahma
+brahmavit.h	 one who knows the Supreme perfectly	1	5	brahma
+brahmayoga	 by concentration in Brahman	1	5	brahma
+bravIShi	 You are explaining	1	10
+bravImi	 I am speaking	1	1
+bud.hdhvA	 knowing	2	3, 15
+bud.hdhyA	 by intelligence	4	2, 5, 6, 18
+buddhau	 in such consciousness	1	2
+buddhayaH	 intelligence	1	2	abuddhayaH, alpabuddhayaH, tatbuddhayaH, samabuddhayaH
+buddheH	 more than the intelligence	3	3, 3, 18	durbuddheH
+buddhi	 by intelligence	2	6, 18	asaktabuddhiH, buddhinAshaH, buddhiyuktAH, buddhinAshAt.h, buddhimatAM, buddhibhedaM, buddhiH, buddhiM, akR^itabuddhitvAt.h, buddhiyuktaH, sthirabuddhiH, samabuddhiH, buddhiyogAt.h, buddhiyogaM, buddhisa.nyogaM, buddhimAn.h
+buddhiH	 intelligence	21	2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 5, 7, 7, 8, 10, 12, 13, 18, 18, 18, 18	asaktabuddhiH, buddhi, sthirabuddhiH, samabuddhiH
+buddhiM	 intelligence	2	3, 12	buddhi
+buddhibhedaM	 disruption of intelligence	1	3	bhedaM, buddhi
+buddhimAn.h	 is intelligent	2	4, 15	buddhi, imAn.h
+buddhimatAM	 of the intelligent	1	7	buddhi
+buddhinAshAt.h	 and from loss of intelligence	1	2	buddhi
+buddhinAshaH	 loss of intelligence	1	2	buddhi, nAshaH
+buddhisa.nyogaM	 revival of consciousness	1	6	buddhi, sa.nyogaM, yogaM
+buddhiyogAt.h	 on the strength of KRiShNa consciousness	1	2	buddhi, yogAt.h
+buddhiyogaM	 real intelligence	2	10, 18	buddhi, yogaM
+buddhiyuktAH	 being engaged in devotional service	1	2	yuktAH, buddhi, uktAH
+buddhiyuktaH	 one who is engaged in devotional service	1	2	yukta, uktaH, buddhi, yuktaH
+budhAH	 those who know.	2	4, 10
+budhaH	 the intelligent person.	1	5
+chAndramasaM	 the moon planet	1	8
+chApaM	 the bow	1	1
+chApi	 also	1	15
+chAriNau	 blowing	1	5
+chAsmi	 as I am	1	18
+chAturvarNyaM	 the four divisions of human society	1	4
+chUrNitaiH	 with smashed	1	11
+cha	 and	385	1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 16, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18
+chailAjina	 of soft cloth and deerskin	1	6
+chakShuH	 eyes	3	5, 11, 15
+chakraM	 cycle	1	3
+chakrahastaM	 disc in hand	1	11
+chakriNaM	 with discs	1	11
+chalaM	 flickering	2	6, 17	achalaM, cha~nchalaM
+chalati	 moves	1	6	nishchalati
+chalita	 deviated	1	6
+chamUM	 military force	1	1
+chandramasi	 in the moon	1	15
+charAcharaM	 moving and nonmoving.	1	10	charaM
+charAcharam	 the moving and the nonmoving	1	9
+chara	 the moving	2	11, 11	samAcharan.h, acharaM, charatAM, charaM, charan.h, Acharati, acharasya, AcharataH, charati, charanti, samAchara
+charaM	 moving	1	13	acharaM, charAcharaM, chara
+charan.h	 acting upon	1	2	samAcharan.h, chara
+charanti	 practice	1	8	haranti, chara
+charatAM	 while roaming	1	2	chara
+charati	 lives	2	2, 3	Acharati, chara, harati
+chaturbhujena	 four-handed	1	11
+chaturvidhAH	 four kinds of	1	7
+chaturvidhaM	 the four kinds.	1	15
+chatvAraH	 four	1	10	hatvA
+cha~nchalaM	 flickering	2	6, 6	chalaM
+cha~nchalatvAt.h	 due to being restless	1	6
+cheShTaH	 the endeavors	1	18
+cheShTasya	 of one who works for maintenance	1	6
+cheShTate	 tries	1	3
+chekitAnaH	 Cekitana	1	1
+chet.h	 if	6	2, 3, 3, 4, 9, 18
+chetAH	 in heart	1	2	ananyachetAH, sachetAH
+chetanA	 the living force.	2	10, 13
+chetasA	 by consciousness	4	3, 8, 18, 18	chetasAM, apahR^itachetasAM, yatachetasAM
+chetasAM	 of those whose minds	2	12, 12	chetasA, apahR^itachetasAM, yatachetasAM
+chetasaH	 their hearts	2	1, 4	achetasaH, prasannachetasaH, yuktachetasaH, vichetasaH
+chikIrShavaH	 wishing.	1	1
+chikIrShuH	 desiring to lead	1	3
+chintAM	 fears and anxieties	1	16
+chintayantaH	 concentrating	1	9	antaH
+chintayet.h	 should think of.	1	6
+chirAt.h	 after a long time	1	12
+chitrarathaH	 Citraratha	1	10	ratha
+chittAtmA	 mind and intelligence	1	4	yatachittAtmA
+chitta	 by anxieties	1	16	yatachitta, chittaH, chittaM, samachittatvaM, yatachittasya, machchittaH
+chittaH	 concentrating the mind	2	6, 18	chitta, machchittaH
+chittaM	 the mind and its activities	3	6, 6, 12	chitta
+chodanA	 the impetus	1	18
+chyavanti	 fall down	1	9
+dAH	 giving	1	2
+dAkShyaM	 resourcefulness	1	18
+dAna	 charity	4	17, 17, 18, 18
+dAnaM	 charity	9	10, 16, 17, 17, 17, 17, 17, 18, 18
+dAnaiH	 by charity	1	11
+dAnavaH	 the demons.	1	10
+dAne	 in charity	1	17
+dAneShu	 in giving charities	1	8
+dAnena	 by charity	1	11
+dArA	 wife	1	13
+dAsyAmi	 I shall give charity	1	16
+dAsyante	 will award	1	3
+dAtavyaM	 worth giving	1	17
+dIpaH	 a lamp	1	6
+dIpena	 with the lamp	1	10
+dIptAnala	 blazing fire	1	11
+dIpta	 blazing	2	11, 11	dIptaM, pradIptaM
+dIptaM	 glowing	1	11	pradIptaM, dIpta
+dIptimantaM	 glowing	1	11	antaM
+dIrghasUtrI	 procrastinating	1	18
+dIyate	 is given	3	17, 17, 17
+dR^iDhaM	 obstinate	2	6, 18
+dR^iDhanishchayaH	 with determination	1	12	nishchayaH
+dR^iDhavratAH	 with determination.	2	7, 9	ratAH, vratAH
+dR^iDhena	 strong	1	15
+dR^iShTaH	 observed	1	2	iShTa, iShTaH
+dR^iShTavAn.h	 seeing	1	11	iShTa
+dR^iShTavAnasi	 as you have seen	1	11	iShTa
+dR^iShTiM	 vision	1	16
+dR^iShTvA	 after seeing	11	1, 1, 1, 2, 11, 11, 11, 11, 11, 11, 11	iShTvA
+dUrasthaM	 far away	1	13
+dUreNa	 discard it at a long distance	1	2
+da.nDaH	 punishment	1	10
+da.nShTrA	 teeth	2	11, 11	bahuda.nShTrA
+dadAmi	 I give	2	10, 11
+dadAsi	 you give away	1	9
+dadhAmi	 create	1	14	vidadhAmi
+dadhmau	 blew	2	1, 1
+dadhmuH	 blew	1	1
+dagdha	 burned	1	4
+dahati	 burns	1	2
+daityAnAM	 of the demons	1	10
+daivI	 transcendental	2	7, 16	daivIM
+daivIM	 divine	3	9, 16, 16	daivI
+daivaH	 godly	2	16, 16
+daivaM	 in worshiping the demigods	2	4, 18	adhidaivaM
+dakShaH	 expert	1	12
+dakShiNAyanaM	 when the sun passes on the southern side	1	8	akShi
+damaH	 control of the senses	3	10, 16, 18
+damayatAM	 of all means of suppression	1	10
+dambha	 of pride	3	16, 17, 17	dambhaH
+dambhaH	 pride	1	16	dambha
+dambhena	 out of pride	2	16, 17
+darpaH	 arrogance	1	16	kandarpaH
+darpaM	 pride	2	16, 18
+darshanaM	 sights	2	11, 13	anudarshanaM
+darshanakA~NkShiNaH	 aspiring to see.	1	11
+darshayAmAsa	 showed	2	11, 11
+darshaya	 show	2	11, 11
+darshibhiH	 by the seers.	1	2
+darshinaH	 seers.	1	4	samadarshinaH
+darshitaM	 shown	1	11	hitaM
+dashaikaM	 eleven	1	13
+dashanAntareShu	 between the teeth	1	11
+dattAn.h	 things given	1	3	tAn.h
+dattaM	 given	1	17	devadattaM
+daurbalyaM	 weakness	1	2
+dayA	 mercy	1	16
+dehAH	 material bodies	1	2
+dehAntara	 of transference of the body	1	2
+dehI	 the embodied.	4	2, 2, 5, 14
+dehInaH	 of the embodied	2	2, 2
+dehInaM	 the living entity	1	14
+deha	 the body	1	14
+dehaM	 this body	3	4, 8, 15
+dehabhR^it.h	 the embodied	1	14
+dehabhR^itA	 by the embodied	1	18	dehabhR^itAM
+dehabhR^itAM	 of the embodied	1	8	dehabhR^itA
+dehavadbhiH	 by the embodied	1	12
+dehe	 in the body	9	2, 2, 8, 8, 11, 11, 13, 13, 14
+dehe.asmin.h	 in this body	1	14	asmin.h
+deheShu	 bodies	1	16
+dehinAM	 of the embodied	1	17	sarvadehinAM
+dehinaM	 of the embodied.	2	3, 14
+desha	 places	1	13	adesha, nirdeshaH, uddeshataH
+deshe	 land	2	6, 17	hR^iddeshe
+devAH	 demigods	4	3, 3, 10, 11	vAsudevAH
+devAn.h	 demigods	5	3, 7, 9, 11, 17
+devAnAM	 of the demigods	2	10, 10
+deva	 O Lord	4	11, 11, 11, 17
+devaM	 shining	2	11, 11	AdidevaM
+devabhogAn.h	 the pleasures of the gods.	1	9	bhogAn.h
+devadattaM	 the conchshell named Devadatta	1	1	dattaM
+devadeva	 O Lord of all demigods	1	10	devadevasya
+devadevasya	 of the Supreme Personality of Godhead	1	11	devadeva
+devalaH	 Devala	1	10
+devarShINAM	 of all the sages amongst the demigods	1	10
+devarShiH	 the sage among the demigods	1	10
+devatA	 gods	1	9	devatAH
+devatAH	 the demigods	2	4, 7	devatA
+devavara	 O great one amongst the demigods	1	11
+devavratAH	 worshipers of demigods	1	9	ratAH, vratAH
+devayajaH	 the worshipers of the demigods	1	7
+deveShu	 amongst the demigods	1	18
+devesha	 O Lord of all lords	3	11, 11, 11
+dhAma	 abode	3	8, 10, 11	tad.hdhAma, yudhAmanyuH
+dhArayAmi	 sustain	1	15
+dhArayan.h	 considering.	2	5, 6
+dhArayate	 one sustains	2	18, 18
+dhArtarAShTrAH	 the sons of Dhritarashtra	2	1, 2
+dhArtarAShTrANAM	 of the sons of Dhritarashtra	1	1
+dhArtarAShTrAn.h	 the sons of Dhritarashtra	3	1, 1, 1
+dhArtarAShTrasya	 for the son of Dhritarashtra	1	1
+dhAryate	 is utilized or exploited	1	7
+dhAtA	 supporter	2	9, 10	dhAtAraM
+dhAtAraM	 the maintainer	1	8	dhAtA
+dhImatA	 very intelligent.	1	1	dhImatAM
+dhImatAM	 of those who are endowed with great wisdom	1	6	dhImatA
+dhIraH	 the sober	2	2, 14
+dhIraM	 patient	1	2
+dhR^iShTadyumnaH	 Dhristadyumna (the son of King Drupada)	1	1	iShTa
+dhR^iShTaketuH	 Dhrishtaketu	1	1	iShTa
+dhR^itarAShTra	 King Dhritarashtra said	1	1	dhR^itarAShTrasya, hR^ita
+dhR^itarAShTrasya	 of Dhritarashtra	1	11	dhR^itarAShTra, hR^ita
+dhR^iteH	 of steadiness	1	18	R^ite
+dhR^iti	 with determination	1	18	dhR^itiH, dhR^itiM, dhR^itigR^ihItayA
+dhR^itiH	 firmness	7	10, 13, 16, 18, 18, 18, 18	dhR^iti
+dhR^itiM	 steadiness	1	11	dhR^iti
+dhR^itigR^ihItayA	 carried by conviction	1	6	dhR^iti
+dhR^ityA	 determination	1	18
+dhR^itya	 by determination	2	18, 18
+dhUmena	 by smoke	2	3, 18
+dhanAni	 riches	1	1	nidhanAni
+dhanaM	 wealth	1	16	nidhanaM, ArAdhanaM
+dhanamAna	 of wealth and false prestige	1	16
+dhana~njaya	 O Arjuna	8	2, 2, 4, 7, 9, 12, 18, 18	dhana~njayaH
+dhana~njayaH	 Dhananjaya (Arjuna, the winner of wealth)	3	1, 10, 11	jayaH, dhana~njaya
+dhanuH	 bow	1	1
+dhanurdharaH	 the carrier of the bow and arrow	1	18
+dharaM	 wearing	1	11
+dharmAtmA	 righteous	1	9
+dharmAviruddhaH	 not against religious principles	1	7
+dharma	 religion	4	2, 4, 12, 18	paradharmaH, dharmaM, adharmaH, dharmasya, shAshvatadharmagoptA, dharmakShetre, svadharmaH, adharmaM, adharmasya, adharma, svadharmaM
+dharmaM	 doctrines	3	9, 18, 18	adharmaM, dharma, svadharmaM
+dharmakShetre	 in the place of pilgrimage	1	1	dharma
+dharmasya	 occupation	4	2, 4, 9, 14	adharmasya, dharma
+dharme	 religion	1	1	svadharme
+dharmyAt.h	 for religious principles	1	2
+dharmyaM	 as a religious duty	3	2, 9, 18	sAdharmyaM
+dhenUnAM	 of cows	1	10
+dhruvA	 certain	1	18
+dhruvaH	 a fact	1	2
+dhruvaM	 it is also a fact	2	2, 12	adhruvaM
+dhumaH	 smoke	1	8
+dhyAnAt.h	 than meditation	1	12
+dhyAnaM	 meditation	1	12
+dhyAnayogaparaH	 absorbed in trance	1	18	paraH
+dhyAnena	 by meditation	1	13
+dhyAyantaH	 meditating	1	12	antaH
+dhyAyataH	 while contemplating	1	2	yataH
+dishaH	 on all sides	4	6, 11, 11, 11
+divi	 in heaven	3	9, 11, 18
+divyAH	 divine	2	10, 10
+divyAn.h	 celestial	2	9, 11	yAn.h
+divyAnAM	 of the divine	1	10
+divyAni	 divine	1	11
+divya	 divine	4	11, 11, 11, 11	divyaM, divyau
+divyaM	 transcendental	5	4, 8, 8, 10, 11	divya
+divyau	 transcendental	1	1	divya
+doShAH	 the faults	1	15
+doSha	 by the weakness	2	2, 13	nirdoShaM, doShavat.h, doShaiH, sadoShaM, doShaM
+doShaM	 fault	2	1, 1	nirdoShaM, doSha, sadoShaM
+doShaiH	 by such faults	1	1	doSha
+doShavat.h	 as an evil	1	18	doSha
+doShena	 with fault	1	18
+draShTA	 a seer	1	14	upadraShTA
+draShTuM	 to see	8	11, 11, 11, 11, 11, 11, 11, 11
+drakShyasi	 you will see	1	4	rakShya
+draupadeyAH	 the sons of Draupadi	2	1, 1
+dravanti	 glide	2	11, 11
+dravyamayAt.h	 of material possessions	1	4
+dravyayaj~nAH	 sacrificing one's possessions	1	4	yaj~nAH, avyaya
+droNa	 the teacher Drona	1	1	droNaH, droNaM
+droNaH	 Dronacarya	1	11	droNa
+droNaM	 Drona	2	2, 11	droNa
+drupadaH	 Drupada	2	1, 1
+drupadaputreNa	 by the son of Drupada	1	1
+duHkhAlayaM	 place of miseries	1	8
+duHkhAnAM	 material miseries	2	2, 13
+duHkha	 and pain	8	2, 2, 5, 12, 13, 14, 17, 18	duHkhahA, duHkhaM, duHkhaiH, sukhaduHkha, duHkhataraM, duHkhasa.nyoga
+duHkhaM	 distress	7	5, 6, 10, 12, 13, 14, 18	duHkha
+duHkhahA	 diminishing pains.	1	6	duHkha
+duHkhaiH	 the distresses	1	14	duHkha
+duHkhasa.nyoga	 of the miseries of material contact	1	6	duHkha
+duHkhataraM	 more painful	1	2	duHkha
+duHkhe	 and distress	1	2	duHkheShu, duHkhena
+duHkheShu	 in the threefold miseries	3	2, 6, 12	duHkhe
+duHkhena	 by miseries	1	6	duHkhe
+duShTAsu	 being so polluted	1	1
+duShkR^itAM	 of the miscreants	1	4
+duShkR^itinaH	 miscreants	1	7
+duShpUraM	 insatiable	1	16
+duShpUreNa	 never to be satisfied	1	3
+duShprApaH	 difficult to obtain	1	6
+durAsadaM	 formidable.	1	3
+duratyayA	 very difficult to overcome	1	7
+durbuddheH	 evil-minded	1	1	buddheH
+durgANi	 impediments	1	18
+durgatiM	 to degradation	1	6	gatiM
+durlabhataraM	 very rare	1	6
+durmatiH	 foolish.	1	18	matiH
+durmedhA	 unintelligent	1	18	medhA
+durnigrahaM	 difficult to curb	1	6	nigrahaM
+durnirIkShyaM	 difficult to see	1	11
+duryodhanaH	 King Duryodhana	1	1
+dvAraM	 door	2	2, 16
+dvaidhAH	 duality	1	5
+dvandva	 duality	3	4, 7, 7	nirdvandvaH, dvandvaH, dvandvaiH
+dvandvaH	 the dual	1	10	dvandva, nirdvandvaH
+dvandvaiH	 from the dualities	1	15	dvandva
+dvau	 two	2	15, 16
+dveShTi	 envies	4	2, 5, 12, 18
+dveSha	 and detachment	2	2, 7	dveShau, dveShaH, arAgadveShataH
+dveShaH	 hatred	1	13	dveSha, eShaH
+dveShau	 also detachment	2	3, 18	dveSha
+dveShya	 the envious	1	6	dveShyaH
+dveShyaH	 hateful	1	9	dveShya
+dviShataH	 envious	1	16	hataH
+dvija	 the brahmanas	1	17	udvijate
+dvijottama	 O best of the brahmanas	1	1
+dvividhA	 two kinds of	1	3
+dyau	 from outer space	1	11
+dyutaM	 gambling	1	10
+dyutiM	 the sunshine	1	11
+eShA	 all this	3	2, 2, 7
+eShAM	 of them	1	1	teShAM, yeShAM, sarveShAM, eteShAM
+eShaH	 this	5	3, 3, 3, 3, 10	dveShaH
+eShyasi	 you will attain	3	8, 9, 18
+eShyati	 comes	1	18
+ebhiH	 all these	2	7, 18
+ebhyaH	 to these demigods	2	3, 7	guNebhyaH, sarvebhyaH, apAtrebhyaH, pApebhyaH, indriyArthebhyaH, kAmebhyaH, anyebhyaH, indriyebhyaH
+edhA.nsi	 firewood	1	4
+ekAgraM	 with one attention	1	6
+ekAgreNa	 with full attention	1	18
+ekAkI	 alone	1	6
+ekAkSharaM	 the one syllable	1	8	kSharaM
+ekAntaM	 overly	1	6
+eka	 only one	3	2, 7, 10
+ekaH	 alone	2	11, 13
+ekaM	 only one	6	3, 5, 5, 5, 18, 18
+ekamakSharaM	 pranava	1	10	akSharaM, akShara, kSharaM
+ekasmin.h	 in one	1	18	asmin.h
+ekasthaM	 in one place	3	11, 11, 13
+ekatvaM	 in oneness	1	6
+ekatvena	 in oneness	1	9
+ekayA	 by one	1	8
+eke	 one group	1	18
+ekena	 alone	1	11
+enaM	 this	21	2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 4, 6, 11, 15, 15, 15
+etAM	 this	3	1, 10, 16
+etAn.h	 all these	8	1, 1, 1, 1, 14, 14, 14, 14	samavetAn.h, pretAn.h, tAn.h
+etAni	 all these	5	14, 14, 15, 18, 18
+etAvat.h	 thus	1	16
+etaiH	 all these	3	1, 3, 16	shvetaiH
+etasya	 of this	1	6	tasya
+etat.h	 this	25	2, 2, 3, 4, 4, 6, 6, 6, 7, 10, 11, 11, 12, 13, 13, 13, 13, 13, 15, 16, 17, 17, 18, 18, 18	tat.h
+etayoH	 of these two	1	5	tayoH
+ete	 those	9	1, 1, 2, 4, 7, 8, 8, 11, 18
+eteShAM	 of the Pandavas	1	1	teShAM, eShAM
+etena	 by this	2	3, 10
+eti	 does attain	4	4, 4, 8, 11
+evApi	 also	1	3
+eva	 certainly	163	1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 17, 17, 17, 17, 17, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18
+eva.nvidhAH	 like this	1	11
+eva.nvidhaH	 like this	1	11
+evaM	 thus	27	1, 1, 2, 2, 2, 3, 3, 4, 4, 4, 4, 4, 4, 6, 6, 9, 9, 9, 11, 11, 11, 12, 13, 13, 13, 15, 18
+gAM	 the planets	1	15
+gANDIvaM	 the bow of Arjuna	1	1
+gAtrANi	 limbs of the body	1	1
+gAyatrI	 the Gayatri hymns	1	10
+gItaM	 described	1	13
+gR^iNanti	 are offering prayers	1	11
+gR^ihAdiShu	 home, etc.	1	13
+gR^ihItvA	 taking	2	15, 16
+gR^ihNAti	 does accept	1	2
+gR^ihNan.h	 accepting	1	5
+gR^ihyate	 can be so controlled.	1	6
+gachChan.h	 going	1	5
+gachChanti	 they reach	6	2, 5, 8, 14, 14, 15	hanti
+gachChati	 achieves.	2	6, 6	nigachChati, samadhigachChati, adhigachChati
+gadinaM	 with maces	2	11, 11
+gahanA	 very difficult	1	4
+gajendrANAM	 of lordly elephants	1	10
+gamaH	 take to	1	2
+gamyate	 one can attain	1	5
+gandhAn.h	 smells	1	15
+gandha	 fragrances	1	11	gandhaH, gandharvANAM, gandharva
+gandhaH	 fragrance	1	7	gandha
+gandharvANAM	 of the citizens of the Gandharva planet	1	10	gandha
+gandharva	 of the Gandharvas	1	11	gandha
+gantAsi	 you shall go	1	2
+gantavyaM	 to be reached	1	4
+garIyAn.h	 glorious	1	11	yAn.h
+garIyaH	 better	1	2
+garIyase	 who are better	1	11
+garbhaH	 embryo	1	3
+garbhaM	 pregnancy	1	14
+gatAH	 having achieved.	3	8, 14, 15	samAgatAH, AgatAH
+gatAgataM	 death and birth	1	9
+gata	 lost	2	2, 18
+gataH	 returned.	1	11	jagataH, AgataH, sarvagataH, ayogataH, vigataH
+gatarasaM	 tasteless	1	17
+gatasa~Ngasya	 of one unattached to the modes of material nature	1	4	sa~Nga
+gatavyathAH	 freed from all distress	1	12	yathA, vyathA
+gati	 the movement	2	4, 8
+gatiH	 entrance.	3	4, 9, 12
+gatiM	 progress	11	2, 6, 6, 7, 8, 8, 9, 13, 16, 16, 16	durgatiM, svargatiM
+gatvA	 attaining	2	14, 15
+gavi	 in the cow	1	5
+gehe	 in the house	1	6
+ghAtayati	 causes to hurt	1	2
+ghnataH	 being killed	1	1
+ghoShaH	 vibration	1	1
+ghoraM	 horrible	2	11, 17
+ghore	 ghastly	1	3
+ghrANaM	 smelling power	1	15
+girAM	 of vibrations	1	10
+glAniH	 discrepancies	1	4
+go	 of cows	1	18
+gomukhAH	 horns	1	1
+govinda	 O KRiShNa	1	1	govindaM
+govindaM	 unto KRiShNa, the giver of pleasure to the senses	1	2	govinda
+grAhAn.h	 things	1	16
+grAheNa	 with endeavor	1	17
+grAhyaM	 accessible	1	6
+grIvaM	 neck	1	6
+grasamAnaH	 devouring	1	11
+grasiShNu	 devouring	1	13
+guDAkesha	 O Arjuna	2	10, 11	guDAkeshaH
+guDAkeshaH	 Arjuna, the master of curbing ignorance	1	2	guDAkesha
+guDAkeshena	 by Arjuna	1	1
+guNAH	 senses	3	3, 14, 14
+guNAn.h	 the three modes of nature	6	13, 13, 14, 14, 14, 14
+guNAnvitaM	 under the spell of the modes of material nature	1	15
+guNAtItaH	 transcendental to the material modes of nature	1	14
+guNa	 by the modes	5	3, 4, 13, 14, 15
+guNabhedataH	 in terms of different modes of material nature	1	18
+guNabhoktR^i	 master of the gunas	1	13
+guNaiH	 by the qualities.	6	3, 3, 13, 14, 18, 18
+guNakarma	 of works under material influence	1	3	guNakarmasu, karma, akarma
+guNakarmasu	 in material activities	1	3	guNakarma, karma, karmasu, akarma
+guNamayI	 consisting of the three modes of material nature	1	7
+guNamayaiH	 consisting of the gunas	1	7
+guNasa.nkhyAne	 in terms of different modes	1	18
+guNasa~NgaH	 the association with the modes of nature	1	13	sa~NgaH, sa~Nga
+guNataH	 by the modes of material nature	1	18
+guNeShu	 in sense gratification	1	3
+guNebhyaH	 than the qualities	2	14, 14	ebhyaH
+guhyAnAM	 of secrets	1	10
+guhyAt.h	 than confidential	1	18
+guhyaM	 confidential subject	3	11, 18, 18	rAjaguhyaM
+guhyatamaM	 the most confidential	2	9, 15	sarvaguhyatamaM
+guhyataraM	 still more confidential	1	18
+guru	 the spiritual master	1	17
+guruH	 master	1	11
+guruNApi	 even though very difficult	1	6
+gurun.h	 the superiors	2	2, 2
+hAniH	 destruction	1	2
+hR^iShIkesha	 O master of all senses	2	11, 18	hR^iShIkeshaH, hR^iShIkeshaM
+hR^iShIkeshaH	 Hrsikesa (KRiShNa, the Lord who directs the senses of the devotees)	3	1, 1, 2	hR^iShIkesha
+hR^iShIkeshaM	 unto Lord KRiShNa	2	1, 2	hR^iShIkesha
+hR^iShTaromA	 with his bodily hairs standing on end due to his great ecstasy	1	11	iShTa
+hR^iShitaH	 gladdened	1	11
+hR^iShyAmi	 I am taking pleasure	2	18, 18
+hR^iShyati	 takes pleasure	1	12	prahR^iShyati
+hR^idayAni	 hearts	1	1
+hR^idaya	 of the heart	1	2
+hR^iddeshe	 in the location of the heart	1	18	deshe
+hR^idi	 in the heart	3	8, 13, 15
+hR^idyAH	 pleasing to the heart	1	17
+hR^ita	 deprived of	1	7	apahR^ita, dhR^itarAShTrasya, bhaktyupahR^itaM, udAhR^itaH, dhR^itarAShTra, apahR^itachetasAM, udAhR^itaM
+hR^itsthaM	 situated in the heart	1	4
+ha	 certainly.	1	2
+haniShye	 I shall kill	1	16
+hantAraM	 the killer	1	2
+hanta	 yes	1	10	pradviShantaH, kA~NkShantaH, ichChantaH, tiShThantaM
+hanti	 kills	3	2, 2, 18	anutiShThanti, kShantiH, vishanti, tiShThanti, gachChanti, vyathanti, shantiM, anushochanti, pachanti, pravishanti
+hantuM	 to kill	3	1, 1, 1
+hanyamAne	 being killed	1	2
+hanyate	 is killed.	2	2, 2
+hanyuH	 may kill	1	1
+harSha	 from happiness	1	12	puruSharShabha, harShaM, harShashokAnvitaH, romaharShaNaM, maharShayaH, romaharShaH
+harShaM	 cheerfulness	1	1	harSha
+harShashokAnvitaH	 subject to joy and sorrow	1	18	harSha
+haranti	 throw	1	2	charanti
+harati	 takes away	1	2	Acharati, charati
+hareH	 of Lord KRiShNa	1	18
+hariH	 the Supreme Personality of Godhead, KRiShNa	1	11
+hastAt.h	 from the hand	1	1
+hastini	 in the elephant	1	5
+hatAn.h	 already killed	1	11	tAn.h
+hataH	 being killed	2	2, 16	pramukhataH, mahataH, pR^iShThataH, dviShataH, uddeshataH, arAgadveShataH, asheShataH
+hataM	 killed	1	2
+hatvA	 by killing	6	1, 1, 1, 2, 2, 18	chatvAraH, ahatvA
+haviH	 butter	1	4
+hayaiH	 horses	1	1
+he	 O KRiShNa	3	11, 11, 11
+hetavaH	 causes.	1	18	phalahetavaH
+hetoH	 in exchange	1	1
+hetuH	 cause	3	2, 13, 13
+hetumadbhiH	 with cause and effect	1	13
+hetunA	 for the reason	1	9
+hi	 certainly	66	1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 8, 9, 9, 9, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 12, 12, 13, 13, 14, 18, 18, 18
+hi.nsAM	 and distress to others	1	18
+hi.nsAtmakaH	 always envious	1	18
+himAlayaH	 the Himalayan mountains.	1	10
+hinasti	 degrade	1	13
+hitaM	 beneficial	2	17, 18	mohitaM, virahitaM, nAshitaM, nishchitaM, kA~NkShitaM, paryuShitaM, samavasthitaM, samupasthitaM, vihitaM, sthitaM, pratiShThitaM, viShThitaM, darshitaM, avasthitaM, sa~NgarahitaM, sahitaM, sarvabhUtasthitaM, pravyathitaM, sunishchitaM, abhirakShitaM
+hitakAmyayA	 for your benefit.	1	10
+hite	 in welfare work	1	5
+hitvA	 losing	1	2	akR^itabuddhitvAt.h, uShitvA, sthitvA
+hrIH	 modesty	1	16
+hriyate	 is attracted	1	6
+hutAshavaktraM	 fire coming out of Your mouth	1	11	vaktra
+hutaM	 offered	3	4, 9, 17	adbhutaM
+iDyaM	 worshipable	1	11
+iShTAH	 palatable	1	17	vishiShTAH
+iShTAn.h	 desired	1	3
+iShTa	 of all desirable things	2	3, 13	dR^iShTavAn.h, viShTabhya, hR^iShTaromA, dhR^iShTaketuH, uchChiShTaM, parikliShTaM, vidhidiShTaH, aniShTa, adR^iShTa, pradiShTaM, AviShTaH, AviShTaM, adR^iShTapUrvaM, yaj~nashiShTa, iShTaM, dR^iShTavAnasi, vismayAviShTaH, samAviShTaH, iShTaH, dhR^iShTadyumnaH, sanniviShTaH, dR^iShTaH, aniShTaM
+iShTaH	 you are dear	2	18, 18	vidhidiShTaH, iShTa, AviShTaH, vismayAviShTaH, samAviShTaH, sanniviShTaH, dR^iShTaH
+iShTaM	 leading to heaven	1	18	uchChiShTaM, parikliShTaM, iShTa, pradiShTaM, AviShTaM, aniShTaM
+iShTvA	 worshiping	1	9	dR^iShTvA, sR^iShTvA
+iShubhiH	 with arrows	1	2
+ichChA	 wishes	4	5, 7, 12, 13	pR^ichChAmi, yadR^ichChA, ichChAmi
+ichChAmi	 do I wish	6	1, 11, 11, 11, 13, 18	pR^ichChAmi, ichChA
+ichChantaH	 desiring	1	8	antaH, hanta
+ichChasi	 you wish.	3	11, 18, 18
+ichChati	 desires	1	7	R^ichChati
+idAnIM	 now	2	11, 18
+idR^ik.h	 as it is	1	11	R^ik.h
+idaM	 all this	39	1, 1, 1, 2, 2, 2, 2, 3, 3, 7, 7, 7, 7, 8, 8, 9, 9, 9, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 13, 14, 15, 16, 16, 16, 16, 18, 18, 18
+iha	 in this life	20	2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 4, 5, 6, 7, 11, 11, 15, 16, 17, 17
+ihaiva	 in the present body	1	5
+ijyate	 is performed	2	17, 17
+ijyayA	 by worship	1	11
+ikShvAkave	 unto King Iksvaku	1	4
+imAH	 all these	2	3, 10
+imAn.h	 these	2	10, 18	bhaktimAn.h, buddhimAn.h
+imaM	 all these	13	1, 2, 2, 4, 4, 9, 9, 13, 16, 17, 18, 18, 18
+imau	 these	1	15
+ime	 these	4	1, 2, 2, 3
+indriyANAM	 of the senses	3	2, 2, 10
+indriyANi	 senses	12	2, 2, 2, 2, 3, 3, 3, 3, 4, 5, 13, 15
+indriyArAmaH	 satisfied in sense gratification	1	3	rAmaH
+indriyArthAn.h	 sense objects	1	3
+indriyArtheShu	 in sense gratification	3	5, 6, 13
+indriyArthebhyaH	 from the sense objects	2	2, 2	ebhyaH
+indriya	 of the sense organs	8	4, 4, 5, 6, 13, 13, 18, 18	indriyaiH, indriyagrAmaM, indriyaH, indriyasya, indriyagocharAH, indriyasyArthe
+indriyaH	 senses	1	4	indriya
+indriyagocharAH	 the objects of the senses	1	13	indriya
+indriyagrAmaM	 the full set of senses	2	6, 12	indriya
+indriyaiH	 by the senses	2	2, 5	indriya
+indriyasyArthe	 in the sense objects	1	3	indriya
+indriyasya	 of the senses	1	3	yasya, indriya
+indriyebhyaH	 more than the senses	1	3	ebhyaH
+itaH	 besides this	2	7, 14
+itaraH	 common	1	3	pitaraH
+iti	 thus.	63	1, 1, 2, 2, 3, 3, 4, 4, 4, 4, 5, 5, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 9, 10, 11, 11, 11, 11, 11, 13, 13, 13, 13, 13, 14, 15, 15, 16, 16, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18
+ityevaM	 knowing thus	1	14
+ityuta	 thus it is said.	1	14
+iva	 as	14	1, 2, 2, 2, 3, 3, 3, 5, 6, 6, 7, 13, 15, 18
+iyaM	 all these	2	7, 7
+i~Ngate	 waver	2	6, 14
+jAgarti	 is wakeful	1	2
+jAgrati	 are awake	1	2
+jAhnavI	 the River Ganges.	1	10
+jAla	 by a network	1	16
+jAnAti	 knows	1	15	prajAnAti, abhijAnAti, nAbhijAnAti
+jAnan.h	 even if he knows	1	8
+jAne	 I know	1	11
+jAtAH	 born	1	10
+jAtasya	 of one who has taken his birth	1	2	tasya, abhijAtasya
+jAtidharmAH	 community projects	1	1
+jAtu	 at any time	3	2, 3, 3
+jAyante	 develop	2	14, 14	upajAyante
+jAyate	 is taking place	5	1, 1, 2, 14, 14	abhijAyate, sa~njAyate, upajAyate
+jIrNAni	 old and worn out	2	2, 2
+jIvabhUtaH	 the conditioned living entity	1	15	bhUta
+jIvaloke	 in the world of conditional life	1	15
+jIvanaM	 life	1	7
+jIvati	 lives.	1	3
+jIvitena	 living	1	1
+jagannivAsa	 O refuge of the worlds.	3	11, 11, 11
+jagat.h	 the material world.	11	7, 7, 9, 9, 10, 11, 11, 11, 11, 15, 16
+jagataH	 of the world	4	7, 8, 9, 16	gataH, agata
+jagatpate	 O Lord of the entire universe.	1	10
+jaghanya	 of abominable	1	14
+jagrataH	 or one who keeps night watch too much	1	6
+jahAti	 can get rid of	1	2	prajahAti
+jahi	 conquer	2	3, 11
+janAH	 persons	7	7, 8, 8, 9, 16, 17, 17
+janAdhipaH	 kings	1	2
+janAnAM	 of the persons	1	7
+janArdana	 O maintainer of all living entities.	6	1, 1, 1, 3, 10, 11
+janaH	 person	1	3	prajanaH
+janakAdayAH	 Janaka and other kings	1	3
+janasa.nsadi	 to people in general	1	13
+janayet.h	 he should cause	1	3	nayet.h
+janmAni	 births	1	4
+janma	 birth	10	2, 4, 4, 4, 4, 6, 6, 8, 13, 14	janmasu, janmani, punarjanma, janmakarmaphalapradAM, janmabandha, janmanAM
+janmabandha	 from the bondage of birth and death	1	2	janma
+janmakarmaphalapradAM	 resulting in good birth and other fruitive reactions	1	2	phala, janma, karmaphala, karma, akarma
+janmanAM	 repeated births and deaths	1	7	janma
+janmani	 in birth after birth	1	16	janma
+janmasu	 in births.	1	13	janma
+jantavaH	 the living entities.	1	5
+japayaj~naH	 chanting	1	10	yaj~naH, aj~naH, yaj~na
+jarA	 old age	4	2, 7, 13, 14
+jayAjayau	 both victory and defeat	1	2
+jayaH	 victory	1	10	samiti~njayaH, dhana~njayaH, vijayaH
+jayadrathaM	 also Jayadratha	1	11	rathaM, ratha
+jayema	 we may conquer	1	2
+jayeyuH	 they conquer	1	2
+ja~NgamaM	 moving	1	13
+jetAsi	 you will conquer	1	11
+jhaShANAM	 of all fish	1	10
+jighran.h	 smelling	1	5
+jigiShatAM	 of those who seek victory	1	10
+jijIviShAmaH	 we would want to live	1	2
+jij~nAsuH	 inquisitive	2	6, 7
+jitAtmA	 having control of the mind	1	18	vijitAtmA
+jitAtmanaH	 of one who has conquered his mind	1	6	manaH, AtmanaH
+jita	 having conquered	1	15
+jitaH	 conquered	2	5, 6	sa.ngavarjitaH, niyojitaH, sa~NgavivarjitaH, aparAjitaH
+jitendriyaH	 having conquered the senses	1	5	vijitendriyaH
+jitvA	 by conquering	2	2, 11
+jivabhUtAM	 comprising the living entities	1	7
+joShayet.h	 he should dovetail	1	3
+juShTaM	 practiced by	1	2
+juhosi	 you offer	1	9
+juhvati	 offer	5	4, 4, 4, 4, 4	upajuhvati
+jvaladbhiH	 blazing	1	11
+jvalanaM	 a fire	1	11
+jyAyAH	 better	1	3
+jyAyasi	 better	1	3
+jyotIShAM	 of all luminaries	2	10, 13
+jyotiH	 light	3	8, 8, 13	antarjyotiH
+j~nAnAH	 knowledge	1	7	moghaj~nAnAH
+j~nAnAgniH	 the fire of knowledge	1	4
+j~nAnAnAM	 of all knowledge	1	14
+j~nAnAt.h	 than knowledge	1	12
+j~nAnAvasthita	 situated in transcendence	1	4
+j~nAnI	 one who knows things as they are	3	7, 7, 7
+j~nAna	 of knowledge	12	3, 4, 4, 4, 4, 5, 6, 10, 13, 14, 16, 18	j~nAnadIpite, aj~nAnajaM, j~nAnachakShuShaH, vij~nAna, aj~nAnasambhUtaM, j~nAnaH, j~nAnaM, j~nAnavAn.h, j~nAnayogena, vij~nAnaM, j~nAnagamyaM, j~nAnasya, j~nAnayaj~nAH, aj~nAnaM, j~nAnavatAM, j~nAnayaj~naH, j~nAnaplavena, j~nAnachakShuShA, j~nAnayaj~nena, aj~nAna, sarvaj~nAna, tattvaj~nAna
+j~nAnaH	 whose knowledge	1	7	j~nAna
+j~nAnaM	 pure consciousness	31	3, 3, 4, 4, 4, 5, 5, 7, 9, 10, 10, 12, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 15, 18, 18, 18, 18, 18, 18, 18	j~nAna, vij~nAnaM, aj~nAnaM
+j~nAnachakShuShA	 by the vision of knowledge	1	13	j~nAna
+j~nAnachakShuShaH	 those who have the eyes of knowledge.	1	15	j~nAna
+j~nAnadIpite	 because of the urge for self-realization.	1	4	j~nAna
+j~nAnagamyaM	 to be approached by knowledge	1	13	j~nAna
+j~nAnaplavena	 by the boat of transcendental knowledge	1	4	j~nAna
+j~nAnasya	 of knowledge	1	18	j~nAna
+j~nAnavAn.h	 learned	2	3, 7	j~nAna
+j~nAnavatAM	 of the wise	1	10	j~nAna
+j~nAnayaj~nAH	 sacrifice in advancement of transcendental knowledge	1	4	j~nAna, yaj~nAH
+j~nAnayaj~naH	 sacrifice in knowledge	1	4	yaj~naH, j~nAna, aj~naH, yaj~na
+j~nAnayaj~nena	 by cultivation of knowledge	1	9	yaj~ne, j~nAna, yaj~nena
+j~nAnayogena	 by the linking process of knowledge	1	3	yogena, j~nAna
+j~nAne	 in knowledge	1	4	j~nAnena, aj~nAnena
+j~nAnena	 with knowledge	2	4, 5	j~nAne, aj~nAnena
+j~nAnibhyaH	 than the wise	1	6
+j~nAninaH	 of the knower	3	3, 4, 7
+j~nAsyasi	 you can know	1	7
+j~nAtavyaM	 knowable	1	7
+j~nAtena	 by knowing	1	10
+j~nAtuM	 to know	1	11	vij~nAtuM
+j~nAtvA	 knowing well	12	4, 4, 4, 4, 5, 7, 9, 9, 13, 14, 16, 18
+j~neyaH	 should be known	1	5
+j~neyaM	 be known	7	1, 13, 13, 13, 13, 13, 18	avij~neyaM
+j~neyosi	 You can be known	1	8
+kA	 what	4	1, 2, 2, 17
+kAM	 which	1	6
+kAlAnala	 the fire of death	1	11
+kAlaH	 time	3	10, 10, 11
+kAlaM	 time	1	8
+kAle	 at the time	4	7, 8, 17, 17
+kAleShu	 times	1	8
+kAlena	 in the course of time	2	4, 4
+kAmAH	 desires	2	2, 15	kAmakAmAH
+kAmAn.h	 desiring	5	2, 2, 2, 6, 7	yoddhukAmAn.h
+kAmAt.h	 from desire	1	2
+kAmAtmAnaH	 desirous of sense gratification	1	2
+kAma	 based on desire for sense gratification	8	4, 5, 5, 7, 16, 16, 17, 18
+kAmaH	 desire	4	2, 3, 7, 16
+kAmaM	 lust	3	16, 16, 18
+kAmabhogeShu	 to sense gratification	1	16
+kAmadhuk.h	 bestower.	2	3, 10
+kAmahaitukaM	 it is due to lust only.	1	16	ahaitukaM
+kAmaiH	 by desires	1	7
+kAmakAmAH	 desiring sense enjoyments	1	9	kAmAH
+kAmakAmI	 one who desires to fulfill desires.	1	2
+kAmakArataH	 acting whimsically in lust	1	16
+kAmakAreNa	 for enjoying the result of work	1	5
+kAmarUpaM	 in the form of lust	1	3	rUpaM
+kAmarUpeNa	 in the form of lust	1	3	rUpeNa
+kAmebhyaH	 material sense gratification	1	6	ebhyaH
+kAmepsunA	 by one with desires for fruitive results	1	18
+kAmopabhoga	 sense gratification	1	16	bhoga
+kAmyAnAM	 with desire	1	18
+kAraNAni	 causes	1	18
+kAraNa	 and cause	1	13	kAraNaM
+kAraNaM	 the means	1	6	kAraNa
+kArakaiH	 which are causes	1	1
+kArayan.h	 causing to be done.	1	5
+kArpaNya	 of miserliness	1	2
+kArya	 of effect	3	13, 16, 18	kAryate, kAryaM, avikAryaH, akArya, akAryaM
+kAryaM	 duty	6	3, 3, 6, 18, 18, 18	kArya, akAryaM
+kAryate	 is forced to do	1	3	kArya
+kArye	 work	1	18	akArye
+kAshirAjaH	 Kasiraja	1	1
+kAshyaH	 the King of Kasi (Varanasi)	1	1
+kAya	 body	3	6, 18, 18
+kAyaM	 the body	1	11
+kAyena	 with the body	1	5
+kA~NkShantaH	 desiring	1	4	antaH, hanta
+kA~NkShati	 desires	4	5, 12, 14, 18
+kA~NkShe	 do I desire	1	1
+kA~NkShitaM	 is desired	1	1	hitaM
+kA~nchanaH	 gold.	2	6, 14
+kIrtayantaH	 chanting	1	9	antaH
+kIrtiH	 fame	1	10	akIrtiH
+kIrtiM	 reputation	1	2	akIrtiM
+kR^iShNAt.h	 from KRiShNa	1	18
+kR^iShNa	 O KRiShNa	8	1, 1, 1, 5, 6, 6, 6, 17	kR^iShNaM, kR^iShNaH
+kR^iShNaH	 the fortnight of the dark moon	2	8, 18	kR^iShNa
+kR^iShNaM	 unto KRiShNa	1	11	kR^iShNa
+kR^iShNe	 and darkness	1	8
+kR^iShi	 plowing	1	18
+kR^ipaH	 Krpa	1	1
+kR^ipaNAH	 misers	1	2
+kR^ipayA	 by compassion	2	1, 2
+kR^itAnte	 in the conclusion	1	18
+kR^itA~njaliH	 with folded hands	2	11, 11
+kR^ita	 determined	1	2	kR^itakR^ityaH, sukR^itasya, asatkR^itaH, asatkR^itaM, kR^itaM, akR^itabuddhitvAt.h, puNyakR^itaM, prAkR^itaH, sukR^itaM, sukR^itaduShkR^ite, aha~NkR^itaH
+kR^itaM	 done	6	1, 1, 4, 4, 17, 18	R^itaM, asatkR^itaM, puNyakR^itaM, kR^ita, sukR^itaM
+kR^itakR^ityaH	 the most perfect in his endeavors	1	15	kR^ita
+kR^itena	 by discharge of duty	1	3	R^ite, akR^itena
+kR^itsnaM	 whole	8	1, 7, 9, 10, 11, 11, 13, 13
+kR^itsnakarmakR^it.h	 although engaged in all activities.	1	4	akarmakR^it.h, karma, akarma
+kR^itsnasya	 all-inclusive	1	7
+kR^itsnavat.h	 as all in all	1	18
+kR^itsnavit.h	 one who is in factual knowledge	1	3
+kR^itvA	 doing so	8	2, 4, 5, 5, 6, 6, 18, 18	namaskR^itvA
+kShAmaye	 ask forgiveness	1	11
+kShAntiH	 tolerance	1	18
+kShAtraM	 of a ksatriya	1	18
+kShINakalmaShAH	 who are devoid of all sins	1	5	kalmaShAH
+kShINe	 being exhausted	1	9
+kShaNaM	 a moment	1	3	IkShaNaM
+kShamA	 forgiveness	3	10, 10, 16
+kShamI	 forgiving	1	12
+kShantiH	 tolerance	1	13	hanti
+kSharaH	 constantly changing	3	8, 15, 15	akSharaH
+kSharaM	 to the fallible	1	15	akSharaM, ekAkSharaM, ekamakSharaM
+kShatriyAH	 the members of the royal order	1	2
+kShatriya	 the ksatriyas	1	18	kShatriyasya
+kShatriyasya	 of the ksatriya	1	2	yasya, kShatriya
+kShayAya	 for destruction	1	16
+kShayaM	 destruction	1	18	akShayaM
+kShayakR^it.h	 the destroyer	1	11
+kShemaM	 protection	1	9
+kShemataraM	 better	1	1
+kShetrI	 the soul	1	13
+kShetra	 the field of activities (the body)	3	13, 13, 13	kShetraj~nayoH, kShetraj~naH, kShetraj~na, kShetraM, kShetraj~naM
+kShetraM	 the field	6	13, 13, 13, 13, 13, 13	kShetra
+kShetraj~na	 and the knower of the body	1	13	kShetraj~nayoH, kShetraj~naH, kShetra, kShetraj~naM
+kShetraj~naH	 the knower of the field	1	13	kShetra, aj~naH, kShetraj~na
+kShetraj~naM	 the knower of the field	2	13, 13	kShetra, kShetraj~na
+kShetraj~nayoH	 and the knower of the field	2	13, 13	kShetra, kShetraj~na
+kShetreShu	 in bodily fields	1	13
+kShipAmi	 I put	1	16
+kShipraM	 very quickly	2	4, 9
+kShudraM	 petty	1	2
+kUTasthaH	 spiritually situated	2	6, 15	sthaH
+kUTasthaM	 unchanging	1	12
+kUrmaH	 tortoise	1	2
+kaH	 who	3	8, 11, 16
+kaM	 whom	2	2, 2
+kaTu	 bitter	1	17
+kachchit.h	 whether	3	6, 18, 18
+kadAchana	 at any time	2	2, 18
+kadAchit.h	 at any time (past, present or future)	1	2
+kaiH	 with whom	2	1, 14
+kalayatAM	 of subduers	1	10
+kalevaraM	 the body	2	8, 8
+kalilaM	 dense forest	1	2
+kalmaShAH	 of sinful reactions	2	4, 5	kShINakalmaShAH
+kalmaShaH	 all material contamination	1	6
+kalpAdau	 in the beginning of the millennium	1	9
+kalpakShaye	 at the end of the millennium	1	9
+kalpate	 is considered eligible.	3	2, 14, 18
+kalyANakR^it.h	 one who is engaged in auspicious activities	1	6
+kamalAsanasthaM	 sitting on the lotus flower	1	11	Asana
+kamalapatrAkSha	 O lotus-eyed one	1	11
+kandarpaH	 Cupid	1	10	darpaH
+kapidhvajaH	 he whose flag was marked with Hanuman	1	1
+kapilaH	 Kapila Muni.	1	10
+karAlAni	 terrible	2	11, 11
+karAlaM	 horrible	1	11
+karNaH	 Karna	1	1	vikarNaH
+karNaM	 Karna	1	11
+karShati	 is struggling hard.	1	15
+karShayantaH	 tormenting	1	17	antaH
+karaM	 the cause of	1	2	suduShkaraM, anudvegakaraM
+karaNaM	 the means	4	6, 13, 18, 18
+kariShyasi	 perform	2	2, 18
+kariShyati	 can do.	1	3
+kariShye	 I shall execute	1	18
+karmANAM	 whose work	1	4
+karmANaM	 the fruits of actions	1	4
+karmANi	 in prescribed duties	20	2, 2, 3, 3, 3, 4, 4, 4, 5, 5, 5, 9, 12, 12, 13, 14, 18, 18, 18, 18	sarvakarmANi, prANakarmANi
+karma	 activity	53	2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 6, 6, 7, 8, 8, 9, 15, 16, 17, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18	karmasa.nnyAsAt.h, akarmaNaH, kR^itsnakarmakR^it.h, guNakarmasu, karmaphalaM, karmasa~NginAM, karmaNAM, karmaphalatyAgaH, karmaphale, karmaphala, karmabandhanaH, karmajA, karmaNA, karmaNi, karmaNaH, karmasa~Ngena, matkarmakR^it.h, svakarma, akarmaNi, karmayogeNa, akarmakR^it.h, janmakarmaphalapradAM, matkarma, guNakarma, puNyakarmaNAM, karmabhiH, karmasu, svakarmaNA, karmayogaH, karmayogaM, karmabandhaM, karmajaM, vikarmaNaH, akarma, karmaphalAsa~NgaM, karmasa~NgiShu, sarvakarma, karmajAn.h
+karmaNA	 by work	2	3, 18	karmaNAM, puNyakarmaNAM, karma, svakarmaNA
+karmaNAM	 of prescribed duties	7	3, 4, 5, 7, 14, 18, 18	karmaNA, puNyakarmaNAM, karma
+karmaNaH	 than fruitive action	7	3, 3, 4, 4, 14, 18, 18	akarmaNaH, karma, vikarmaNaH
+karmaNi	 in action	8	3, 3, 3, 3, 4, 4, 17, 18	akarmaNi, karma
+karmabandhaM	 bondage of reaction	1	2	bandhaM, karma
+karmabandhanaH	 bondage by work	1	3	karma
+karmabhiH	 from the bondage of the law of fruitive actions.	2	3, 4	karma
+karmajA	 from fruitive work.	1	4	karma, karmajAn.h
+karmajAn.h	 born of work	1	4	karmajA, karma
+karmajaM	 due to fruitive activities	1	2	karma
+karmaphalAsa~NgaM	 attachment for fruitive results	1	4	sa~NgaM, karma, sa~Nga
+karmaphala	 in the result of the work	3	2, 5, 18	phala, karmaphalaM, karmaphalatyAgaH, janmakarmaphalapradAM, karma
+karmaphalaM	 the results of all activities	2	5, 6	phala, phalaM, karmaphala, karma
+karmaphalatyAgaH	 renunciation of the results of fruitive action	1	12	tyAgaH, phala, karmaphala, karma, tyAga
+karmaphale	 in fruitive action	1	4	phale, karma
+karmasa.nnyAsAt.h	 in comparison to the renunciation of fruitive work	1	5	karma
+karmasa~Ngena	 by association with fruitive activity	1	14	karma, sa~Ngena
+karmasa~NgiShu	 in the association of those engaged in fruitive activities	1	14	karma
+karmasa~NginAM	 who are attached to fruitive work	1	3	karma
+karmasu	 in all activities	4	2, 6, 6, 9	guNakarmasu, karma
+karmayogaH	 work in devotion	2	5, 5	yogaH, karma
+karmayogaM	 devotion	1	3	yogaM, karma
+karmayogeNa	 by the linking process of devotion	2	3, 13	karma
+karmendriyANi	 the five working sense organs	1	3
+karmendriyaiH	 by the active sense organs	1	3
+karmibhyaH	 than the fruitive workers	1	6
+karomi	 I do	1	5
+karosi	 you do	1	9
+karoti	 do	3	4, 5, 6
+kartA	 creator	8	3, 3, 18, 18, 18, 18, 18, 18	akartAraM, kartAraM
+kartAraM	 the father	3	4, 14, 18	akartAraM, kartA
+kartR^itvaM	 proprietorship	1	5
+kartR^itve	 in the matter of creation	1	13
+kartavyAni	 should be done as duty	1	18
+kartavyaM	 prescribed duty	1	3
+kartuM	 to perform	7	1, 2, 3, 9, 12, 16, 18
+karuNaH	 kindly	1	12
+kashchana	 whatever	4	3, 6, 7, 8
+kashchit.h	 someone	8	2, 2, 3, 3, 6, 7, 7, 18
+kashmalaM	 dirtiness	1	2	ashma
+kasmAt.h	 why	1	11	asmAt.h
+kasyachit.h	 anyone's	1	5
+katarat.h	 which	1	2
+kathaM	 how	9	1, 1, 2, 2, 4, 8, 8, 10, 14
+kathaya	 describe	1	10	kathayataH, kathayantaH
+kathayantaH	 talking	1	10	kathaya, antaH
+kathayataH	 speaking	1	18	yataH, kathaya
+kathayiShyAmi	 I shall speak	1	10
+kathayiShyanti	 will speak	1	2
+kaumAraM	 boyhood	1	2
+kaunteya	 O son of Kunti	24	2, 2, 2, 3, 3, 5, 6, 7, 8, 8, 9, 9, 9, 9, 9, 13, 13, 14, 14, 16, 16, 18, 18, 18	kaunteyaH
+kaunteyaH	 the son of Kunti	1	1	kaunteya
+kaushalaM	 art.	1	2
+kavInAM	 of all great thinkers	1	10
+kavayaH	 the intelligent	2	4, 18
+kaviH	 the thinker.	1	10
+kaviM	 the one who knows everything	1	8
+ke	 who	1	12
+keShu	 in which	2	10, 10	lokeShu, pratyAnIkeShu
+kechit.h	 some of them	3	11, 11, 13
+kena	 by what	1	3
+keshava	 O killer of the demon Kesi (KRiShNa).	6	1, 2, 3, 10, 13, 18	keshavasya
+keshavasya	 of KRiShNa	1	11	keshava
+keshinishUdana	 O killer of the Kesi demon.	1	18
+kevalaM	 only	2	4, 18
+kevalaiH	 purified	1	5
+khaM	 ether	1	7
+khe	 in the ether	1	7
+kiM	 what	19	1, 1, 1, 2, 2, 2, 2, 3, 3, 4, 4, 8, 8, 8, 8, 8, 9, 10, 14
+kilbiShaH	 all of whose sins	1	6
+kilbiShaiH	 from sins	1	3
+kilbishaM	 sinful reactions.	2	4, 18
+kim	 what to speak of	1	1
+kirITin.h	 Arjuna	1	11
+kirITinaM	 with helmets	2	11, 11
+ki~nchana	 any	1	3
+ki~nchit.h	 anything	4	4, 5, 6, 13
+klaibyaM	 impotence	1	2
+kledayanti	 moistens	1	2
+klesha	 trouble	1	18	kleshaH
+kleshaH	 trouble	1	12	klesha
+krUrAn.h	 mischievous	1	16
+kratuH	 Vedic ritual	1	9
+kriyAH	 performances.	5	1, 17, 17, 17, 18	akriyAH
+kriyAbhiH	 by pious activities	1	11	yAbhiH
+kriyAvisheSha	 pompous ceremonies	1	2
+kriyaH	 and activities	1	6
+kriyamANAni	 being done	2	3, 13
+kriyante	 are done	1	17
+kriyate	 is performed	4	17, 17, 18, 18
+krodhAt.h	 from anger	1	2
+krodha	 and anger	3	5, 5, 16	krodhaH, krodhaM, akrodhaH
+krodhaH	 and anger	7	2, 2, 3, 4, 5, 16, 16	krodha, akrodhaH
+krodhaM	 anger	2	16, 18	krodha
+kulaM	 family	1	1
+kuladharmAH	 the family traditions	2	1, 1
+kuladharmANAM	 of those who have the family traditions	1	1
+kulaghnAnAM	 for those who are killers of the family	2	1, 1
+kulakShaya	 in killing the family	2	1, 1
+kulakShaye	 in destroying the family	1	1
+kulastriyaH	 family ladies	1	1	striyaH
+kulasya	 for the family	1	1
+kule	 in the family	1	6
+kuntIputraH	 the son of Kunti	1	1	putra
+kuntibhojaH	 Kuntibhoja	1	1
+kurUn.h	 the members of the Kuru dynasty	1	1
+kuru	 perform	5	2, 3, 4, 12, 18
+kuruShva	 do	1	9
+kurukShetre	 in the place named Kuruksetra	1	1
+kurunandana	 O beloved child of the Kurus	3	2, 6, 14
+kurupravIra	 O best among the Kuru warriors.	1	11
+kurusattama	 O best amongst the Kurus.	1	4
+kurushreShTha	 O best of the Kurus	1	10
+kurute	 does perform	3	3, 4, 4
+kuruvR^iddhaH	 the grandsire of the Kuru dynasty (Bhishma)	1	1
+kurvANaH	 performing	1	18
+kurvAn.h	 doing	1	4
+kurvan.h	 doing anything	3	5, 12, 18
+kurvannapi	 although engaged in work	1	5
+kurvanti	 they do	2	3, 5
+kuryAM	 I perform	1	3
+kuryAt.h	 must do	1	3
+kusha	 and kusa grass	1	6	kushale, akushalaM
+kushale	 in the auspicious	1	18	kusha
+kusumAkaraH	 spring.	1	10
+kutaH	 wherefrom	4	2, 2, 4, 11
+kvachit.h	 at any time.	1	18
+lAbhAlAbhau	 both profit and loss	1	2	lAbha
+lAbha	 with gain	1	4	lAbhaM, lAbhAlAbhau
+lAbhaM	 gain	1	6	lAbha
+lAghavaM	 decreased in value.	1	2
+labdhA	 regained	1	18
+labdhaM	 gained	1	16
+labdhvA	 having achieved	2	4, 6
+labhante	 do achieve	3	2, 5, 9
+labhasva	 gain	1	11
+labhate	 achieves	5	4, 6, 7, 18, 18
+labhe	 I obtain	1	11	labhet.h
+labhet.h	 gains.	1	18	labhe
+labhyaH	 can be achieved	1	8
+laghvAshI	 eating a small quantity	1	18
+lavaNa	 salty	1	17
+lelihyase	 You are licking	1	11
+limpanti	 do affect	1	4
+lipyate	 is entangled.	3	5, 5, 18	upalipyate
+li~NgaiH	 symptoms	1	14
+loShTa	 a lump of earth	1	14
+loShTra	 pebbles	1	6
+lobha	 by greed	1	1	lobhaH
+lobhaH	 greed	3	14, 14, 16	lobha
+lokAH	 all the world	6	3, 3, 4, 8, 11, 11
+lokAn.h	 planets	7	6, 10, 11, 11, 14, 18, 18
+lokAt.h	 from people	1	12
+loka	 of the planets	4	10, 11, 11, 15
+lokaH	 world	4	3, 4, 7, 12
+lokaM	 the world	3	9, 9, 13	martyalokaM, svargalokaM
+lokasa.ngrahaM	 the people in general	2	3, 3
+lokasya	 of the people	2	5, 11
+lokatraye	 in the three planetary systems	1	11
+loke	 in this world	9	2, 3, 4, 6, 10, 13, 15, 15, 16
+lokeShu	 planetary systems	1	3	keShu
+lubdhaH	 greedy	1	18
+lupta	 stopped	1	1
+mA	 do not	9	2, 2, 2, 2, 11, 11, 11, 16, 18
+mAM	 me	84	1, 2, 3, 4, 4, 4, 4, 4, 4, 5, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 12, 12, 12, 12, 13, 14, 15, 15, 16, 16, 17, 18, 18, 18, 18, 18, 18, 18
+mAdhava	 O KRiShNa, husband of the goddess of fortune.	1	1	mAdhavaH
+mAdhavaH	 KRiShNa (the husband of the goddess of fortune)	1	1	mAdhava
+mAhAtmyaM	 glories	1	11
+mAlya	 garlands	1	11
+mAmakAH	 my party (sons)	1	1
+mAmakaM	 from Me.	1	15
+mAmikAM	 My	1	9
+mAna	 in honor	5	6, 12, 14, 15, 17
+mAnasAH	 from the mind	1	10
+mAnasaH	 within the mind.	3	1, 6, 18
+mAnasaM	 of the mind	1	17
+mAnavAH	 human beings	1	3
+mAnavaH	 a man	2	3, 18
+mAnuShIM	 in a human form	1	9
+mAnuShaM	 human	1	11
+mAnuShe	 in human society	1	4
+mArdavaM	 gentleness	1	16
+mArgashIrShaH	 the month of November-December	1	10
+mArutaH	 wind.	1	2
+mAsAnAM	 of months	1	10
+mAtA	 mother	1	9
+mAtrAsparshaH	 sensory perception	1	2
+mAtulAH	 maternal uncles	1	1
+mAtulAn.h	 maternal uncles	1	1
+mAyA	 energy	1	7
+mAyAmetAM	 this illusory energy	1	7
+mAyayA	 by the illusory energy	2	7, 18	AtmamAyayA
+mR^igANAM	 of animals	1	10
+mR^igendraH	 the lion	1	10
+mR^itaM	 dead	1	2	R^itaM, amR^itaM, smR^itaM
+mR^itasya	 of the dead	1	2	tasya, amR^itasya
+mR^ityu	 of death	4	9, 12, 13, 14	mR^ityuH, mR^ityuM
+mR^ityuH	 death	3	2, 9, 10	mR^ityu
+mR^ityuM	 the path of death	1	13	mR^ityu
+mUDhAH	 foolish men	2	9, 16	asammUDhAH, sammUDhAH, vimUDhAH, amUDhAH
+mUDha	 foolish	1	17	asammUDhaH, sammUDha, vimUDha, vimUDhaH, vimUDhabhAvaH, mUDhayoniShu, aha~NkAravimUDha, mUDhaH
+mUDhaH	 foolish	2	7, 7	asammUDhaH, mUDha, vimUDhaH
+mUDhayoniShu	 in animal species	1	14	mUDha, yoniShu
+mUlAni	 roots	1	15
+mUlaM	 rooted	1	15	UrdhvamUlaM
+mUrdhni	 on the head	1	8
+mUrtayaH	 forms	1	14
+ma.nsyante	 they will consider	1	2
+maNigaNAH	 pearls	1	7
+machchittAH	 their minds fully engaged in Me	1	10
+machchittaH	 in consciousness of Me	1	18	chitta, chittaH
+mad.hbhAvaM	 transcendental love for Me	2	4, 14	bhAva, bhAvaM
+mad.hbhaktaH	 My devotee	1	18	bhaktaH
+mad.hbhaktiM	 My devotional service	1	18	bhaktiM
+mad.hvyapAshrayaH	 under My protection	1	18	vyapAshrayaH
+madAnvitAH	 absorbed in the conceit	1	16
+madAshrayaH	 in consciousness of Me (KRiShNa consciousness)	1	7
+mada	 in the delusion	1	16
+madaM	 illusion	1	18
+madanugrahAya	 just to show me favor	1	11
+madarthaM	 for My sake	1	12	arthaM, artha
+madarthe	 for my sake	1	1	arthe
+madbhAvAH	 born of Me	1	10	bhAvAH
+madbhAvAya	 to My nature	1	13
+madbhAvaM	 My nature	1	8	bhAva, bhAvaM
+madbhaktaH	 engaged in My devotional service	4	11, 12, 12, 13	bhaktaH
+madgataprANAH	 their lives devoted to Me	1	10
+madgatena	 abiding in Me, always thinking of Me	1	6
+madhusUdana	 O killer of the demon Madhu (KRiShNa)	4	1, 2, 6, 8	madhusUdanaH
+madhusUdanaH	 the killer of Madhu.	1	2	madhusUdana
+madhyAni	 in the middle	1	2
+madhya	 middle	1	11	madhyastha, madhyaM
+madhyaM	 middle	2	10, 10	madhya
+madhyastha	 mediators between belligerents	1	6	madhya
+madhye	 between	5	1, 1, 2, 8, 14
+madyAjI	 My worshiper	1	18
+mahAbAho	 O mighty-armed one	14	2, 2, 3, 3, 5, 5, 6, 6, 7, 10, 11, 14, 18, 18
+mahAbAhuH	 mighty-armed	1	1
+mahAbhUtAnI	 the great elements	1	13	bhUtAnI
+mahAn.h	 great	2	9, 18	pitAmahAn.h
+mahAnubhavAn.h	 great souls	1	2	bhavAn.h
+mahApApmA	 greatly sinful	1	3
+mahArathAH	 great chariot fighters.	2	1, 2
+mahArathaH	 great fighter.	2	1, 1	ratha
+mahAshanaH	 all-devouring	1	3
+mahAsha~NkhaM	 the terrific conchshell	1	1	sha~NkhaM
+mahAtmA	 great soul	2	7, 11	mahAtmAnaH
+mahAtmAnaH	 the great souls	1	9	mahAtmA
+mahAtman.h	 O great one.	2	11, 11
+mahAtmanaH	 the great souls	3	8, 11, 18	manaH, AtmanaH
+mahAyogeshvaraH	 the most powerful mystic	1	11	yogeshvaraH, yogeshvara
+mahIM	 the world	1	2
+mahIkR^ite	 for the sake of the earth	1	1	R^ite
+mahIkShitAM	 chiefs of the world	1	1
+mahIpate	 O King.	1	1
+mahadyoniH	 source of birth in the material substance	1	14	yoniH
+maharShINAM	 of the great sages	2	10, 10
+maharShayaH	 great sages	2	10, 10	harSha
+maharShi	 great sages	1	11
+mahat.h	 great	3	1, 11, 14
+mahatA	 great	1	4
+mahatIM	 great	1	1
+mahataH	 from very great	1	2	hataH
+mahati	 in a great	1	1
+maheshvAsAH	 mighty bowmen	1	1
+maheshvaraH	 the Supreme Lord	1	13
+maheshvaraM	 the Supreme Lord	3	5, 9, 10
+mahimAnaM	 glories	1	11
+maitraH	 friendly	1	12
+makaraH	 the shark	1	10
+malena	 by dust	1	3
+mama	 my	23	1, 1, 2, 3, 4, 7, 7, 7, 8, 9, 9, 10, 10, 10, 11, 11, 11, 11, 13, 14, 14, 15, 15
+manIShiNAM	 even for the great souls.	1	18
+manIShiNaH	 great sages or devotees	2	2, 18
+mana	 and false prestige	1	16
+manaH	 mind	25	1, 2, 2, 3, 3, 5, 5, 6, 6, 6, 6, 6, 6, 7, 8, 8, 10, 11, 12, 12, 12, 15, 15, 17, 18	prayatAtmanaH, manaHprasAdaH, mahAtmanaH, anAtmanaH, abhimanaH, jitAtmanaH, AtmanaH
+manaHprasAdaH	 satisfaction of the mind	1	17	manaH
+manasA	 by the mind	6	3, 3, 5, 5, 6, 8
+manasaH	 more than the mind	1	3	ananyamanasaH, niyatamanasaH
+manasaM	 whose mind	1	6
+manavaH	 Manus	1	10
+manave	 unto the father of mankind (of the name Vaivasvata)	1	4
+mandAn.h	 lazy to understand self-realization	1	3
+manmanAH	 always thinking of Me	2	9, 18
+manmayA	 fully in Me	1	4
+manobhiH	 and mind	1	18
+manogatAn.h	 of mental concoction	1	2	tAn.h
+manorathaM	 according to my desires	1	16	rathaM, ratha
+mantavyaH	 is to be considered	1	9
+mantraH	 transcendental chant	1	9
+mantrahInaM	 with no chanting of the Vedic hymns	1	17
+manuH	 the father of mankind	1	4
+manuShyAH	 all men	2	3, 4
+manuShyANAM	 of such men	2	1, 7
+manuShyaloke	 in the world of human society.	1	15
+manuShyeShu	 in human society	2	4, 18
+manyante	 think	1	7
+manyase	 you so think	3	2, 11, 18
+manyate	 thinks	4	2, 3, 6, 18
+manye	 think	2	6, 10	manyeta
+manyeta	 thinks	1	5	manye
+marIchiH	 Marici	1	10
+maraNAt.h	 than death	1	2	raNAt.h
+maraNa	 and death	1	7
+martyalokaM	 to the mortal earth	1	9	lokaM
+martyeShu	 among those subject to death	1	10
+marutAM	 of the Maruts	1	10
+marutaH	 the forty-nine Maruts (demigods of the wind)	2	11, 11
+mat.h	 upon Me (KRiShNa)	11	6, 6, 7, 9, 9, 9, 9, 10, 12, 18, 18	shrutimat.h, shrImat.h
+matA	 is considered	2	3, 16
+matAH	 are considered.	1	12
+mataH	 is considered.	5	6, 6, 6, 11, 18	bahumataH
+mataM	 injunctions	5	3, 3, 7, 13, 18	shrImataM
+mate	 in the opinion	1	8
+matiH	 opinion	3	6, 12, 18	durmatiH
+matirmama	 my opinion.	1	18
+matkarma	 My work	1	12	matkarmakR^it.h, karma
+matkarmakR^it.h	 engaged in doing My work	1	11	matkarma, karma
+matparAH	 being attached to Me	1	12
+matparAyaNaH	 devoted to Me.	1	9	parAyaNaH
+matparaH	 in relationship with Me	2	2, 18	paraH
+matparaM	 subordinate to Me	1	13	paraM
+matparamAH	 taking Me, the Supreme Lord, as everything	1	12	paramAH
+matparamaH	 considering Me the Supreme	1	11	paramaH, parama
+matprasAdAt.h	 by My mercy	2	18, 18
+matsa.nsthAM	 the spiritual sky (the kingdom of God)	1	6
+matsthAni	 in Me	3	9, 9, 9	sthAni
+mattaH	 beyond Me	5	7, 7, 10, 10, 15
+matvA	 thinking	3	3, 10, 11	sUkShmatvAt.h
+maunaM	 silence	2	10, 17
+mauni	 silent	1	12
+mayA	 by me	22	1, 3, 4, 4, 7, 9, 9, 10, 10, 10, 11, 11, 11, 11, 11, 11, 15, 16, 16, 16, 18, 18
+mayaH	 full of	1	17	vismayaH
+mayi	 unto Me	20	3, 4, 6, 6, 7, 7, 7, 8, 9, 12, 12, 12, 12, 12, 12, 12, 12, 13, 18, 18
+me	 my	60	1, 1, 1, 1, 2, 3, 3, 3, 3, 4, 4, 4, 4, 5, 6, 6, 6, 6, 7, 7, 7, 9, 9, 9, 9, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 12, 12, 13, 16, 16, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18
+medhA	 intelligence	1	10	durmedhA, medhAvI
+medhAvI	 intelligent	1	18	medhA
+meruH	 Meru	1	10
+mishraM	 mixed	1	18
+mithyAchAraH	 pretender	1	3	AchAraH
+mithyaiShaH	 this is all false	1	18
+mitra	 benefactors with affection	2	6, 14	mitradrohe
+mitradrohe	 in quarreling with friends	1	1	mitra
+mitre	 to a friend	1	12
+modiShye	 I shall rejoice	1	16
+moghAshAH	 baffled in their hopes	1	9
+moghaM	 uselessly	1	3
+moghaj~nAnAH	 baffled in knowledge	1	9	j~nAnAH
+moghakarmANaH	 baffled in fruitive activities	1	9
+mohAt.h	 by illusion	4	16, 18, 18, 18	sammohAt.h
+moha	 of illusion	3	2, 7, 16
+mohaH	 illusion	4	11, 14, 15, 18	sammohaH, asammohaH
+mohaM	 to illusion	2	4, 14	sammohaM
+mohanaM	 the delusion	2	14, 18
+mohau	 and illusion	1	14
+mohayasi	 You are bewildering	1	3
+mohena	 by the illusion	1	7
+mohinIM	 bewildering	1	9
+mohitAH	 are bewildered	1	4	vimohitAH
+mohitaM	 deluded	1	7	hitaM
+mokShAya	 for the purpose of liberation	1	7	vimokShAya
+mokSha	 for liberation	1	5	mokShaM, mokShayiShyAmi, mokShakA~NkShibhiH, vimokShaNAt.h
+mokShaM	 the liberation	2	13, 18	mokSha
+mokShakA~NkShibhiH	 by those who actually desire liberation.	1	17	mokSha
+mokShayiShyAmi	 will deliver	1	18	mokSha
+mokShyase	 you will be liberated	3	4, 9, 9	vimokShyase
+mriyate	 dies	1	2
+muchyante	 get relief	2	3, 3
+muhurmuhuH	 repeatedly.	1	18
+muhyanti	 are bewildered	1	5
+muhyati	 is deluded.	2	2, 8	vimuhyati
+mukhAni	 faces	1	11
+mukhaM	 mouth	2	1, 13	vishvatomukhaM
+mukhe	 through the mouth	1	4	pramukhe
+mukhyaM	 the chief	1	10
+muktaH	 liberated	3	5, 12, 18	uktaH, vimuktaH
+muktaM	 liberated	1	18	uktaM
+muktasa~NgaH	 liberated from association	2	3, 18	sa~NgaH, sa~Nga
+muktasya	 of the liberated	1	4	tasya
+muktvA	 quitting	1	8	uktvA
+mumukShubhiH	 who attained liberation	1	4
+munInAM	 of the sages	1	10
+munayaH	 the sages	1	14
+muneH	 sage.	2	2, 6
+muniH	 a sage	3	2, 5, 5
+nAbhijAnAti	 does not know	1	7	jAnAti
+nAgAnAM	 of the manyhooded serpents	1	10
+nAma	 in name only	1	16
+nAnA	 many	2	1, 11
+nAnAbhAvAn.h	 multifarious situations	1	18
+nAnAvidhAni	 variegated	1	11
+nAntaM	 no end	1	11
+nAnyagAminA	 without their being deviated	1	8
+nArINAM	 of women	1	10
+nAradaH	 Narada	2	10, 10
+nAsAbhyantara	 within the nostrils	1	5
+nAshAya	 for destruction	2	11, 11	vinAshAya
+nAshaH	 loss	1	2	buddhinAshaH, vinAshaH
+nAshanaM	 the destroyer.	2	3, 16
+nAshayAmi	 dispel	1	10
+nAshitaM	 is destroyed	1	5	hitaM
+nAsikA	 of the nose	1	6
+nAsti	 there cannot be	3	2, 10, 10
+nAyakAH	 captains	1	1
+nIchaM	 low	1	6
+nItiH	 morality	2	10, 18
+nR^iShu	 in men.	1	7
+nR^iloke	 in this material world	1	11
+na	 nor	248	1, 1, 1, 1, 1, 1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 12, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13, 13, 13, 13, 14, 14, 14, 14, 14, 14, 14, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 15, 16, 16, 16, 16, 16, 16, 16, 16, 17, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18
+naH	 to us	5	1, 1, 1, 2, 2
+naShTAn.h	 all ruined	1	3
+naShTa	 having lost	1	16	naShTaH
+naShTaH	 scattered	2	4, 18	naShTa
+naShTe	 being destroyed	1	1
+nabhaH	 the sky	1	1	nabhaHspR^ishaM
+nabhaHspR^ishaM	 touching the sky	1	11	nabhaH
+nadInAM	 of the rivers	1	11
+naiShThikIM	 unflinching	1	5
+naiShkR^itikaH	 expert in insulting others	1	18
+naiShkarmyaM	 freedom from reaction	1	3
+naiShkarmyasiddhiM	 the perfection of nonreaction	1	18	siddhi, siddhiM
+naiva	 never is it so	1	6	tenaiva
+nakShatrANAM	 of the stars	1	10
+nakulaH	 Nakula	1	1
+namaH	 obeisances	6	11, 11, 11, 11, 11, 11
+namaskR^itvA	 offering obeisances	1	11	kR^itvA
+namaskuru	 offer obeisances	2	9, 18
+namaste	 offering my respects unto You.	1	11
+namasyantaH	 offering obeisances	1	9	antaH
+namasyanti	 are offering respects	1	11
+nameran.h	 they should offer proper obeisances	1	11
+narANAM	 among human beings	1	10
+narAdhamAH	 lowest among mankind	1	7
+narAdhamAn.h	 the lowest of mankind	1	16
+narAdhipaM	 the king.	1	10
+naraH	 a man	7	2, 5, 12, 16, 18, 18, 18	vaishvAnaraH
+naraiH	 by men	1	17
+narakAya	 make for hellish life	1	1
+narakasya	 of hell	1	16
+narake	 in hell	2	1, 16
+naralokavIrAH	 kings of human society	1	11
+narapu~NgavaH	 hero in human society.	1	1
+nashyAtsu	 being annihilated	1	8
+nashyati	 perishes	1	6	vinashyati
+navAni	 new garments	2	2, 2
+navaM	 a boat	1	2
+navadvAre	 in the place where there are nine gates	1	5
+nayanaM	 eyes	1	11
+nayet.h	 must bring under.	1	6	janayet.h
+netraM	 eyes	4	11, 11, 11, 11
+niH	 without	2	6, 15
+niHshreyasakarau	 leading to the path of liberation	1	5
+niHspR^ihaH	 desireless	1	2
+niShThA	 faith	3	3, 17, 18	tanniShThAH
+nibaddhaH	 conditioned	1	18
+nibadhnAti	 binds	2	14, 14	badhnAti
+nibadhnanti	 do bind	3	4, 9, 14
+nibadhyate	 becomes affected.	3	4, 5, 18	badhyate
+nibandhAya	 for bondage	1	16
+nibodha	 just take note of, be informed	3	1, 18, 18
+nidhAnaM	 resting place	3	9, 11, 11
+nidhanAni	 when vanquished	1	2	dhanAni
+nidhanaM	 destruction	1	3	dhanaM
+nidrA	 sleep	1	18	nidrAbhiH
+nidrAbhiH	 and sleep	1	14	nidrA
+nigR^ihItAni	 so curbed down	1	2
+nigR^ihNAmi	 withhold	1	9
+nigachChati	 attains	2	9, 18	gachChati
+nigrahaH	 repression	1	3	vinigrahaH, AtmavinigrahaH
+nigrahaM	 subduing	1	6	durnigrahaM
+nihatAH	 killed	1	11
+nihatya	 by killing	1	1
+nimiShan.h	 closing	1	5
+nimittAni	 causes	1	1
+nimittamAtraM	 just the cause	1	11
+nindA	 in defamation	2	12, 14
+nindantaH	 while vilifying	1	2	antaH
+nirAhArasya	 by negative restrictions	1	2	AhAra
+nirAshIH	 without desire for profit	3	3, 4, 6
+nirAshrayaH	 without any shelter	1	4
+nirIkShe	 may look upon	1	1
+niraha~NkAraH	 without false ego	2	2, 12	aha~NkAraH, aha~NkAra
+nirataH	 engaged	1	18
+nirdeshaH	 indication	1	17	desha
+nirdhUta	 cleansed	1	5
+nirdoShaM	 flawless	1	5	doSha, doShaM
+nirdvandvaH	 without duality	2	2, 5	dvandva, dvandvaH
+nirguNaM	 without material qualities	1	13
+nirguNatvAt.h	 due to being transcendental	1	13
+nirmalaM	 purified	1	14
+nirmalatvAt.h	 being purest in the material world	1	14
+nirmamaH	 without a sense of proprietorship	4	2, 3, 12, 18
+nirmuktAH	 free from	1	7	vinirmuktAH, uktAH
+niruddhaM	 being restrained from matter	1	6
+nirudhya	 confining	1	8
+nirvANaparamAM	 cessation of material existence	1	6	paramAM
+nirvairaH	 without an enemy	1	11
+nirvedaM	 callousness	1	2
+nirvikAraH	 without change	1	18
+niryogakShemaH	 free from ideas of gain and protection	1	2
+nishA	 is night	2	2, 2
+nishchalA	 unmoved	1	2
+nishchalati	 becomes verily agitated	1	6	chalati
+nishchayaH	 in certainty.	1	2	dR^iDhanishchayaH
+nishchayaM	 certainty	1	18
+nishchayena	 with firm determination	1	6
+nishchitAH	 having ascertained	1	16
+nishchitaM	 confidently	2	2, 18	sunishchitaM, hitaM
+nishchitya	 ascertaining	1	3
+nispR^ihaH	 devoid of desire	1	6
+nistraiguNyaH	 transcendental to the three modes of material nature	1	2	traiguNya
+nityAH	 in eternity	1	15
+nitya	 always	5	4, 5, 8, 9, 12	nityaM, nityaH, nityatvaM, nityayuktAH, nityashaH, nityavairiNa, nityasya, nityayuktaH, nityasattvasthaH, nityajAtaM, anityaM, anityaH
+nityaH	 eternal	2	2, 2	nitya, anityaH
+nityaM	 always existing	10	2, 2, 2, 3, 3, 9, 10, 11, 13, 18	nitya, anityaM
+nityajAtaM	 always born	1	2	nitya
+nityasattvasthaH	 in a pure state of spiritual existence	1	2	sthaH, nitya, sattva
+nityashaH	 regularly	1	8	yashaH, nitya
+nityasya	 eternal in existence	1	2	yasya, nitya
+nityatvaM	 constancy	1	13	nitya
+nityavairiNa	 by the eternal enemy	1	3	nitya
+nityayuktAH	 perpetually engaged	1	9	yuktAH, nitya, uktAH
+nityayuktaH	 always engaged	1	7	yukta, uktaH, nitya, yuktaH, ayuktaH
+nivAsaH	 abode	1	9	vAsaH
+nivAtasthaH	 in a place without wind	1	6	sthaH
+nivR^ittiM	 not acting improperly	2	16, 18
+nivartante	 come back	3	8, 9, 15	vartante, vinivartante
+nivartanti	 they come back	1	15
+nivartate	 he ceases from.	2	2, 8	vartate
+nivartituM	 to cease	1	1
+nivasiShyasi	 you will live	1	12
+niveshaya	 apply	1	12
+niyamaM	 regulations	1	7
+niyamya	 regulating	4	3, 3, 6, 18	viniyamya, sanniyamya
+niyatAH	 controlled	1	7
+niyatAtmabhiH	 by the self-controlled.	1	8	yatAtma
+niyata	 having controlled	1	4	niyatasya, niyataM, svabhAvaniyataM, niyatamanasaH, viniyataM
+niyataM	 always	4	1, 3, 18, 18	svabhAvaniyataM, niyata, viniyataM
+niyatamanasaH	 with a regulated mind	1	6	manasaH, niyata
+niyatasya	 prescribed	1	18	tasya, niyata
+niyojayasi	 You are engaging	1	3
+niyojitaH	 engaged.	1	3	jitaH
+niyokShyati	 will engage.	1	18
+no	 nor	1	17
+nu	 of course	1	2
+nyAsaM	 renunciation	1	18	sa.nnyAsaM
+nyAyyaM	 right	1	18
+of		17	2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18
+ojasA	 by My energy	1	15
+pANDavAH	 the sons of Pandu	1	1
+pANDavAnAM	 of the Pandavas	1	10
+pANDavAnIkaM	 the soldiers of the Pandavas	1	1
+pANDava	 O son of Pandu	5	4, 6, 11, 14, 16	pANDavaH
+pANDavaH	 Arjuna (the son of Pandu)	3	1, 1, 11	pANDava
+pANDuputrANAM	 of the sons of Pandu	1	1
+pANi	 hands	1	13
+pAdaM	 and legs	1	11
+pApAH	 sinners	2	3, 9
+pApAt.h	 from sins	1	1
+pApaM	 vices	7	1, 1, 2, 2, 3, 5, 7
+pApakR^ittamaH	 the greatest sinner	1	4	tamaH
+pApayonayaH	 born of a lower family	1	9	yonayaH
+pApeShu	 unto the sinners	1	6
+pApebhyaH	 of sinners	2	4, 18	ebhyaH
+pApena	 by sin	1	5
+pApmAnaM	 the great symbol of sin	1	3
+pArthAya	 unto Arjuna	1	11
+pArtha	 O son of Pritha	38	1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 6, 7, 7, 8, 8, 8, 8, 8, 9, 9, 10, 11, 12, 16, 16, 17, 17, 18, 18, 18, 18, 18, 18, 18, 18	pArthaH, pArthasya, anukampArthaM
+pArthaH	 Arjuna	2	1, 18	pArtha
+pArthasya	 and Arjuna	1	18	pArtha
+pAruShyaM	 harshness	1	16
+pAtakaM	 sinful reactions	1	1
+pAtre	 to a suitable person	1	17	apAtrebhyaH
+pAvakaH	 fire	3	2, 10, 15
+pAvanAni	 purifying	1	18
+pA~nchajanyaM	 the conchshell named Pancajanya	1	1	anyaM
+pIDayA	 by torture	1	17
+pR^iShThataH	 from behind	1	11	hataH
+pR^ichChAmi	 I am asking	1	2	ichChAmi, ichChA
+pR^ithag.hvidhAH	 variously arranged.	1	10
+pR^ithag.hvidhAn.h	 different	1	18
+pR^ithag.hvidhaM	 of different kinds	1	18
+pR^ithagbhAvaM	 separated identities	1	13	bhAva, bhAvaM
+pR^ithak.h	 each separately.	5	1, 5, 13, 18, 18
+pR^ithaktvena	 in duality	3	9, 18, 18
+pR^ithivIM	 the surface of the earth	1	1
+pR^ithivIpate	 O King	1	1
+pR^ithivyAM	 in the earth	2	7, 18
+pUjA	 and worship	1	17
+pUjAnaM	 worship	1	17
+pUjArhau	 those who are worshipable	1	2
+pUjyaH	 worshipable	1	11
+pUruShaH	 a man.	2	3, 3
+pUrvANi	 before	1	11
+pUrva	 previous	1	6	pUrvataraM, pUrvaiH, prItipUrvakaM, avidhipUrvakaM, adR^iShTapUrvaM, pUrvameva
+pUrvaiH	 by past authorities	2	4, 4	pUrva
+pUrvameva	 by previous arrangement	1	11	pUrva
+pUrvataraM	 in ancient times	1	4	pUrva
+pUrve	 before	1	10
+pUtAH	 being purified	1	4
+pUta	 purified	1	9
+pUti	 bad-smelling	1	17
+paNDitAH	 the learned.	3	2, 5, 5
+paNDitaM	 learned	1	4
+paNavAnaka	 small drums and kettledrums	1	1
+pachAmi	 I digest	1	15
+pachanti	 prepare food	1	3	hanti
+padaM	 position	6	2, 8, 13, 15, 15, 18	sampadaM
+padaiH	 by the aphorisms	1	13
+padmapatraM	 a lotus leaf	1	5	patraM
+pakShayoH	 to the parties	1	14
+pakShiNAM	 of birds.	1	10	akShi
+parA	 superior	2	3, 18
+parAM	 transcendental	9	4, 6, 9, 13, 16, 16, 18, 18, 18
+parANi	 superior	1	3	aparANi
+parAyaNAH	 so inclined	2	4, 16	shrutiparAyaNAH
+parAyaNaH	 being so destined	1	5	matparAyaNaH, tatparAyaNaH
+parNAni	 the leaves	1	15
+para	 and in other	1	16
+para.ntapa	 O chastiser of the enemies.	1	2
+paraH	 in the next life	5	4, 6, 8, 8, 13	matparaH, tatparaH, dhyAnayogaparaH
+paraM	 far superior things	24	2, 3, 3, 3, 3, 4, 7, 7, 7, 8, 8, 9, 10, 10, 11, 11, 11, 11, 13, 13, 14, 14, 14, 18	aparaM, tatparaM, parasparaM, matparaM
+paradharmAt.h	 than duties mentioned for others	2	3, 18
+paradharmaH	 duties prescribed for others	1	3	adharmaH, adharma, dharma
+paramAH	 the highest goal of life	1	16	matparamAH
+paramAM	 the supreme	4	8, 8, 8, 18	nirvANaparamAM
+paramAtmA	 the Supersoul	1	6
+paramAtma	 the Supersoul	1	13
+parama	 beyond material nature	2	13, 15	uparamate, paramaM, paramaH, matparamaH
+paramaH	 perfect	2	6, 12	parama, matparamaH
+paramaM	 transcendental	11	8, 8, 8, 10, 10, 11, 11, 11, 15, 18, 18	parama
+parameShvAsaH	 the great archer	1	1	vAsaH
+parameshvara	 O Supreme Lord	1	11	parameshvaraM
+parameshvaraM	 the Supersoul	1	13	parameshvara
+paramparA	 by disciplic succession	1	4
+parantapa	 the chastiser of the enemies	9	2, 4, 4, 4, 7, 9, 10, 11, 18
+parasparaM	 mutually	2	3, 10	paraM
+parastAt.h	 transcendental.	1	8
+parasya	 to others	1	17
+parataH	 superior	1	3
+parataraM	 superior	1	7
+parayA	 of a high grade	3	1, 12, 17
+pari	 sufficiently	1	2
+pariNAme	 at the end	2	18, 18
+parichakShate	 is to be considered.	2	17, 17
+paricharya	 service	1	18
+parichintayan.h	 thinking of	1	10
+paridahyate	 is burning.	1	1
+paridevanA	 lamentation.	1	2
+parigrahaH	 sense of proprietorship over possessions	1	4	aparigrahaH
+parigrahaM	 and acceptance of material things	1	18
+parij~nAtA	 the knower	1	18
+parikIrtitaH	 is declared.	2	18, 18
+parikliShTaM	 grudgingly	1	17	iShTa, iShTaM
+parimArgitavyaM	 has to be searched out	1	15
+paripanthinau	 stumbling blocks.	1	3
+pariprashnena	 by submissive inquiries	1	4
+parisamapyate	 end.	1	4
+parishuShyati	 is drying up.	1	1
+paritrANAya	 for the deliverance	1	4
+parityAgI	 renouncer	3	12, 12, 14	tyAgI
+parityAgaH	 renunciation	1	18	tyAgaH, tyAga
+parityajya	 abandoning	1	18
+parjanyAt.h	 from rains	1	3
+parjanyaH	 rain	1	3	anyaH
+paryAptaM	 limited	1	1	aparyAptaM
+paryantaM	 including	1	8	antaM
+paryuShitaM	 decomposed	1	17	hitaM
+paryupAsate	 worship perfectly	5	4, 9, 12, 12, 12	upAsate
+pashyAmi	 I see	7	1, 6, 11, 11, 11, 11, 11	prapashyAmi, anupashyAmi
+pashya	 behold	8	1, 1, 9, 11, 11, 11, 11, 11	pashyati, apashyat.h, anupashyati, prapashyadbhiH, pashyanti, pashyan.h, prapashya, sampashyan.h, anupashyanti, pashyataH
+pashyan.h	 seeing	3	5, 6, 13	pashya, sampashyan.h
+pashyanti	 see	5	1, 13, 15, 15, 15	pashya, anupashyanti
+pashyataH	 for the introspective	1	2	pashya, yataH
+pashyati	 sees	12	2, 5, 5, 6, 6, 6, 13, 13, 13, 13, 18, 18	anupashyati, pashya
+pashyet.h	 observes	1	4
+patanti	 fall down	2	1, 16
+pata~NgAH	 moths	1	11
+pathi	 on the path.	1	6
+patraM	 a leaf	1	9	padmapatraM
+pau.nDraM	 the conch named Paundra	1	1
+pauruShaM	 ability	2	7, 18
+paurvadehikaM	 from the previous body	1	6
+pautrAH	 grandsons	1	1
+pautrAn.h	 grandsons	1	1
+pavanaH	 the wind	1	10
+pavatAM	 of all that purifies	1	10
+pavitraM	 sanctified	4	4, 9, 9, 10
+pa~ncha	 five	3	13, 18, 18	pa~nchamaM
+pa~nchamaM	 the fifth.	1	18	pa~ncha
+phalAkA~NkShI	 desiring fruitive results	1	18
+phalAni	 results	1	18
+phala	 of the results	3	12, 18, 18	karmaphalaM, karmaphalatyAgaH, phalaM, karmaphala, phalaiH, aphalaprepsunA, janmakarmaphalapradAM, puNyaphalaM, phalahetavaH
+phalaM	 results	13	2, 5, 7, 9, 14, 14, 14, 17, 17, 17, 18, 18, 18	phala, karmaphalaM, puNyaphalaM
+phalahetavaH	 those desiring fruitive results.	1	2	phala, hetavaH
+phalaiH	 results	1	9	phala
+phale	 in the result	1	5	karmaphale, phaleShu
+phaleShu	 in the fruits	1	2	phale
+piNDa	 of offerings of food	1	1
+pitA	 father	3	9, 11, 14
+pitAmahAH	 grandfathers	1	1
+pitAmahAn.h	 grandfathers	1	1	mahAn.h
+pitAmahaH	 the grandfather	2	1, 9	prapitAmahaH
+pitR^INAM	 of the ancestors	1	10
+pitR^In.h	 to the ancestors	1	9
+pitR^in.h	 fathers	1	1
+pitR^ivratAH	 worshipers of ancestors	1	9	ratAH, vratAH
+pitaraH	 fathers	2	1, 1	itaraH
+piteva	 like a father	1	11
+prANAn.h	 lives	2	1, 4
+prANApAnau	 up-and down-moving air	1	5
+prANAyAma	 trance induced by stopping all breathing	1	4
+prANa	 of the air going outward	3	4, 15, 18	prANaM, prANakarmANi
+prANaM	 the air which acts outward	3	4, 8, 8	prANa
+prANakarmANi	 functions of the life breath	1	4	prANa, karmANi
+prANe	 in the air going outward	1	4	prANeShu
+prANeShu	 in the outgoing air	1	4	prANe
+prANinAM	 of all living entities	1	15
+prAdhAnyataH	 which are principal	1	10	yataH
+prAha	 told	1	4
+prAhuH	 they say	5	6, 13, 15, 18, 18
+prAk.h	 before	1	5
+prAkR^itaH	 materialistic	1	18	kR^ita
+prApnuvanti	 achieve	1	12	Apnuvanti
+prApnuyAt.h	 he attains	1	18
+prApsyasi	 you gain	2	2, 18
+prApsye	 I shall gain	1	16
+prAptaH	 achieving	1	18
+prAptaM	 received	1	4
+prAptiH	 achievement	1	2
+prApya	 achieving	8	2, 2, 5, 5, 6, 8, 8, 9	prApyate, aprApya
+prApyate	 is achieved	1	5	prApya
+prArabhate	 begins	1	18	Arabhate
+prArthayante	 pray for	1	9
+prA~njalayaH	 with folded hands	1	11
+prItamanAH	 pleased in mind	1	11
+prIti	 and satisfaction	1	17	prItipUrvakaM, prItiH
+prItiH	 pleasure	1	1	prIti
+prItipUrvakaM	 in loving ecstasy	1	10	prIti, pUrva
+prIyamANAya	 thinking you dear to Me	1	10
+praNaShTaH	 dispelled	1	18
+praNamya	 offering obeisances	3	11, 11, 11
+praNashyAmi	 am lost	1	6
+praNashyanti	 become vanquished	1	1
+praNashyati	 one falls down.	3	2, 6, 9
+praNavaH	 the three letters a-u-m	1	7
+praNayena	 out of love	1	11
+praNidhAya	 laying down	1	11
+praNipAtena	 by approaching a spiritual master	1	4
+prabhA	 the light	1	7	apratimaprabhAva, prabhASheta, prabhAvaH
+prabhASheta	 speaks	1	2	prabhA
+prabhAvaH	 influence	1	13	bhAva, prabhA, bhAvaH, abhAvaH
+prabhavAn.h	 born of	1	6	bhavAn.h
+prabhavaH	 the source of manifestation	3	7, 9, 10	bhavaH, bhava
+prabhavaM	 origin, opulences	1	10	bhava
+prabhavaiH	 born of	1	18	bhava
+prabhavanti	 become manifest	2	8, 16	bhavanti, bhava
+prabhavati	 is manifest	1	8	bhavati, bhava
+prabhaviShNu	 developing	1	13
+prabho	 O Lord	2	11, 14
+prabhuH	 the master of the city of the body	3	5, 9, 9
+pradAH	 causing.	1	17
+pradIptaM	 blazing	1	11	dIptaM, dIpta
+pradadhmatuH	 sounded.	1	1
+pradiShTaM	 indicated	1	8	iShTa, iShTaM
+pradigdhAn.h	 tainted with.	1	2
+praduShyanti	 become polluted	1	1
+pradviShantaH	 blaspheming	1	16	antaH, hanta
+prahAsyasi	 you can be released from.	1	2
+prahR^iShyati	 is rejoicing	1	11	hR^iShyati
+prahR^iShyet.h	 rejoices	1	5
+praharaNAH	 equipped with	1	1
+prahasan.h	 smiling	1	2	san.h
+prahlAdaH	 Prahlada	1	10
+prajAH	 generations	3	3, 3, 10
+prajAnAmi	 do I know	1	11
+prajAnAti	 knows	1	18	jAnAti
+prajApatiH	 the Lord of creatures	2	3, 11
+prajahAti	 gives up	1	2	jahAti
+prajahi	 curb	1	3
+prajanaH	 the cause for begetting children	1	10	janaH
+praj~nA	 perfect knowledge	5	2, 2, 2, 2, 17	praj~nAvAdAn.h, praj~nAM
+praj~nAM	 intelligence	1	2	praj~nA
+praj~nAvAdAn.h	 learned talks	1	2	vAdAn.h, praj~nA
+prakAshaH	 manifest	2	7, 14	aprakAshaH
+prakAshaM	 illumination	1	14
+prakAshakaM	 illuminating	1	14
+prakAshayati	 discloses	3	5, 13, 13
+prakIrtya	 by the glories	1	11
+prakR^iteH	 of material nature	4	3, 3, 3, 9	R^ite
+prakR^iti	 material nature	4	13, 13, 14, 15	prakR^itijAn.h, prakR^itiH, prakR^itiM, prakR^itijaiH, prakR^itisthaH
+prakR^itiH	 energies	4	7, 9, 13, 18	prakR^iti
+prakR^itiM	 nature	11	3, 4, 7, 9, 9, 9, 9, 11, 13, 13, 13	prakR^iti
+prakR^itijAn.h	 produced by the material nature	1	13	prakR^iti
+prakR^itijaiH	 born of the modes of material nature	2	3, 18	prakR^iti
+prakR^itisthaH	 being situated in the material energy	1	13	sthaH, prakR^iti
+prakR^ityA	 by nature	2	7, 13
+pralInaH	 being dissolved	1	14
+pralIyante	 are annihilated	1	8
+pralIyate	 is annihilated	1	8
+pralapan.h	 talking	1	5
+pralayAntAM	 unto the point of death	1	16
+pralayaH	 annihilation	2	7, 9
+pralayaM	 dissolution	2	14, 14
+pralaye	 in the annihilation	1	14
+pramANaM	 example	2	3, 16
+pramAdAt.h	 out of foolishness	1	11
+pramAda	 with madness	3	14, 14, 18	pramAdaH
+pramAdaH	 madness	1	14	pramAda
+pramAde	 in madness	1	14
+pramAthIni	 agitating	1	2
+pramAthi	 agitating	1	6
+pramuchyate	 is completely liberated.	2	5, 10	uchyate
+pramukhataH	 in front of	1	1	hataH
+pramukhe	 in the front	1	2	mukhe
+prapadyante	 surrender	4	4, 7, 7, 7
+prapadyate	 surrenders	1	7
+prapadye	 surrender	1	15
+prapannaM	 surrendered.	1	2	annaM
+prapashyAmi	 I see	1	2	pashyAmi
+prapashya	 just see.	1	11	prapashyadbhiH, pashya
+prapashyadbhiH	 by those who can see	1	1	pashya, prapashya
+prapitAmahaH	 the great-grandfather	1	11	pitAmahaH
+prasAdaM	 the mercy of the Lord	1	2
+prasAdajaM	 born of the satisfaction.	1	18
+prasAdaye	 to beg mercy	1	11
+prasAde	 on achievement of the causeless mercy of the Lord	1	2
+prasIda	 be pleased	3	11, 11, 11
+prasR^itA	 extended	1	15	prasR^itAH
+prasR^itAH	 extended	1	15	prasR^itA
+prasabhaM	 by force	2	2, 11
+prasaktAH	 attached	1	16	saktAH
+prasaktAnAM	 for those who are attached	1	2
+prasannAtmA	 fully joyful	1	18
+prasannachetasaH	 of the happy-minded	1	2	achetasaH, chetasaH
+prasannena	 happily	1	11
+prasaviShyadhvaM	 be more and more prosperous	1	3
+prasa~Ngena	 because of attachment	1	18	sa~Ngena
+prashAnta	 unagitated	2	6, 6	prashAntasya
+prashAntasya	 who has attained tranquillity by such control over the mind	1	6	tasya, ashAntasya, prashAnta
+prashaste	 in bona fide	1	17
+prasid.hdhyet.h	 is effected	1	3
+pratApavAn.h	 the valiant.	1	1
+pratapanti	 are scorching	1	11
+prathitaH	 celebrated	1	15
+prati	 towards.	1	2	pratiShThitA, apratimaprabhAva, apratiShThaM, apratiShThaH, pratiShThApya, vipratipannA, pratijAnIhi, pratiShThitaM, sampratiShThA, achalapratiShThaM, pratiShThA, pratiyotsyAmi, pratipadyate, pratijAne
+pratiShThA	 the rest	1	14	prati, pratiShThApya, sampratiShThA
+pratiShThApya	 placing	1	6	prati, pratiShThA
+pratiShThitA	 fixed.	4	2, 2, 2, 2	prati
+pratiShThitaM	 situated.	1	3	prati, hitaM
+pratijAnIhi	 declare	1	9	prati
+pratijAne	 I promise	1	18	prati
+pratipadyate	 attains.	1	14	prati
+pratiyotsyAmi	 shall counterattack	1	2	prati
+pratyAnIkeShu	 on the opposite sides	1	11	keShu
+pratyakSha	 by direct experience	1	9	yakSha
+pratyavAyaH	 diminution	1	2
+pratyupakArArthaM	 for the sake of getting some return	1	17
+pravAlAH	 twigs	1	15
+pravR^iddhAH	 developed	1	15
+pravR^iddhaH	 great	1	11
+pravR^iddhe	 developed	1	14
+pravR^ittaH	 engaged	1	11	abhipravR^ittaH
+pravR^itte	 while about to engage	1	1
+pravR^ittiH	 activity	3	14, 15, 18	apravR^ittiH
+pravR^ittiM	 mission.	4	11, 14, 16, 18
+pravadanti	 say	2	2, 5	vadanti
+pravadatAM	 of arguments	1	10
+pravakShyAmi	 I shall explain	4	4, 9, 13, 14	vakShyAmi
+pravakShye	 I shall explain.	1	8
+pravartante	 they flourish	2	16, 17	vartante
+pravartate	 act.	2	5, 10	vartate
+pravartitaM	 established by the Vedas	1	3
+praveShTuM	 to enter into	1	11
+pravibhaktAni	 are divided	1	18
+pravibhaktaM	 divided	1	11	vibhaktaM, avibhaktaM
+pravilIyate	 merges entirely.	1	4
+pravishanti	 enter	2	2, 2	vishanti, hanti
+pravyathitAH	 perturbed	1	11
+pravyathita	 perturbed	1	11	pravyathitaM
+pravyathitaM	 perturbed	2	11, 11	pravyathita, hitaM
+prayANa	 of death	1	7	prayANakAle
+prayANakAle	 at the time of death	2	8, 8	prayANa
+prayAtAH	 having departed	2	8, 8
+prayAti	 goes	2	8, 8
+prayachChati	 offers	1	9
+prayatAtmanaH	 from one in pure consciousness.	1	9	manaH, yatAtma, AtmanaH
+prayatnAt.h	 by rigid practice	1	6
+prayujyate	 is used	1	17	yujyate
+prayuktaH	 impelled	1	3	yukta, uktaH, yuktaH, ayuktaH
+prepsuH	 desiring	1	18
+pretAn.h	 spirits of the dead	1	17	etAn.h, tAn.h
+pretya	 after death	2	17, 18
+priyAH	 palatable.	1	17
+priyAyAH	 with the dearmost	1	11
+priya	 well	3	1, 14, 17	apriyaH, apriyaM, priyakR^ittamaH, priyaH, priyaM, priyataraH
+priyaH	 very dear	12	7, 7, 9, 11, 12, 12, 12, 12, 12, 12, 17, 18	apriyaH, priya
+priyaM	 the pleasant	2	5, 17	apriyaM, priya
+priyakR^ittamaH	 more dear	1	18	priya, tamaH
+priyataraH	 dearer	1	18	priya
+prochyamAnaM	 as described by Me	1	18
+prochyate	 are said	1	18
+proktA	 were said	1	3	proktAH, proktAni
+proktAH	 spoken	1	10	proktA
+proktAni	 said	1	18	proktA
+proktaH	 spoken	3	4, 6, 16
+proktaM	 is called	4	8, 13, 17, 18
+proktavAn.h	 instructed	2	4, 4
+protaM	 is strung	1	7
+pu.nsaH	 of a person	1	2
+puNyAH	 righteous	1	9
+puNya	 pious	1	7	puNyaH, puNyakR^itaM, puNyakarmaNAM, puNyaM, puNyaphalaM
+puNyaH	 original	1	7	puNya
+puNyaM	 pious	2	9, 18	puNya
+puNyakR^itaM	 of those who performed pious activities	1	6	R^itaM, kR^itaM, puNya, kR^ita
+puNyakarmaNAM	 of the pious.	1	18	karmaNAM, puNya, karmaNA, karma, akarma
+puNyaphalaM	 result of pious work	1	8	phala, phalaM, puNya
+puNye	 the results of their pious activities	1	9
+puShNAmi	 am nourishing	1	15
+puShkalAbhiH	 Vedic hymns.	1	11
+puShpaM	 a flower	1	9
+puShpitAM	 flowery	1	2
+pumAn.h	 a person	1	2
+punaH	 again	16	4, 4, 5, 8, 8, 8, 9, 9, 9, 11, 11, 16, 17, 18, 18, 18
+punarjanma	 rebirth	1	8	janma
+punashcha	 and again	1	11
+purA	 formerly	3	3, 3, 17
+purANI	 very old.	1	15
+purANaH	 the oldest	2	2, 11
+purANaM	 the oldest	1	8
+purAtanaH	 very old	1	4
+purastAt.h	 from the front	1	11
+pure	 in the city	1	5
+purodhasAM	 of all priests	1	10
+puruShAH	 such persons	1	9
+puruShaH	 person	11	2, 3, 8, 8, 11, 11, 13, 13, 13, 15, 17
+puruShaM	 to a person	8	2, 8, 8, 10, 13, 13, 13, 15
+puruSharShabha	 O best among men	1	2	harSha
+puruShasya	 of a man	1	2
+puruShau	 living entities	1	15
+puruShavyAghra	 O tiger among human beings	1	18
+puruShottama	 O Supreme Person	3	8, 10, 11	puruShottamaM, puruShottamaH
+puruShottamaH	 as the Supreme Personality.	1	15	puruShottama, tamaH
+puruShottamaM	 the Supreme Personality of Godhead	1	15	puruShottama
+purujit.h	 Purujit	1	1
+putrAH	 sons	2	1, 11
+putrAn.h	 sons	1	1
+putra	 for son	1	13	putrasya, kuntIputraH, sUtaputraH
+putrasya	 with a son	1	11	putra
+rAgAtmakaM	 born of desire or lust	1	14	AtmakaM
+rAgI	 very much attached	1	18
+rAga	 attachment	7	2, 2, 3, 4, 7, 17, 18
+rAjA	 the king	2	1, 1
+rAjaguhyaM	 the king of confidential knowledge	1	9	guhyaM
+rAjan.h	 O King	3	11, 18, 18
+rAjarShayaH	 the saintly kings	2	4, 9
+rAjasAH	 those situated in the mode of passion	2	14, 17
+rAjasI	 in the mode of passion	3	17, 18, 18
+rAjasaH	 in the mode of passion	2	7, 18
+rAjasaM	 in the mode of passion.	7	17, 17, 17, 18, 18, 18, 18
+rAjasasya	 to one in the mode of passion	1	17
+rAjavidyA	 the king of education	1	9	vidyA
+rAjyaM	 kingdom	4	1, 1, 2, 11	AjyaM
+rAjyasukhalobhena	 driven by greed for royal happiness	1	1	sukha
+rAjyasya	 for the kingdom	1	1	yasya
+rAjyena	 is the kingdom	1	1
+rAkShasIM	 demonic	1	9
+rAmaH	 Rama	1	10	indriyArAmaH, bhUtagrAmaH, antarArAmaH
+rAtri	 of night	1	8	rAtriH, rAtriM
+rAtriH	 night	1	8	rAtri
+rAtriM	 night	1	8	rAtri
+rAtryAgame	 at the fall of night	1	8	Agame
+rUpANi	 forms	1	11
+rUpaM	 whose form	13	8, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 15, 18	anantarUpaM, kAmarUpaM
+rUpamaishvaraM	 universal form.	1	11	aishvaraM
+rUpasya	 form	1	11
+rUpeNa	 form	1	11	kAmarUpeNa
+raNAt.h	 from the battlefield	1	2	AtmakAraNAt.h, maraNAt.h
+raNa	 strife	1	1
+raNe	 on the battlefield	2	1, 11
+rahasi	 in a secluded place	1	6
+rahasyaM	 mystery	1	4
+rajaH	 the mode of passion	7	14, 14, 14, 14, 14, 14, 17
+rajasaH	 of the mode of passion	2	14, 14
+rajasi	 of the mode of passion	2	14, 14
+rajoguNa	 the mode of passion	1	3
+rakShA.nsi	 the demons	1	11	yakSharakShA.nsi
+rakShya	 protection	1	18	drakShyasi
+ramanti	 enjoy transcendental bliss	1	10
+ramate	 takes delight	2	5, 18	uparamate
+rasAtmakaH	 supplying the juice.	1	15
+rasaH	 sense of enjoyment	2	2, 7
+rasanaM	 tongue	1	15
+rasavarjaM	 giving up the taste	1	2
+rasyAH	 juicy	1	17
+ratAH	 engaged.	2	5, 12	pitR^ivratAH, sa.nshitavratAH, vedavAdaratAH, dR^iDhavratAH, devavratAH, vratAH
+ratha	 of the chariot	1	1	jayadrathaM, mahArathaH, manorathaM, rathaM, chitrarathaH
+rathaM	 the chariot	1	1	jayadrathaM, manorathaM, ratha
+rathottamaM	 the finest chariot.	1	1
+raviH	 the sun	2	10, 13
+ripuH	 enemy	1	6
+romaharShaH	 standing of hair on end	1	1	harSha
+romaharShaNaM	 making the hair stand on end.	1	18	harSha
+rud.hdhvA	 checking	1	4
+rudhira	 blood	1	2
+rudrANAM	 of all the Rudras	1	10
+rudrAn.h	 the eleven forms of Rudra	1	11
+rudra	 manifestations of Lord Siva	1	11
+rukSha	 dry	1	17
+sA	 that is	9	2, 6, 17, 18, 18, 18, 18, 18, 18
+sAdhUnAM	 of the devotees	1	4
+sAdharmyaM	 same nature	1	14	dharmyaM
+sAdhibhUta	 and the governing principle of the material manifestation	1	7	bhUta
+sAdhiyaj~naM	 and governing all sacrifices	1	7	yaj~naM, yaj~na
+sAdhuH	 a saint	1	9
+sAdhuShu	 unto the pious	1	6
+sAdhubhAve	 in the sense of the nature of the devotee	1	17
+sAdhyAH	 the Sadhyas	1	11
+sAgarAt.h	 from the ocean	1	12
+sAgaraH	 the ocean.	1	10
+sAha~NkAreNa	 with ego	1	18
+sAkShAt.h	 directly	1	18
+sAmAsikasya	 of compounds	1	10
+sAma	 the Sama Veda	1	9
+sAmarthyaM	 ability	1	2
+sAmavedaH	 the Sama Veda	1	10
+sAmnaM	 of the Sama Veda songs	1	10
+sAmye	 in equanimity	1	5	sAmyena
+sAmyena	 generally	1	6	sAmye
+sAttvikAH	 in goodness	2	7, 17
+sAttvikI	 in the mode of goodness	3	17, 18, 18
+sAttvika	 to one in goodness	1	17	sAttvikaM, sAttvikaH
+sAttvikaH	 in the mode of goodness.	3	17, 18, 18	sAttvika
+sAttvikaM	 in the mode of goodness	6	14, 17, 17, 18, 18, 18	sAttvika
+sAtyakiH	 Satyaki (the same as Yuyudhana, the charioteer of Lord KRiShNa)	1	1
+sA~NkhyAnAM	 of the empiric philosophers	1	3
+sA~Nkhya	 analytical study of the material world	1	5	sA~NkhyaiH, sA~NkhyaM
+sA~NkhyaM	 analytical study	1	5	sA~Nkhya
+sA~NkhyaiH	 by means of Sankhya philosophy	1	5	sA~Nkhya
+sA~Nkhye	 in the fight	3	2, 2, 18	sA~Nkhyena
+sA~Nkhyena	 of philosophical discussion	1	13	sA~Nkhye
+sIdanti	 are quivering	1	1
+sR^iShTvA	 creating	2	3, 4	iShTvA
+sR^ijAmi	 manifest	1	4	utsR^ijAmi, visR^ijAmi
+sR^ijati	 creates	1	5
+sR^itI	 different paths	1	8
+sUkShmatvAt.h	 on account of being subtle	1	13	matvA
+sUrya	 of suns	2	11, 11	sUryaH, shashisUryayoH
+sUryaH	 the sun	1	15	sUrya
+sUtaputraH	 Karna	1	11	putra
+sUtre	 on a thread	1	7
+sUyate	 manifests	1	9
+sa	 with	4	7, 9, 11, 11
+sa.ngavarjitaH	 freed from the contamination of fruitive activities and mental speculation	1	11	jitaH
+sa.ngrAmaM	 fighting	1	2
+sa.ngrahaH	 the accumulation.	1	18
+sa.ngraheNa	 in summary	1	8
+sa.nharate	 winds up	1	2
+sa.nj~nArthaM	 for information	1	1
+sa.nj~naiH	 named	1	15
+sa.nj~nake	 which is called.	1	8
+sa.nj~nitaH	 is called.	1	8
+sa.nj~nitaM	 in the matter of	1	11	yogasa.nj~nitaM
+sa.nnyAsI	 renouncer	3	5, 6, 6	sa.nnyAsInAM
+sa.nnyAsInAM	 for the renounced order	1	18	sa.nnyAsI
+sa.nnyAsa	 of renunciation	1	9	sa.nnyAsaM, sa.nnyAsaH, sa.nnyAsanAt.h, sa.nnyAsasya
+sa.nnyAsaH	 renunciation of work	3	5, 5, 18	sa.nnyAsa
+sa.nnyAsaM	 renunciation	3	5, 6, 18	sa.nnyAsa, nyAsaM
+sa.nnyAsanAt.h	 by renunciation	1	3	sa.nnyAsa
+sa.nnyAsasya	 of renunciation	1	18	sa.nnyAsa
+sa.nnyAsena	 by the renounced order of life	1	18
+sa.nnyasta	 one who has renounced	1	4	asa.nnyasta
+sa.nnyasya	 giving up completely	4	3, 5, 12, 18	yasya
+sa.nsAra	 in material existence	2	9, 12
+sa.nsAreShu	 into the ocean of material existence	1	16
+sa.nshaya	 of doubts	2	4, 4	asa.nshayaM, asa.nshayaH, a.nsha, sa.nshayaH, sa.nshayaM, sa.nshayasya
+sa.nshayaH	 doubt.	4	8, 10, 12, 18	asa.nshayaH, a.nsha, sa.nshaya
+sa.nshayaM	 doubts	3	4, 4, 6	asa.nshayaM, a.nsha, sa.nshaya
+sa.nshayasya	 of the doubt	1	6	yasya, a.nsha, sa.nshaya
+sa.nshitavratAH	 taken to strict vows.	1	4	ratAH, vratAH
+sa.nshritAH	 having taken shelter of	1	16	shritAH
+sa.nshuddha	 washed off	1	6
+sa.nshuddhiH	 purification	1	17	sattvasa.nshuddhiH
+sa.nsiddhaH	 he who is mature	2	4, 6	siddhaH, siddha
+sa.nsiddhau	 for perfection	1	6	siddhau, siddha
+sa.nsiddhiM	 in perfection	3	3, 8, 18	siddhi, siddhiM, yogasa.nsiddhiM
+sa.nsmR^itya	 remembering	4	18, 18, 18, 18
+sa.nsparshajAH	 by contact with the material senses	1	5
+sa.nstabhya	 by steadying	1	3
+sa.nsthApanArthAya	 to reestablish	1	4
+sa.nvAdaM	 conversation	3	18, 18, 18
+sa.nvR^ittaH	 settled	1	11
+sa.nvigna	 distressed	1	1
+sa.nyAti	 verily accepts	2	2, 15
+sa.nyamI	 the self-controlled	1	2
+sa.nyama	 of restraint	1	4	Atmasa.nyama, sa.nyamatAM
+sa.nyamatAM	 of all regulators	1	10	sa.nyama
+sa.nyamya	 keeping under control	4	2, 3, 6, 8
+sa.nyata	 controlled	1	4
+sa.nyogAt.h	 by the union between	2	13, 18	yogAt.h
+sa.nyogaM	 connection	1	5	yogaM, buddhisa.nyogaM
+sa.nyuktAH	 engaged	1	17	yuktAH, uktAH
+saH	 that	73	1, 1, 1, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 6, 6, 7, 7, 7, 7, 8, 8, 8, 8, 8, 9, 9, 10, 10, 11, 11, 12, 12, 12, 12, 13, 13, 13, 13, 14, 14, 14, 15, 15, 16, 17, 17, 17, 18, 18, 18, 18, 18, 18
+sabAndhavAn.h	 along with friends	1	1
+sachChabdaH	 the sound sat	1	17
+sachetAH	 in my consciousness	1	11	chetAH
+sad.hbhave	 in the sense of the nature of the Supreme	1	17
+sadA	 always	6	5, 6, 6, 8, 10, 18
+sadR^ishI	 like that	1	11
+sadR^ishaH	 like	1	16
+sadR^ishaM	 accordingly	2	3, 4
+sadasat.h	 to cause and effect	2	11, 13	asat.h, sat.h
+sadoShaM	 with fault	1	18	doSha, doShaM
+sagadgadaM	 with a faltering voice	1	11
+saha	 together	5	1, 3, 11, 11, 13
+sahadevaH	 Sahadeva	1	1
+sahajaM	 born simultaneously	1	18
+sahasA	 all of a sudden	1	1
+sahasrAntAM	 similarly, ending after one thousand	1	8
+sahasra	 one thousand	1	8	sahasrashaH, sahasrabAho, sahasrasya, sahasrakR^itvaH
+sahasrabAho	 O thousand-handed one	1	11	sahasra
+sahasrakR^itvaH	 a thousand times	1	11	sahasra
+sahasrashaH	 thousands	1	11	sahasra
+sahasrasya	 of many thousands	1	11	sahasra
+sahasreShu	 out of many thousands	1	7
+sahitaM	 with	1	9	hitaM
+sainyasya	 of the soldiers	1	1	yasya
+sajjante	 they become engaged	1	3
+sajjate	 becomes attached.	1	3
+sakShI	 witness	1	9
+sakhA	 friend	2	4, 11
+sakhIn.h	 friends	1	1
+sakhaiva	 like a friend	1	11
+sakhyuH	 with a friend	1	11
+saktAH	 being attached	2	3, 5	prasaktAH
+saktaM	 attached	1	18	asaktaM
+samAH	 equal	2	1, 6
+samAchara	 do perfectly.	2	3, 3	samAcharan.h, chara
+samAcharan.h	 practicing.	1	3	charan.h, chara, samAchara
+samAdhAtuM	 to fix	1	12
+samAdhAya	 fixing	1	17	AdhAya
+samAdhau	 in the controlled mind	2	2, 2
+samAdhinA	 by complete absorption.	1	4
+samAdhisthasya	 of one situated in trance	1	2
+samAgatAH	 assembled	1	1	AgatAH, gatAH
+samAhartuM	 in destroying	1	11
+samAhitaH	 approached completely	1	6
+samApnoShi	 You cover	1	11
+samArambhAH	 attempts	1	4
+samAsataH	 in summary	1	13	sataH
+samAsena	 in summary	3	13, 13, 18
+samAvR^itaH	 covered	2	7, 16	AvR^itaH
+samAviShTaH	 absorbed	1	18	iShTa, AviShTaH, iShTaH
+samAyuktaH	 keeping in balance	1	15	yukta, uktaH, yuktaH
+samIkShya	 after seeing	1	1
+samR^iddha	 with full	1	11	samR^iddhavegaH, samR^iddhaM
+samR^iddhaM	 flourishing	1	11	R^iddhaM, samR^iddha
+samR^iddhavegaH	 with full speed.	1	11	samR^iddha
+sama	 unaltered	5	2, 6, 12, 14, 14
+samaH	 equipoised	7	2, 4, 9, 12, 12, 18, 18	tvatsamaH
+samaM	 in equanimity	5	5, 6, 6, 13, 13
+samabuddhayaH	 equally disposed	1	12	abuddhayaH, buddhayaH
+samabuddhiH	 having equal intelligence	1	6	buddhi, buddhiH
+samachittatvaM	 equilibrium	1	13	chitta
+samadarshanaH	 seeing equally.	1	6
+samadarshinaH	 who see with equal vision.	1	5	darshinaH
+samadhigachChati	 attains.	1	3	adhigachChati, gachChati
+samagrAn.h	 all	1	11
+samagraM	 in total	3	4, 7, 11	agraM
+samantAt.h	 everywhere	2	11, 11
+samantataH	 from all sides.	1	6	tataH
+samanvitaH	 qualified	1	18	bhAvasamanvitaH
+samatA	 equilibrium	1	10
+samatItAni	 completely past	1	7
+samatitya	 transcending	1	14
+samatvaM	 equanimity	1	2
+samau	 in suspension	1	5
+samavasthitaM	 equally situated	1	13	sthitaM, avasthitaM, hitaM
+samavetAH	 assembled	1	1
+samavetAn.h	 assembled	1	1	etAn.h, tAn.h
+sambandhinaH	 relatives	1	1
+sambhAvitasya	 for a respectable man	1	2	tasya
+sambhUtaM	 arisen kim	1	16	aj~nAnasambhUtaM, bhUtaM, bhUta
+sambhavAH	 produced of	1	14
+sambhavAmi	 I do incarnate	2	4, 4	bhavAmi
+sambhavAn.h	 produced of.	1	13	bhavAn.h
+sambhavaH	 production	2	3, 14	bhavaH, bhava
+sambhavaM	 born of.	1	10	bhava
+sambhavanti	 they appear	1	14	bhavanti, bhava
+same	 in equanimity	1	2
+samiddhaH	 blazing	1	4
+samiti~njayaH	 always victorious in battle	1	1	jayaH
+sammUDhAH	 befooled by material identification	1	3	asammUDhAH, mUDhAH
+sammUDha	 bewildered	1	2	asammUDhaH, mUDha
+sammohAt.h	 from illusion	1	2	mohAt.h
+sammohaH	 perfect illusion	2	2, 18	mohaH, asammohaH
+sammohaM	 into delusion	1	7	mohaM
+sampadaM	 the qualities	3	16, 16, 16	padaM
+sampadyate	 he attains	1	13
+sampanne	 fully equipped	1	5
+sampashyan.h	 considering	1	3	pashya, pashyan.h
+sampat.h	 assets	1	16
+samplutodake	 in a great reservoir of water	1	2
+samprakIrtitaH	 is declared.	1	18	akIrti
+sampratiShThA	 the foundation	1	15	prati, pratiShThA
+sampravR^ittAni	 although developed	1	14
+samprekShya	 looking	1	6
+samudbhavAn.h	 produced of	1	14	bhavAn.h
+samudbhavaH	 born of.	2	3, 3	bhavaH, bhava, udbhavaH
+samudbhavaM	 directly manifested	2	3, 14	bhava, udbhavaM
+samuddhartA	 the deliverer	1	12
+samudraM	 the ocean	2	2, 11
+samudyame	 in the attempt.	1	1
+samupAshritaH	 having taken shelter of	1	18	AshritaH
+samupasthitaM	 present	2	1, 2	sthitaM, hitaM
+samutthena	 arisen from	1	7
+samyak.h	 complete	3	5, 8, 9
+san.h	 being so	2	4, 4	shvasan.h, prahasan.h
+sanAtanAH	 eternal	1	1
+sanAtanaH	 eternally the same.	4	2, 8, 11, 15
+sanAtanaM	 eternal atmosphere.	2	4, 7
+sandR^ishyante	 are seen	1	11
+sandehaH	 all doubts	1	18
+sannibhAni	 as if	1	11
+sanniviShTaH	 situated	1	15	iShTa, iShTaH
+sanniyamya	 controlling	1	12	niyamya
+santaH	 the devotees	1	3	antaH
+santariShyasi	 you will cross completely.	1	4	tariShyasi
+santuShTaH	 perfectly satiated	4	3, 4, 12, 12	tuShTaH
+sapatnAn.h	 enemies.	1	11
+sapta	 seven	1	10
+sarasAM	 of all reservoirs of water	1	10
+sargANAM	 of all creations	1	10
+sargaH	 birth and death	1	5	visargaH
+sarge	 while taking birth	1	7	sarge.api
+sarge.api	 even in the creation	1	14	sarge
+sarpANAM	 of serpents	1	10
+sarvAH	 all	2	11, 15
+sarvANi	 all	9	2, 2, 3, 4, 4, 7, 9, 12, 15
+sarvAn.h	 all kinds of	7	1, 2, 2, 4, 6, 11, 11
+sarvArambha	 of all endeavors	1	12	Arambha, sarvArambhaH
+sarvArambhaH	 all ventures	1	18	Arambha, sarvArambha, ArambhaH
+sarvArthAn.h	 all things	1	18
+sarva	 all respectively	26	1, 2, 2, 3, 3, 4, 5, 5, 6, 6, 7, 7, 7, 7, 9, 11, 11, 13, 13, 13, 14, 18, 18, 18, 18, 18	sarvatra, sarvaloka, sarvaguhyatamaM, sarvaM, sarvaH, sarvasya, sarvathA, sarvabhUtasthaM, sarvaharaH, sarvapApaiH, sarvabhR^it.h, sarvadharmAn.h, sarvabhUta, sarvadvArANi, sarvabhAvena, sarvaiH, sarvasa~Nkalpa, sarvabhUtAnAM, sarvayoniShu, sarvatragaH, sarvatragaM, sarvavit.h, sarvabhUtAni, sarvabhUtAnI, sarvagataH, sarvagataM, sarvataH, sarvakarmANi, sarvabhUteShu, sarvabhUtahite, sarvabhUtasthitaM, sarvadehinAM, sarvashaH, sarvaj~nAna, sarvakarma, sarvadvAreShu, sarvavR^ikShANAM
+sarvaH	 all	3	3, 8, 11	sarva
+sarvaM	 all of the body	14	2, 4, 4, 6, 7, 7, 7, 8, 9, 10, 10, 11, 13, 18	sarva
+sarvabhAvena	 in all respects	2	15, 18	sarva
+sarvabhR^it.h	 the maintainer of everyone	1	13	sarva
+sarvabhUtAnAM	 of all living entities	5	7, 10, 12, 14, 18	sarva, bhUtAnAM
+sarvabhUtAnI	 all living entities	2	9, 18	bhUtAnI, sarva
+sarvabhUtAni	 all created entities	1	9	bhUtAni, sarva
+sarvabhUta	 to all living entities	3	5, 5, 10	sarvabhUtasthaM, bhUta, sarva, sarvabhUtahite, sarvabhUtasthitaM
+sarvabhUtahite	 for the welfare of all living entities	1	12	bhUta, sarvabhUta, sarva
+sarvabhUtasthaM	 situated in all beings	1	6	bhUta, sarvabhUta, sarva
+sarvabhUtasthitaM	 situated in everyone's heart	1	6	bhUta, sthitaM, sarvabhUta, sarva, hitaM
+sarvabhUteShu	 among all living beings	4	3, 9, 11, 18	teShu, bhUteShu, sarva
+sarvadehinAM	 of all embodied beings	1	14	dehinAM, sarva
+sarvadharmAn.h	 all varieties of religion	1	18	sarva
+sarvadvArANi	 all the doors of the body	1	8	sarva
+sarvadvAreShu	 in all the gates	1	14	sarva
+sarvagataH	 all-pervading	1	2	gataH, sarva, agata
+sarvagataM	 all-pervading	2	3, 13	sarva, agata
+sarvaguhyatamaM	 the most confidential of all	1	18	guhyatamaM, sarva
+sarvaharaH	 all-devouring	1	10	sarva
+sarvaiH	 all	1	15	sarva
+sarvaj~nAna	 in all sorts of knowledge	1	3	j~nAna, sarva, aj~nAna
+sarvakarmANi	 all reactions to material activities	2	4, 18	sarva, karmANi
+sarvakarma	 of all activities	1	12	sarva, karma, akarma
+sarvaloka	 of all planets and the demigods thereof	1	5	sarva
+sarvapApaiH	 from all sinful reactions	1	10	sarva
+sarvasa~Nkalpa	 of all material desires	1	6	sa~Nkalpa, sarva
+sarvashaH	 all	8	1, 2, 2, 3, 3, 4, 10, 13	sarva
+sarvasya	 of everyone	8	2, 7, 8, 10, 13, 15, 17, 17	sarva
+sarvataH	 in all respects	7	2, 11, 11, 11, 13, 13, 13	sarva
+sarvathA	 in all respects	2	6, 13	sarva
+sarvatra	 everywhere	8	2, 6, 6, 6, 12, 13, 13, 18	sarvatragaH, sarvatragaM, sarva
+sarvatragaH	 blowing everywhere	1	9	sarvatra, sarva
+sarvatragaM	 all-pervading	1	12	sarvatra, sarva
+sarvavR^ikShANAM	 of all trees	1	10	sarva
+sarvavit.h	 the knower of everything	1	15	sarva
+sarvayoniShu	 in all species of life	1	14	yoniShu, sarva
+sarve	 all	12	1, 1, 2, 2, 4, 4, 10, 11, 11, 11, 11, 14	sarvebhyaH, sarveShu, sarveShAM
+sarveShAM	 all	2	1, 6	eShAM, sarve
+sarveShu	 everywhere	8	1, 2, 8, 8, 8, 13, 18, 18	sarve
+sarvebhyaH	 of all	1	4	ebhyaH, sarve
+sasharaM	 along with arrows	1	1
+sat.h	 spirit	6	9, 13, 17, 17, 17, 17	sadasat.h, asat.h
+sataH	 of the eternal	1	2	asataH, samAsataH
+satata	 always	1	12	satatayuktAnAM, satataM
+satataM	 constantly	7	3, 6, 8, 9, 12, 17, 18	tataM, satata
+satatayuktAnAM	 always engaged	1	10	satata
+sati	 being	1	18
+satkAra	 respect	1	17
+sattvAnurUpA	 according to the existence	1	17
+sattvAt.h	 from the mode of goodness	1	14
+sattva	 existence	2	17, 18	sattvasa.nshuddhiH, sattvasthAH, sattvavataM, sattvaM, nityasattvasthaH
+sattvaM	 the strength	12	10, 10, 13, 14, 14, 14, 14, 14, 14, 14, 17, 18	sattva
+sattvasa.nshuddhiH	 purification of one's existence	1	16	sa.nshuddhiH, sattva
+sattvasthAH	 those situated in the mode of goodness	1	14	sattva
+sattvavataM	 of the strong	1	10	sattva
+sattve	 the mode of goodness	1	14
+satyaM	 truthfulness	5	10, 16, 16, 17, 18	asatyaM
+saubhadraH	 the son of Subhadra	2	1, 1
+saukShmyAt.h	 due to being subtle	1	13
+saumadattiH	 the son of Somadatta	1	1
+saumyaM	 very beautiful	1	11
+saumyatvaM	 being without duplicity towards others	1	17
+saumyavapuH	 the beautiful form	1	11
+savikAraM	 with interactions	1	13
+savyasAchin.h	 O Savyasaci.	1	11
+sa~NgAt.h	 from attachment	1	2
+sa~Nga	 association	2	14, 15	sa~NgaM, sa~NgaH, muktasa~NgaH, upasa~Ngamya, asa~NgashastreNa, gatasa~Ngasya, sa~NgavivarjitaH, sa~NgarahitaM, karmaphalAsa~NgaM, guNasa~NgaH
+sa~NgaH	 attachment	2	2, 2	muktasa~NgaH, sa~Nga, guNasa~NgaH
+sa~NgaM	 attachment	5	2, 5, 5, 18, 18	sa~Nga, karmaphalAsa~NgaM
+sa~NgarahitaM	 without attachment	1	18	hitaM, sa~Nga
+sa~NgavivarjitaH	 free from all association	1	12	jitaH, sa~Nga
+sa~Ngena	 by association	2	14, 14	prasa~Ngena, karmasa~Ngena
+sa~NghAH	 the assemblies	1	11	surasa~NghAH, siddhasa~NghAH
+sa~NghAtaH	 the aggregate	1	13
+sa~NghaiH	 the groups	1	11
+sa~Nkalpa	 determination	2	4, 6	sa~NkalpaH, sarvasa~Nkalpa
+sa~NkalpaH	 desire for self-satisfaction	1	6	sa~Nkalpa
+sa~NkaraH	 such unwanted children	1	1	varNasa~NkaraH
+sa~Nkarasya	 of unwanted population	1	3
+sa~Nkhye	 in the battlefield	1	1
+sa~nChinna	 cut	1	4	Chinna
+sa~nchayAn.h	 accumulation.	1	16	yAn.h
+sa~njAyate	 develops	3	2, 13, 14	jAyate
+sa~njanayan.h	 increasing	1	1
+sa~njaya	 O Sanjaya.	10	1, 1, 1, 1, 2, 2, 11, 11, 11, 18	sa~njayati
+sa~njayati	 binds	2	14, 14	sa~njaya
+senAnInAM	 of all commanders	1	10
+senayoH	 of the armies	4	1, 1, 1, 2
+sevate	 renders service	1	14	upasevate
+sevayA	 by the rendering of service	1	4	yogasevayA
+sevitvaM	 aspiring	1	13
+shAdhi	 just instruct	1	2
+shAkhAH	 branches	1	15	bahushAkhAH
+shAkhaM	 branches	1	15
+shAntaH	 peaceful	1	18
+shAntarajasaM	 his passion pacified	1	6
+shAntiH	 peace	3	2, 12, 16
+shAntiM	 peace	6	2, 2, 4, 5, 6, 18
+shArIraM	 in keeping body and soul together	1	4
+shAshvatAH	 eternal.	1	1
+shAshvatIH	 many	1	6
+shAshvataH	 permanent	1	2
+shAshvataM	 original	3	10, 18, 18	ashAshvataM
+shAshvatadharmagoptA	 maintainer of the eternal religion	1	11	adharma, dharma
+shAshvatasya	 of the eternal	1	14	tasya
+shAshvate	 of the Vedas	1	8
+shAstra	 of scripture	1	16	shAstraM, shAstravidhiM, ashAstra
+shAstraM	 revealed scripture	2	15, 16	shAstra
+shAstravidhiM	 the regulations of the scriptures	2	16, 17	shAstra
+shIta	 winter	3	2, 6, 12
+shR^iNoti	 hears of	1	2
+shR^iNu	 just hear	13	2, 7, 10, 13, 16, 17, 17, 18, 18, 18, 18, 18, 18	shR^iNuyAt.h
+shR^iNuyAt.h	 does hear	1	18	shR^iNu
+shR^iNvan.h	 hearing	1	5
+shR^iNvataH	 hearing	1	10
+shUdrANAM	 of the shudras	1	18
+shUdraH	 lower-class men	1	9
+shUdrasya	 of the shudra	1	18
+shUrAH	 heroes	2	1, 1	shvashUrAH
+sha.nsasi	 You are praising	1	5
+shaThaH	 deceitful	1	18
+shabdAdin.h	 sound vibration, etc.	2	4, 18
+shabdaH	 combined sound	2	1, 7
+shabdabrahma	 ritualistic principles of scriptures	1	6	brahma
+shaibyaH	 Saibya	1	1
+shaknoShi	 you are able	1	12
+shaknomi	 am I able	1	1
+shaknoti	 is able	1	5
+shakyaH	 practical	4	6, 11, 11, 11
+shakyaM	 is able	2	11, 18
+shakyase	 are able	1	11
+shamaH	 cessation of all material activities	2	6, 10	ashamaH
+shamaM	 mental tranquillity	1	11
+shanaiH	 gradually	2	6, 6
+shantiM	 perfect peace	1	5	hanti
+sharIrANi	 bodies	1	2
+sharIra	 bodily	3	3, 5, 18	sharIrasthaM, sharIrasthaH, sharIraM
+sharIraM	 body	3	13, 15, 17	sharIra
+sharIrasthaH	 dwelling in the body	1	13	sthaH, sharIra
+sharIrasthaM	 situated within the body	2	17, 17	sharIra
+sharIre	 on the body	3	1, 2, 11
+sharIriNaH	 of the embodied soul	1	2
+sharaNaM	 full surrender	3	2, 9, 18
+sharaNam	 surrender	1	18
+sharma	 grace	1	11
+shashA~NkaH	 the moon	2	11, 15
+shashI	 the moon.	2	10, 11
+shashisUryayoH	 of the moon and the sun	1	7	sUrya
+shashvachChAntiM	 lasting peace	1	9
+shastrANi	 weapons	1	2
+shastra	 weapons	1	1	shastrabhR^itAM, shastrasampAte, shastrapANayaH, ashastraM
+shastrabhR^itAM	 of the carriers of weapons	1	10	shastra
+shastrapANayaH	 those with weapons in hand	1	1	shastra
+shastrasampAte	 in releasing his arrows	1	1	shastra
+shataiH	 by hundreds	1	16
+shatashaH	 hundreds	1	11
+shatrau	 to an enemy	1	12
+shatruH	 enemy	1	16
+shatruM	 the enemy	1	3
+shatrun.h	 enemies	1	11
+shatrutve	 because of enmity	1	6
+shatruvat.h	 as an enemy.	1	6
+shauchaM	 cleanliness	5	13, 16, 16, 17, 18
+shauryaM	 heroism	1	18
+shayyA	 in lying down	1	11
+sha~NkaraH	 Lord Siva	1	10
+sha~NkhAH	 conchshells	1	1
+sha~NkhAn.h	 conchshells	1	1
+sha~NkhaM	 conchshell	1	1	mahAsha~NkhaM
+sha~Nkhau	 conchshells	1	1
+shiShyaH	 disciple	1	2
+shiShyeNa	 disciple	1	1
+shikhaNDI	 Sikhandi	1	1
+shikhariNAM	 of all mountains	1	10
+shiraH	 head	2	6, 13
+shirasA	 with the head	1	11
+shoShayati	 dries	1	2
+shochati	 laments	2	12, 18
+shochituM	 to lament	3	2, 2, 2	anushochituM
+shoka	 by lamentation	2	1, 17	shokaM
+shokaM	 lamentation	2	2, 18	shoka
+shrIH	 opulence or beauty	2	10, 18
+shrIbhagavAnuvAcha	 the Supreme Personality of Godhead said	28	2, 2, 2, 3, 3, 4, 4, 5, 6, 6, 6, 7, 8, 9, 10, 10, 11, 11, 11, 11, 12, 13, 14, 14, 15, 16, 17, 18	uvAcha
+shrImat.h	 beautiful	1	10	mat.h
+shrImataM	 of the prosperous	1	6	mataM
+shraddadhAnAH	 with faith	1	12	ashraddadhAnAH
+shraddhA	 the faith	4	17, 17, 17, 17	shraddhAvAn.h, shraddhAM, shraddhAvantaH
+shraddhAM	 faith	1	7	shraddhA
+shraddhAvAn.h	 a faithful man	3	4, 6, 18	shraddhA
+shraddhAvantaH	 with faith and devotion	1	3	shraddhA, vantaH, antaH
+shraddhaH	 faith	1	17
+shraddhayA	 with faith	6	6, 7, 7, 12, 17, 17	shraddhayAnvitAH, ashraddhayA
+shraddhayAnvitAH	 with faith	1	9	shraddhayA
+shreShThaH	 a respectable leader	1	3
+shreyAn.h	 far better	3	3, 4, 18	yAn.h
+shreyaH	 good	10	1, 2, 2, 2, 3, 3, 3, 5, 12, 16
+shritAH	 taking shelter of.	1	9	AshritAH, sa.nshritAH, upAshritAH
+shrotavyasya	 toward all that is to be heard	1	2	yasya
+shrotrAdIni	 such as the hearing process	1	4
+shrotraM	 ears	1	15
+shrutaM	 heard	1	18
+shrutasya	 all that is already heard	1	2	tasya
+shrutau	 have been heard	1	11
+shrutavAn.h	 have heard	1	18
+shruti	 of Vedic revelation	1	2	shrutiparAyaNAH, shrutimat.h
+shrutimat.h	 having ears	1	13	mat.h, shruti
+shrutiparAyaNAH	 inclined to the process of hearing.	1	13	parAyaNAH, shruti
+shrutvA	 having heard	3	2, 11, 13
+shubhAn.h	 the auspicious	1	18	ashubhAn.h
+shubha	 good	3	2, 9, 12	ashubhaM, ashubha
+shuchInAM	 of the pious	1	6
+shuchaH	 worry	2	16, 18
+shuchau	 in a sanctified	1	6	ashuchau
+shuchiH	 pure	1	12	ashuchiH
+shuddhaye	 for the purpose of purification.	1	5	vishuddhaye
+shukla	 light	1	8	shuklaH
+shuklaH	 the white fortnight	1	8	shukla
+shuni	 in the dog	1	5
+shvapAke	 in the dog-eater (the outcaste)	1	5
+shvasan.h	 breathing	1	5	san.h
+shvashUrAH	 fathers-in-law	1	1	shUrAH
+shvashurAn.h	 fathers-in-law	1	1
+shvetaiH	 with white	1	1	etaiH
+shyAlAH	 brothers-in-law	1	1
+si.nhanAdaM	 roaring sound, like that of a lion	1	1
+sid.hdhyasid.hdhyoH	 in success and failure	1	2	asid.hdhyoH
+siddhAnAM	 of those who have achieved perfection	2	7, 10
+siddha	 and the perfected demigods	1	11	sa.nsiddhaH, siddhasa~NghAH, sa.nsiddhau, asiddhau, siddhau, siddhaH, siddhaye
+siddhaH	 perfect	1	16	sa.nsiddhaH, siddha
+siddhasa~NghAH	 perfect beings	2	11, 11	sa~NghAH, siddha
+siddhau	 in success	1	4	sa.nsiddhau, asiddhau, siddha
+siddhaye	 for perfection	2	7, 18	siddha
+siddhi	 in perfection	1	18	naiShkarmyasiddhiM, siddhiM, siddhiH, sa.nsiddhiM, yogasa.nsiddhiM
+siddhiH	 success	1	4	siddhi
+siddhiM	 success	8	3, 4, 12, 14, 16, 18, 18, 18	siddhi, naiShkarmyasiddhiM, sa.nsiddhiM, yogasa.nsiddhiM
+skandaH	 Kartikeya	1	10
+smR^itA	 is considered	1	6
+smR^itaH	 is considered	1	17
+smR^itaM	 is considered.	3	17, 17, 18	R^itaM, mR^itaM
+smR^iti	 of memory	1	2	smR^itiH, smR^itibhra.nshAt.h
+smR^itiH	 memory	3	10, 15, 18	smR^iti
+smR^itibhra.nshAt.h	 after bewilderment of memory	1	2	smR^iti
+smaran.h	 thinking of	3	3, 8, 8	anusmaran.h
+smarati	 remembers	1	8
+snigdhAH	 fatty	1	17
+soDhuM	 to tolerate	2	5, 11
+somaH	 the moon	1	15
+somapAH	 drinkers of soma juice	1	9
+spR^ihA	 aspiration	2	4, 14
+spR^ishan.h	 touching	1	5
+sparshAn.h	 sense objects, such as sound	1	5
+sparshanaM	 touch	1	15
+srotasAM	 of flowing rivers	1	10
+stabdhaH	 impudent	2	16, 18
+stenaH	 thief	1	3
+sthANuH	 unchangeable	1	2
+sthAnaM	 place	4	5, 8, 9, 18
+sthAne	 rightly	1	11
+sthAni	 situated	1	15	matsthAni, antaHsthAni
+sthApaya	 please keep	1	1
+sthApayitvA	 placing	1	1
+sthAsyati	 remains	1	2
+sthAvarANAM	 of immovable things	1	10
+sthAvara	 not moving	1	13
+sthaH	 situated	1	10	svasthaH, nivAtasthaH, bhUtasthaH, kUTasthaH, prakR^itisthaH, sharIrasthaH, nityasattvasthaH, yogasthaH
+sthairyaM	 steadfastness	1	13
+sthirAH	 enduring	1	17
+sthirAM	 stable.	1	6
+sthira	 fixed	1	12	sthiraM, sthiraH, sthirabuddhiH, asthiraM
+sthiraH	 still	1	6	sthira
+sthiraM	 firm	2	6, 12	sthira, asthiraM
+sthirabuddhiH	 self-intelligent	1	5	buddhi, buddhiH, sthira
+sthitAH	 are situated.	2	5, 10	AshayasthitAH, AsthitAH, avasthitAH
+sthitAn.h	 standing	1	1	vyavasthitAn.h, avasthitAn.h, tAn.h
+sthitaH	 situated.	6	5, 6, 6, 6, 6, 18	AsthitaH, AkAshasthitaH, avasthitaH
+sthitaM	 situated	3	5, 13, 15	samavasthitaM, samupasthitaM, avasthitaM, sarvabhUtasthitaM, hitaM
+sthitadhIH	 one fixed in KRiShNa consciousness	2	2, 2
+sthitapraj~naH	 transcendentally situated	1	2	aj~naH
+sthitapraj~nasya	 of one who is situated in fixed KRiShNa consciousness	1	2
+sthitau	 situated	1	1	vyavasthitau
+sthitiH	 situation	2	2, 17	vyavasthitiH
+sthitiM	 situation	1	6
+sthitvA	 being situated	1	2	hitvA
+strIShu	 by the womanhood	1	1
+stra.nsate	 is slipping	1	1
+striyaH	 women	1	9	kulastriyaH
+stutiH	 and repute	1	12	Atmasa.nstutiH
+stutibhiH	 with prayers	1	11
+stuvanti	 are singing hymns	1	11
+suduShkaraM	 difficult.	1	6	karaM
+sudurAchAraH	 one committing the most abominable actions	1	9	AchAraH
+sudurdarshaM	 very difficult to see	1	11
+sudurlabhaH	 very rare to see.	1	7
+sughoShamaNipuShpakau	 the conches named Sughosa and Manipuspaka	1	1
+suhR^idaH	 well-wishers	1	1
+suhR^idaM	 the benefactor	1	5
+suhR^it.h	 to well-wishers by nature	2	6, 9
+sukR^itaM	 pious activities	1	5	R^itaM, kR^itaM, kR^ita
+sukR^itaduShkR^ite	 good and bad results	1	2	kR^ita, R^ite
+sukR^itasya	 pious	1	14	tasya, kR^ita
+sukR^itinaH	 those who are pious	1	7
+sukhAni	 happiness thereof	2	1, 1
+sukhI	 happy	2	5, 16
+sukha	 happiness	7	2, 2, 6, 12, 13, 14, 17	sukhaM, rAjyasukhalobhena, asukhaM, susukhaM, sukhaduHkha, antarsukhaH, sukhaH, sukhasya
+sukhaH	 and happiness	2	12, 14	sukha, antarsukhaH
+sukhaM	 and happiness	18	2, 2, 4, 5, 5, 5, 5, 6, 6, 6, 6, 10, 13, 16, 18, 18, 18, 18	sukha, asukhaM, susukhaM
+sukhaduHkha	 happiness and distress	1	15	sukha, duHkha
+sukhasya	 of happiness	1	14	sukha
+sukhe	 in happiness	1	14	sukhena, sukheShu
+sukheShu	 in happiness	1	2	sukhe
+sukhena	 in transcendental happiness	1	6	sukhe
+sukhinaH	 happy	2	1, 2
+sulabhaH	 very easy to achieve	1	8
+sunishchitaM	 definitely.	1	5	nishchitaM, hitaM
+surANAM	 of the demigods	1	2
+suragaNAH	 the demigods	1	10
+surasa~NghAH	 groups of demigods	1	11	sa~NghAH
+surendra	 of Indra	1	9
+susukhaM	 very happy	1	9	sukhaM, sukha
+suvirUDha	 strongly	1	15
+svAM	 of Myself	2	4, 9
+svAdhyAya	 sacrifice in the study of the Vedas	2	4, 17	svAdhyAyaH
+svAdhyAyaH	 study of Vedic literature	1	16	svAdhyAya
+svaM	 own	1	6
+svabhAva	 their own nature	1	18	svabhAvajena, svabhAvaH, svabhAvaniyataM, bhAva, svabhAvajA, svabhAvajaM
+svabhAvaH	 characteristics	3	2, 5, 8	bhAva, svabhAva, bhAvaH, abhAvaH
+svabhAvajA	 according to his mode of material nature	1	17	bhAva, svabhAva
+svabhAvajaM	 born of his own nature.	4	18, 18, 18, 18	bhAva, svabhAva
+svabhAvajena	 born of your own nature	1	18	bhAva, svabhAva
+svabhAvaniyataM	 prescribed according to one's nature	1	18	niyataM, bhAva, svabhAva, niyata
+svachakShuShA	 your own eyes	1	11
+svadhA	 oblation	1	9
+svadharmaH	 one's prescribed duties	2	3, 18	adharmaH, adharma, dharma
+svadharmaM	 one's own religious principles	2	2, 2	dharmaM, adharmaM, adharma, dharma
+svadharme	 in one's prescribed duties	1	3	dharme
+svajanaM	 kinsmen	4	1, 1, 1, 1
+svakaM	 His own	1	11
+svakarma	 in his own duty	1	18	karma, svakarmaNA, akarma
+svakarmaNA	 by his own duties	1	18	karmaNA, svakarma, karma, akarma
+svalpaM	 a little	1	2	alpaM
+svanuShThitAt.h	 perfectly done	2	3, 18
+svapan.h	 dreaming	1	5
+svapnAvabodhasya	 sleep and wakefulness	1	6
+svapnaM	 dreaming	1	18
+svapnashIlasya	 of one who sleeps	1	6
+svarga	 of the heavenly planets	1	2	svargaM, svargalokaM, svargatiM, svargaparAH
+svargaM	 the heavenly kingdom	1	2	svarga
+svargalokaM	 heaven	1	9	lokaM, svarga
+svargaparAH	 aiming to achieve heavenly planets	1	2	aparA, svarga
+svargatiM	 passage to heaven	1	9	gatiM, svarga
+svasthaH	 being situated in himself	1	14	sthaH
+svasti	 all peace	1	11
+svasyaH	 by his own	1	3
+svatejasA	 by Your radiance	1	11
+svayA	 by their own.	1	7
+svayaM	 himself	4	4, 10, 10, 18	vayaM
+sve	 each his own	1	18
+svena	 by your own	1	18
+syAM	 would be	2	3, 18
+syAma	 will we become	1	1
+syAt.h	 will there be	7	1, 2, 3, 10, 11, 15, 18
+syandane	 chariot	1	1
+syuH	 are	1	9
+tAM	 that	2	7, 17
+tAmasAH	 in the mode of ignorance	3	7, 14, 17
+tAmasI	 in the mode of ignorance	3	17, 18, 18
+tAmasa	 to one in the mode of darkness	1	17	tAmasaM, tAmasaH
+tAmasaH	 in the mode of ignorance	2	18, 18	tAmasa
+tAmasaM	 in the mode of ignorance	6	17, 17, 17, 18, 18, 18	tAmasa
+tAn.h	 them	12	1, 1, 1, 2, 3, 3, 4, 4, 7, 7, 16, 17	viparItAn.h, vyavasthitAn.h, dattAn.h, etAn.h, avasthitAn.h, sthitAn.h, manogatAn.h, vihitAn.h, hatAn.h, samavetAn.h, pretAn.h
+tAni	 those senses	5	2, 4, 9, 9, 18
+tAsAM	 of all of them	1	14
+tAta	 My friend	1	6
+tAvAn.h	 similarly	1	2
+tIkShNa	 pungent	1	17
+tR^iShNA	 with hankering	1	14
+tR^ipta	 satisfied	1	6	tR^iptaH, AtmatR^iptaH
+tR^iptaH	 being satisfied	1	4	tR^ipta, AtmatR^iptaH
+tR^iptiH	 satisfaction	1	10
+taM	 unto Arjuna	19	2, 2, 4, 6, 6, 6, 7, 8, 8, 8, 8, 9, 10, 13, 15, 15, 17, 18, 18
+tad.hdhAma	 that abode	1	15	dhAma
+tadA	 at that time	12	1, 1, 2, 2, 2, 4, 6, 6, 11, 13, 14, 14
+tadAtmAnaH	 those whose minds are always in the Supreme	1	5
+tadanantaraM	 thereafter.	1	18	antaraM, anantaraM, ananta
+tadvat.h	 so	1	2
+tadviddhi	 you must know it	1	13	viddhi
+taiH	 by them	2	3, 5
+taistaiH	 various	1	7
+tamaH	 darkness	8	10, 14, 14, 14, 14, 14, 14, 17	yuktatamaH, uttamaH, pApakR^ittamaH, puruShottamaH, priyakR^ittamaH
+tamasa	 by illusion	1	18	tamasaH
+tamasaH	 to darkness	4	8, 13, 14, 14	tamasa
+tamasi	 the mode of ignorance	2	14, 14
+tamodvAraiH	 from the gates of ignorance	1	16
+tanniShThAH	 those whose faith is only meant for the Supreme	1	5	niShThA
+tanuM	 form of a demigod	2	7, 9
+tapAmi	 give heat	1	9
+tapaH	 penance	18	7, 10, 16, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 18, 18, 18, 18	tapaHsu
+tapaHsu	 in undergoing different types of austerities	1	8	tapaH
+tapantaM	 heating.	1	11	antaM
+tapasA	 by the penance	2	4, 11	tapasAM
+tapasAM	 and penances and austerities	1	5	tapasA
+tapasi	 in penance	1	17
+tapasviShu	 in those who practice penance.	1	7
+tapasvibhyaH	 than the ascetics	1	6
+tapasyasi	 austerities you perform	1	9
+tapobhiH	 by serious penances	1	11
+tapoyaj~nAH	 sacrifice in austerities	1	4	yaj~nAH
+taptaM	 executed	2	17, 17
+tapyante	 undergo	1	17
+taranti	 overcome	1	7	atitaranti
+tariShyasi	 you will overcome	1	18	santariShyasi
+tasmAt.h	 therefore	25	1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 4, 4, 5, 6, 8, 8, 8, 11, 11, 16, 16, 17, 18, 18	asmAt.h
+tasmin.h	 in that	1	14	asmin.h
+tasyAM	 in that	1	2	asyAM
+tasya	 his	20	1, 2, 2, 2, 2, 3, 3, 4, 6, 6, 6, 6, 6, 7, 7, 8, 11, 15, 18, 18	muktasya, jAtasya, niyatasya, shAshvatasya, shrutasya, etasya, sukR^itasya, abhijAtasya, yatachittasya, mR^itasya, ashAntasya, amR^itasya, ayuktasya, yuktasya, prashAntasya, yatasyataH, sambhAvitasya
+tat	 all those	1	8
+tat.h	 that	78	1, 1, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5, 5, 6, 7, 7, 7, 8, 8, 8, 8, 9, 9, 10, 10, 10, 11, 11, 11, 11, 13, 13, 13, 13, 13, 13, 13, 13, 13, 13, 14, 14, 15, 15, 15, 15, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18	etat.h
+tataH	 thereafter	23	1, 1, 2, 2, 2, 6, 6, 6, 7, 11, 11, 11, 11, 12, 12, 13, 13, 14, 15, 16, 16, 18, 18	tatastataH, yatataH, samantataH, vitataH
+tataM	 pervaded	5	2, 8, 9, 11, 18	satataM
+tatastataH	 from there	1	6	tataH
+tatbuddhayaH	 those whose intelligence is always in the Supreme	1	5	buddhayaH
+tathA	 as well as	45	1, 1, 1, 1, 2, 2, 2, 2, 3, 3, 4, 4, 4, 4, 5, 6, 7, 8, 9, 9, 9, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 12, 13, 13, 13, 13, 14, 14, 15, 16, 17, 17, 18, 18, 18	tathApi
+tathApi	 still	1	2	tathA
+tathaiva	 similarly	2	11, 11
+tatparAyaNaH	 who have completely taken shelter of Him	1	5	parAyaNaH
+tatparaH	 very much attached to it	1	4	paraH
+tatparaM	 KRiShNa consciousness.	2	5, 11	paraM
+tatprasAdAt.h	 by His grace	1	18
+tatra	 there	13	1, 2, 2, 6, 6, 8, 8, 8, 11, 14, 18, 18, 18
+tatsamakShaM	 among companions	1	11
+tattva	 of the truth	2	2, 4	tattvaM, tattvataH, tattvavit.h, tattvaj~nAna
+tattvaM	 the truth	1	18	tattva
+tattvaj~nAna	 of knowledge of the truth	1	13	j~nAna, tattva, aj~nAna
+tattvataH	 in reality	6	4, 6, 7, 10, 18, 18	tattva
+tattvavit.h	 the knower of the Absolute Truth	2	3, 5	tattva
+tattvena	 in reality	2	9, 11
+tatvidaH	 by those who know this.	1	13	vidaH
+tau	 they	2	2, 3
+tava	 your	17	1, 2, 2, 4, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 18
+tayA	 by such things	2	2, 7
+tayoH	 of them	2	3, 5	etayoH
+te	 to you.	63	1, 1, 2, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 4, 4, 4, 5, 5, 7, 7, 7, 7, 7, 7, 8, 8, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 12, 12, 13, 13, 16, 16, 16, 18, 18, 18, 18, 18, 18
+te.api	 even they	1	9
+teShAM	 their	11	5, 7, 7, 9, 10, 10, 12, 12, 12, 17, 17	eShAM, eteShAM
+teShu	 in the sense objects	7	2, 5, 7, 9, 9, 9, 16	vibhakteShu, bhakteShu, bhUteShu, sarvabhUteShu
+tejaH	 heat	8	7, 7, 10, 10, 15, 15, 16, 18
+tejasvinAM	 of the powerful	2	7, 10
+tejobhiH	 by effulgence	1	11
+tejomayaM	 full of effulgence	1	11
+tejorAshiM	 effulgence	1	11
+tena	 by that lust	7	3, 4, 5, 6, 11, 17, 18
+tenaiva	 in that	1	11	naiva
+tiShThantaM	 residing	1	13	antaM, hanta
+tiShThanti	 dwell	1	14	anutiShThanti, hanti
+tiShThasi	 remain.	1	10
+tiShThati	 remains	3	3, 13, 18	avatiShThati
+titikShasva	 just try to tolerate	1	2
+toyaM	 water	1	9
+trAyate	 releases	1	2
+trIn.h	 three	3	14, 14, 14
+traiguNya	 pertaining to the three modes of material nature	1	2	nistraiguNyaH
+trailokya	 of the three worlds	1	1
+traividyaH	 the knowers of the three Vedas	1	9
+trayI	 of the three Vedas	1	9
+trayaM	 three	3	11, 15, 16
+triShu	 in the three	1	3
+tribhiH	 three	3	7, 16, 18
+tridhA	 of three kinds	1	18
+trividhA	 of three kinds	2	17, 18
+trividhaH	 of three kinds	4	17, 17, 18, 18
+trividhaM	 of three kinds	5	16, 17, 18, 18, 18
+tu	 but	66	1, 1, 1, 2, 2, 2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 3, 5, 5, 5, 5, 6, 6, 6, 6, 6, 7, 7, 7, 7, 7, 7, 8, 8, 8, 8, 9, 9, 9, 9, 10, 11, 11, 12, 12, 12, 13, 14, 14, 14, 14, 15, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18
+tuShNiM	 silent	1	2
+tuShTaH	 satisfied	1	2	santuShTaH
+tuShTiH	 satisfaction	1	10
+tuShyanti	 become pleased	1	10
+tuShyati	 one becomes satisfied	1	6
+tulya	 equal	3	12, 14, 14	tulyaH
+tulyaH	 equal	2	14, 14	tulya
+tumulaH	 tumultuous	2	1, 1
+tvA	 unto you	1	2
+tvAM	 unto You	18	2, 2, 2, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 12, 18, 18
+tvaM	 you	33	2, 2, 2, 2, 2, 2, 2, 3, 3, 4, 4, 4, 10, 10, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 11, 18
+tvadanyena	 besides you	1	11	anyena
+tvak.h	 skin	1	1
+tvaramANAH	 rushing	1	11
+tvat.h	 than You	2	6, 11
+tvatprasAdAt.h	 by Your mercy	1	18
+tvatsamaH	 equal to You	1	11	samaH
+tvattaH	 from You	1	11
+tvayA	 by You	5	6, 11, 11, 11, 18
+tvayi	 unto you	1	2
+tyAgAt.h	 by such renunciation	1	12
+tyAgI	 the renouncer	3	18, 18, 18	parityAgI
+tyAga	 of renunciation	1	18	parityAgaH, tyAgaH, karmaphalatyAgaH, tyAgaM, tyAgasya
+tyAgaH	 renunciation	3	16, 18, 18	parityAgaH, karmaphalatyAgaH, tyAga
+tyAgaM	 renunciation	4	12, 18, 18, 18	tyAga
+tyAgasya	 of renunciation	1	18	tyAga
+tyAge	 in the matter of renunciation	1	18
+tyAjyaM	 must be given up	3	18, 18, 18	AjyaM
+tyajan.h	 quitting	1	8
+tyajati	 gives up	1	8
+tyajet.h	 one must give up.	3	16, 18, 18
+tyakta	 giving up	1	4	tyaktajIvitAH
+tyaktajIvitAH	 prepared to risk life	1	1	tyakta
+tyaktuM	 to be renounced	1	18
+tyaktvA	 giving up	13	1, 2, 2, 2, 4, 4, 5, 5, 5, 6, 18, 18, 18
+uShNa	 summer	3	2, 6, 12	atyuShNa
+uShitvA	 after dwelling	1	6	hitvA
+uShmapAH	 the forefathers	1	11
+ubhau	 both	3	2, 5, 13
+ubhaya	 both	1	6	bhaya
+ubhayoH	 both	6	1, 1, 1, 2, 2, 5
+ubhe	 both	1	2
+uchChiShTaM	 remnants of food eaten by others	1	17	iShTa, iShTaM
+uchChoShaNaM	 drying up	1	2
+uchChritaM	 high	1	6
+uchchaiH	 very loudly	1	1	uchchaiHshravasaM
+uchchaiHshravasaM	 Uccaihsrava	1	10	uchchaiH, avasaM
+uchyate	 is said	28	2, 2, 2, 2, 3, 3, 6, 6, 6, 6, 6, 8, 8, 13, 13, 13, 13, 14, 15, 17, 17, 17, 17, 17, 18, 18, 18, 18	pramuchyate
+udAhR^itaH	 is said	1	15	hR^ita
+udAhR^itaM	 exemplified.	6	13, 17, 17, 18, 18, 18	R^itaM, hR^ita
+udAhR^itya	 indicating	1	17
+udArAH	 magnanimous	1	7
+udAsIna	 neutrals between belligerents	1	6	udAsInaH, udAsInavat.h
+udAsInaH	 free from care	1	12	AsInaH, udAsIna
+udAsInavat.h	 as neutral	2	9, 14	udAsIna
+udaka	 and water	1	1
+udapAne	 in a well of water	1	2	apAne
+udara	 bellies	1	11
+udbhavaH	 generation	1	10	samudbhavaH, bhavaH, bhava
+udbhavaM	 produced	2	3, 5	samudbhavaM, bhava
+uddeshataH	 as examples	1	10	desha, hataH
+uddharet.h	 one must deliver	1	6
+uddishya	 desiring	1	17
+udvegaiH	 and anxiety	1	12
+udvijate	 are agitated	2	12, 12	dvija
+udvijet.h	 become agitated	1	5
+udyamya	 taking up	1	1
+udyatAH	 trying.	1	1
+udyata	 uplifted	1	11
+ugraH	 terrible	1	11
+ugraM	 terrible	1	11
+ugraiH	 severe	1	11
+ugrakarmANaH	 engaged in painful activities	1	16
+ugrarUpaH	 fierce form	1	11
+uktAH	 are said	1	2	vinirmuktAH, buddhiyuktAH, yuktAH, nityayuktAH, sa.nyuktAH, nirmuktAH
+uktaH	 addressed	3	1, 8, 13	vimuktaH, yuktaH, buddhiyuktaH, samAyuktaH, yogayuktaH, nityayuktaH, muktaH, ayuktaH, prayuktaH
+uktaM	 said	6	11, 11, 12, 13, 15, 16	muktaM
+uktvA	 saying	6	1, 2, 2, 11, 11, 11	muktvA, bhuktvA, yuktvA
+ulbena	 by the womb	1	3
+unmiShan.h	 opening	1	5
+upAsate	 worship.	5	9, 9, 12, 12, 13	paryupAsate
+upAshritAH	 being fully situated	2	4, 16	AshritAH, shritAH
+upAshritya	 taking shelter of	2	14, 18	Ashritya
+upAyataH	 by appropriate means.	1	6	yataH
+upadekShyanti	 they will initiate	1	4
+upadhAraya	 know	2	7, 9
+upadraShTA	 overseer	1	13	draShTA
+upahanyAM	 would destroy	1	3	anyAM
+upahata	 overpowered	2	1, 2
+upaiShyasi	 you will attain.	1	9
+upaiti	 attains	3	6, 8, 8
+upajAyante	 are born	1	14	jAyante
+upajAyate	 develops	3	2, 2, 14	jAyate
+upajuhvati	 offer.	1	4	juhvati
+upalabhyate	 can be perceived	1	15
+upalipyate	 mixes	2	13, 13	lipyate
+upamA	 comparison	1	6
+upamaM	 compared to	1	18
+upapadyate	 is befitting	4	2, 6, 13, 18
+upapannaM	 arrived at	1	2	annaM
+upapattiShu	 having obtained	1	13
+uparamate	 cease (because one feels transcendental happiness)	1	6	parama, ramate
+uparamet.h	 one should hold back	1	6
+uparataM	 ceased	1	2
+upasa~Ngamya	 approaching	1	1	sa~Nga
+upasevate	 enjoys.	1	15	sevate
+upasthe	 on the seat	1	1
+upavishat.h	 sat down again	1	1
+upavishya	 sitting	1	6
+upayAnti	 come	1	10	yAnti
+upetaH	 engaged	2	6, 12
+upetya	 achieving	2	8, 8
+uragAn.h	 serpents	1	11
+urjitaM	 glorious	1	10
+uru	 thighs	1	11
+ushanA	 Usana	1	10
+uta	 it is said.	2	1, 14
+utkrAmantaM	 quitting the body	1	15	antaM
+utkrAmati	 gives up	1	15
+utsAdanArthaM	 for the sake of causing annihilation	1	17
+utsAdyante	 are devastated	1	1
+utsAha	 and great enthusiasm	1	18
+utsIdeyuH	 would be put into ruin	1	3
+utsR^ijAmi	 send forth	1	9	sR^ijAmi
+utsR^ijya	 giving up	2	16, 17
+utsanna	 spoiled	1	1
+uttamA~NgaiH	 heads.	1	11
+uttamaH	 the best	2	15, 15	tamaH
+uttamaM	 transcendental.	5	4, 6, 9, 14, 18	anuttamaM
+uttamaujAH	 Uttamauja	1	1
+uttamavidAM	 of the great sages	1	14
+uttarAyaNaM	 when the sun passes on the northern side	1	8
+uttaraM	 covering	1	6
+utthaM	 produced of	1	18
+utthitA	 present	1	11
+uttiShTha	 get up	4	2, 2, 4, 11
+uvAcha	 said	4	1, 2, 2, 3	shrIbhagavAnuvAcha
+vA	 either	18	1, 2, 2, 2, 2, 2, 2, 6, 6, 10, 15, 17, 17, 18, 18, 18, 18, 18
+vANijyaM	 trade	1	18
+vAchaM	 words	1	2
+vAchyaM	 to be spoken	1	18
+vAdAn.h	 fabricated words	1	2	praj~nAvAdAn.h
+vAdaH	 the natural conclusion	1	10
+vAdinaH	 the advocates	1	2
+vAk.h	 fine speech	3	10, 18, 18
+vAkyaM	 words	3	1, 2, 17
+vAkyena	 words	1	3
+vApi	 at all	3	8, 11, 15
+vArShNeya	 O descendant of VRiShNi	2	1, 3
+vAsA.nsi	 garments	1	2
+vAsaH	 residence	1	1	parameShvAsaH, nivAsaH
+vAsavaH	 the heavenly king	1	10
+vAsudevAH	 KRiShNa	1	11	devAH
+vAsudevaH	 the Personality of Godhead, KRiShNa	2	7, 10
+vAsudevasya	 of KRiShNa	1	18
+vAsukiH	 Vasuki.	1	10
+vAyoH	 of the wind	1	6
+vAyuH	 wind	5	2, 7, 9, 11, 15
+vA~NmayaM	 of the voice	1	17
+vIkShante	 are beholding	1	11
+vIryAM	 glories	1	11
+vIryavAn.h	 very powerful	2	1, 1
+vIta	 free from	2	2, 4
+vItarAgAH	 in the renounced order of life	1	8
+vR^iShNInAM	 of the descendants of VRiShNi	1	10
+vR^ijanaM	 the ocean of miseries	1	4
+vR^ikodaraH	 the voracious eater (Bhima).	1	1
+vR^ittisthAH	 whose occupation	1	14
+vaH	 your	3	3, 3, 3
+vachaH	 words.	4	2, 10, 11, 18
+vachanaM	 word	3	1, 11, 18
+vada	 please tell	1	3
+vadanaiH	 by the mouths	1	11
+vadanti	 say	1	8	pravadanti
+vadasi	 You tell	1	10
+vadati	 speaks of	1	2
+vadiShyanti	 will say	1	2
+vahAmi	 carry	1	9
+vahniH	 fire	1	3
+vainateyaH	 Garuda	1	10
+vairAgyaM	 renunciation	2	13, 18
+vairAgyeNa	 by detachment	1	6
+vairiNaM	 greatest enemy.	1	3
+vaishvAnaraH	 My plenary portion as the digesting fire	1	15	naraH
+vaishya	 of a vaisya	1	18	vaishyaH
+vaishyaH	 mercantile people	1	9	vaishya
+vajraM	 the thunderbolt	1	10
+vakShyAmi	 shall explain	4	7, 8, 10, 18	pravakShyAmi
+vaktrANi	 mouths	3	11, 11, 11
+vaktra	 mouths	3	11, 11, 11	hutAshavaktraM
+vaktuM	 to say	1	10
+vantaH	 subject to	1	5	shraddhAvantaH, antavantaH, bhavantaH, antaH
+varNa	 colors	1	11	AdityavarNaM, varNaM, varNasa~NkaraH, varNasa~Nkara
+varNaM	 colors	1	11	AdityavarNaM, varNa
+varNasa~Nkara	 of unwanted children	1	1	varNasa~NkaraH, varNa
+varNasa~NkaraH	 unwanted progeny.	1	1	sa~NkaraH, varNa, varNasa~Nkara
+varShaM	 rain	1	9
+vara	 O best.	1	8
+varjitAH	 are devoid of	1	4
+vartamAnAni	 present	1	7
+vartamAnaH	 being situated	2	6, 13
+vartante	 are being engaged	3	3, 5, 14	anuvartante, nivartante, vinivartante, pravartante
+vartate	 is there	3	5, 6, 16	Avartate, viparivartate, nivartate, anuvartate, pravartate, ativartate
+varte	 I am engaged	1	3	varteyaM, varteta
+varteta	 remains	1	6	varte
+varteyaM	 thus engage	1	3	varte
+vartma	 path	2	3, 4	vartmani
+vartmani	 on the path.	1	9	vartma
+varuNaH	 the demigod controlling the water	2	10, 11
+vasaunAM	 of the Vasus	1	10
+vasavaH	 the Vasus	1	11
+vashAt.h	 under obligation.	1	9
+vashI	 one who is controlled	1	5
+vashaM	 control	2	3, 6
+vashe	 in full subjugation	1	2
+vashya	 controlled	1	6	AtmavashyaiH
+vasun.h	 the eight Vasus	1	11
+vayaM	 we	2	1, 1	svayaM
+vedAH	 Vedic literatures	2	2, 17
+vedAnAM	 of all the Vedas	1	10
+vedAntakR^it.h	 the compiler of the Vedanta	1	15
+veda	 knows	6	2, 2, 4, 7, 7, 15
+vedaiH	 by study of the Vedas	2	11, 15
+vedavAdaratAH	 supposed followers of the Vedas	1	2	ratAH
+vedavidaH	 persons conversant with the Vedas	1	8	vidaH
+vedavit.h	 the knower of the Vedas.	2	15, 15
+vedayaj~na	 by sacrifice	1	11	yaj~na
+vede	 in the Vedic literature	1	15
+vedeShu	 Vedic literatures	3	2, 7, 8
+veditavyaM	 to be understood	1	11
+vedituM	 to understand	2	13, 18
+vedyaH	 knowable	1	15
+vedyaM	 what is to be known	2	9, 11
+vegAH	 speed	1	11	ambuvegAH
+vegaM	 urges	1	5
+vepamAnaH	 trembling	1	11
+vepathuH	 trembling of the body	1	1
+vetta	 the knower	1	11
+vettha	 know	2	4, 10
+vetti	 knows	11	2, 4, 6, 7, 10, 10, 13, 13, 14, 18, 18
+viShAdaM	 moroseness	1	18
+viShAdi	 morose	1	18
+viShIdan.h	 while lamenting	1	1
+viShIdantaM	 lamenting	2	2, 2	antaM
+viShNo	 O Lord Visnu.	2	11, 11
+viShNuH	 the Supreme Lord	1	10
+viShTabhya	 pervading	1	10	iShTa
+viShThitaM	 situated.	1	13	hitaM
+viShame	 in this hour of crisis	1	2
+viShamiva	 like poison	2	18, 18
+viShayAH	 on the subject matter	2	2, 2
+viShayAn.h	 sense objects	5	2, 2, 4, 15, 18	yAn.h
+viShaya	 sense objects	2	15, 18
+vibhAgashaH	 in terms of division	1	4
+vibhAgayoH	 differences	1	3
+vibhAvasau	 in the fire	1	7	bhAva
+vibhUtayaH	 opulences	1	10	bhUta, AtmavibhUtayaH
+vibhUteH	 of opulences	1	10
+vibhUti	 opulences	1	10	vibhUtiM, vibhUtinAM, vibhUtibhiH
+vibhUtiM	 opulence	2	10, 10	vibhUti
+vibhUtibhiH	 opulences	1	10	vibhUti
+vibhUtinAM	 opulences	1	10	vibhUti
+vibhaktaM	 divided	1	13	avibhaktaM, pravibhaktaM
+vibhakteShu	 in the numberless divided	1	18	teShu, bhakteShu
+vibhrAntAH	 perplexed	1	16
+vibhraShTaH	 deviated from	1	6
+vibhramaH	 bewilderment	1	2
+vibhuH	 the Supreme Lord	1	5
+vibhuM	 greatest	1	10
+vichAlayet.h	 should try to agitate.	1	3
+vichAlyate	 becomes shaken	2	6, 14
+vichakShaNaH	 the experienced.	1	18
+vichetasaH	 bewildered	1	9	chetasaH
+vidAhinaH	 burning	1	17
+vidaH	 who understand	1	8	brahmavidaH, yaj~navidaH, vedavidaH, tatvidaH
+vidadhAmi	 give	1	7	dadhAmi
+viddhi	 know it	23	2, 3, 3, 3, 4, 4, 4, 6, 7, 7, 7, 10, 10, 13, 13, 13, 14, 14, 15, 17, 17, 18, 18	tadviddhi
+vidhAna	 the regulations	1	16
+vidhAnoktaH	 according to scriptural regulation	1	17
+vidhIyate	 does take place.	1	2	anuvidhIyate
+vidheyAtmA	 one who follows regulated freedom	1	2
+vidhidiShTaH	 according to the direction of scripture	1	17	iShTa, iShTaH
+vidhihInaM	 without scriptural direction	1	17
+viditAtmanAM	 of those who are self-realized.	1	5	AtmanA
+viditvA	 knowing it well	2	2, 8
+vidmaH	 do we know	1	2
+viduH	 understood	10	4, 7, 7, 7, 8, 10, 10, 13, 16, 18
+vidvAn.h	 the learned	2	3, 3
+vidyA	 with education	1	5	adhyAtmavidyA, rAjavidyA, vidyAnAM, vidyAmahaM, vidyAt.h
+vidyAmahaM	 shall I know	1	10	vidyA
+vidyAnAM	 of all education	1	10	vidyA
+vidyAt.h	 you must know	2	6, 14	vidyA
+vidyate	 there is	9	2, 2, 2, 2, 3, 4, 6, 8, 16
+vigata	 having discarded	2	5, 6	vigatabhIH, vigatajvaraH, vigataH, vigataspR^ihaH
+vigataH	 is removed	1	11	vigata, gataH
+vigatabhIH	 devoid of fear	1	6	vigata
+vigatajvaraH	 without being lethargic.	1	3	vigata
+vigataspR^ihaH	 without being interested	2	2, 18	vigata
+viguNaH	 even faulty	2	3, 18
+vihAra	 in relaxation	1	11	vihArasya
+vihArasya	 recreation	1	6	vihAra
+vihAya	 giving up	3	2, 2, 2
+vihitAH	 used	1	17
+vihitAn.h	 arranged	1	7	tAn.h
+vihitaM	 directed	1	17	hitaM
+vijAnItAH	 are in knowledge	1	2
+vijAnIyaM	 shall I understand	1	4
+vijAnataH	 who is in complete knowledge.	1	2
+vijayaH	 victory	1	18	jayaH
+vijayaM	 victory	1	1	anantavijayaM
+vijitAtmA	 self-controlled	1	5	jitAtmA
+vijitendriyaH	 sensually controlled	1	6	jitendriyaH
+vij~nAna	 and scientific knowledge of the pure soul	3	3, 6, 9	j~nAna, vij~nAnaM
+vij~nAnaM	 numinous knowledge	2	7, 18	vij~nAna, j~nAnaM, j~nAna
+vij~nAtuM	 to know	1	11	j~nAtuM
+vij~nAya	 after understanding	1	13
+vikArAn.h	 transformations	1	13
+vikAri	 changes	1	13
+vikampituM	 to hesitate	1	2
+vikarNaH	 Vikarna	1	1	karNaH
+vikarmaNaH	 of forbidden work	1	4	karmaNaH, karma
+vikrAntaH	 mighty	1	1
+vilagnAH	 becoming attached	1	11
+vimR^ishya	 deliberating	1	18
+vimUDhAH	 foolish persons	1	15	mUDhAH
+vimUDhAn.h	 perfectly befooled	1	3
+vimUDha	 foolish	1	3	mUDha, vimUDhaH, vimUDhabhAvaH, aha~NkAravimUDha
+vimUDhaH	 bewildered	1	6	vimUDha, mUDha, mUDhaH
+vimUDhabhAvaH	 bewilderment	1	11	bhAva, vimUDha, mUDha, bhAvaH, abhAvaH
+vimatsaraH	 free from envy	1	4
+vimohayati	 bewilders	1	3
+vimohitAH	 deluded.	1	16	mohitAH
+vimokShAya	 meant for liberation	1	16	mokShAya
+vimokShaNAt.h	 giving up	1	5	mokSha
+vimokShyase	 you will be liberated.	1	4	mokShyase
+vimuchya	 being delivered from	1	18
+vimuhyati	 one is bewildered	1	2	muhyati
+vimuktAnAM	 of those who are liberated	1	5
+vimuktaH	 liberated	4	9, 14, 15, 16	uktaH, muktaH
+vimuktaiH	 by one who has become free from	1	2
+vimu~nchati	 one gives up	1	18
+vinA	 without	1	10
+vinAshAya	 for the annihilation	1	4	nAshAya
+vinAshaH	 destruction	1	6	nAshaH
+vinAshaM	 destruction	1	2
+vinadya	 vibrating	1	1
+vinashyati	 falls back	2	4, 8	nashyati
+vinashyatsu	 in the destructible	1	13
+vinaya	 and gentleness	1	5
+vina~NkShyasi	 you will be lost.	1	18
+vindAmi	 I have	1	11
+vindate	 enjoys	1	5
+vindati	 enjoys.	4	4, 5, 18, 18
+vinigrahaH	 control	1	17	AtmavinigrahaH, nigrahaH
+vinirmuktAH	 liberated	1	2	nirmuktAH, uktAH
+vinishchitaiH	 certain.	1	13
+vinivR^itta	 disassociated	1	15
+vinivartante	 are practiced to be refrained from	1	2	vartante, nivartante
+viniyamya	 regulating	1	6	niyamya
+viniyataM	 particularly disciplined	1	6	niyataM, niyata
+viparItAn.h	 in the wrong direction	1	18	tAn.h
+viparItAni	 just the opposite	1	1
+viparItaM	 the opposite	1	18
+viparivartate	 is working.	1	9	vartate
+vipashchitaH	 full of discriminating knowledge	1	2	avipashchitaH
+vipratipannA	 without being influenced by the fruitive results	1	2	prati
+virATaH	 Virata	2	1, 1
+virahitaM	 without	1	17	hitaM
+visR^ijAmi	 create	2	9, 9	sR^ijAmi
+visR^ijan.h	 giving up	1	5
+visR^ijya	 putting aside	1	1
+visargaH	 creation	1	8	sargaH
+vishAM	 and the vaisyas	1	18
+vishAla	 very great	1	11	vishAlaM
+vishAlaM	 vast	1	9	vishAla
+vishanti	 enter	7	8, 9, 11, 11, 11, 11, 11	pravishanti, hanti
+vishate	 he enters	1	18
+visheShasa~NghAn.h	 specifically assembled	1	11
+vishiShTAH	 especially powerful	1	1	iShTAH
+vishiShyate	 is by far the better.	5	3, 5, 6, 7, 12
+vishuddhAtmA	 a purified soul	1	5
+vishuddhayA	 fully purified	1	18
+vishuddhaye	 for clarifying.	1	6	shuddhaye
+vishvaM	 universe	3	11, 11, 11
+vishvamUrte	 O universal form.	1	11
+vishvarUpa	 in the form of the universe.	1	11
+vishvasya	 universe	2	11, 11
+vishvatomukhaH	 Brahma.	1	10
+vishvatomukhaM	 and in the universal form.	2	9, 11	mukhaM
+vishve	 the Visvedevas	1	11	vishveshvara
+vishveshvara	 O Lord of the universe	1	11	vishve
+vismayAviShTaH	 being overwhelmed with wonder	1	11	iShTa, AviShTaH, iShTaH
+vismayaH	 wonder	1	18	mayaH
+vismitAH	 in wonder	1	11
+vistAraM	 the expansion	1	13
+vistaraH	 the expanse	1	10
+vistarashaH	 in detail	2	11, 16
+vistarasya	 to the extent	1	10
+vistareNa	 in detail	1	10
+vitataH	 are spread	1	4	tataH
+vitteshaH	 the lord of the treasury of the demigods	1	10
+vivR^iddhaM	 increased	1	14	R^iddhaM
+vivR^iddhe	 when there is an excess	2	14, 14
+vivardhanAH	 increasing	1	17
+vivarjitaM	 devoid of	2	7, 13
+vivasvAn.h	 Vivasvan (the sun-god's name)	1	4
+vivasvataH	 of the sun-god	1	4
+vivasvate	 unto the sun-god	1	4
+vividhAH	 various	1	17
+vividhaH	 various	1	18
+vividhaiH	 various	1	13
+vivikta	 to solitary	1	13	viviktasevI
+viviktasevI	 living in a secluded place	1	18	vivikta
+viyogaM	 extermination	1	6	yogaM
+vraja	 go	1	18
+vrajeta	 walks	1	2
+vratAH	 avowed.	1	16	pitR^ivratAH, ratAH, sa.nshitavratAH, dR^iDhavratAH, devavratAH
+vyAdhi	 and disease	1	13
+vyAharan.h	 vibrating	1	8
+vyAmishreNa	 by equivocal	1	3
+vyAptaM	 pervaded	1	11
+vyApya	 pervading	1	10
+vyAsaH	 Vyasa	2	10, 10
+vyAsaprasAdAt.h	 by the mercy of Vyasadeva	1	18
+vyUDhAM	 arranged	1	1
+vyUDhaM	 arranged in a military phalanx	1	1
+vyadArayat.h	 shattered	1	1	yat.h
+vyakta	 manifested	1	2	vyaktayaH, avyaktamUrtinA, avyaktaM, avyaktaH, avyakta
+vyaktayaH	 living entities	1	8	vyakta
+vyaktiM	 personality	2	7, 10
+vyapAshrayaH	 taking shelter of.	1	3	mad.hvyapAshrayaH
+vyapAshritya	 particularly taking shelter	1	9	Ashritya
+vyapetabhIH	 free from all fear	1	11
+vyatItAni	 have passed	1	4
+vyathA	 trouble	1	11	gatavyathAH, yathA
+vyathanti	 are disturbed	1	14	hanti
+vyathayanti	 are distressing	1	2
+vyathiShThAH	 be disturbed	1	11
+vyatitariShyati	 surpasses	1	2
+vyatta	 open	1	11
+vyavAsitAH	 have decided	1	1
+vyavasAyAtmikA	 resolute in KRiShNa consciousness	2	2, 2
+vyavasAyaH	 enterprise or adventure	2	10, 18
+vyavasitaH	 situated in determination	1	9	asitaH
+vyavasthitAn.h	 situated	1	1	avasthitAn.h, sthitAn.h, tAn.h
+vyavasthitau	 put under regulations	2	3, 16	sthitau
+vyavasthitiH	 the situation	1	16	sthitiH
+vyudasya	 laying aside	1	18
+yA	 what	4	2, 18, 18, 18
+yAM	 whichever	1	7
+yAbhiH	 by which	1	10	kriyAbhiH
+yAdR^ik.h	 as it is	1	13	R^ik.h
+yAdasAM	 of all aquatics	1	10
+yAji	 worshiper	1	9
+yAmimAM	 all these	1	2
+yAn.h	 those who	1	2	viShayAn.h, shreyAn.h, bAhyAn.h, anyAn.h, ashochyAn.h, AsuranishchayAn.h, AdityAn.h, garIyAn.h, anavalokayAn.h, sa~nchayAn.h, divyAn.h, AchAryAn.h
+yAnti	 undergo	14	3, 4, 7, 7, 7, 8, 9, 9, 9, 9, 9, 9, 13, 16	upayAnti
+yAsyasi	 you will go	2	2, 4
+yAtayAmaM	 food cooked three hours before being eaten	1	17
+yAti	 attains	8	6, 8, 8, 8, 8, 13, 14, 16
+yAtrA	 maintenance	1	3
+yAvAn.h	 all that	2	2, 18
+yAvat.h	 as long as	2	1, 13
+yaH	 anyone who	63	2, 2, 2, 2, 2, 3, 3, 3, 3, 3, 3, 4, 4, 4, 4, 5, 5, 5, 5, 5, 5, 5, 6, 6, 6, 6, 6, 8, 8, 8, 8, 8, 9, 10, 10, 11, 12, 12, 12, 12, 12, 12, 13, 13, 13, 13, 13, 14, 14, 14, 14, 15, 15, 15, 16, 17, 17, 18, 18, 18, 18, 18, 18
+yaM	 one to whom	6	2, 2, 6, 6, 8, 8
+yaShTavyaM	 must be performed	1	17
+yadA	 when	11	2, 2, 2, 2, 4, 6, 6, 13, 14, 14, 14
+yadR^ichChA	 out of its own accord	1	4	ichChA
+yadR^ichChayA	 by its own accord	1	2
+yadi	 if	7	1, 1, 2, 3, 6, 11, 11
+yadvA	 whether	1	2
+yadvat.h	 as	1	2
+yadyat.h	 whatever	2	3, 10	yat.h
+yajantaH	 sacrificing	1	9	antaH
+yajante	 they worship by sacrifices	6	4, 9, 16, 17, 17, 17
+yajanti	 they worship	1	9
+yajinaH	 devotees	1	9
+yajuH	 the Yajur Veda	1	9
+yaj~nAH	 sacrifices	3	3, 4, 17	j~nAnayaj~nAH, tapoyaj~nAH, yogayaj~nAH, dravyayaj~nAH
+yaj~nAnAM	 sacrifices	2	9, 10	aj~nAnAM
+yaj~nArthAt.h	 done only for the sake of Yajna, or Visnu	1	3
+yaj~nAt.h	 from the performance of sacrifice	2	3, 4
+yaj~nAya	 for the sake of Yajna (KRiShNa)	1	4
+yaj~na	 of sacrifices	5	5, 17, 17, 18, 18	yaj~nabhAvitAH, yaj~naM, yaj~naH, yaj~navidaH, sAdhiyaj~naM, japayaj~naH, yaj~naiH, vedayaj~na, yaj~nashiShTA, yaj~nashiShTa, ayaj~nasya, adhiyaj~naH, j~nAnayaj~naH, yaj~nakShapita
+yaj~naH	 performance of yajna	6	3, 9, 16, 17, 17, 18	aj~naH, japayaj~naH, yaj~na, adhiyaj~naH, j~nAnayaj~naH
+yaj~naM	 sacrifices	4	4, 4, 17, 17	sAdhiyaj~naM, yaj~na
+yaj~nabhAvitAH	 being satisfied by the performance of sacrifices	1	3	bhAvitAH, yaj~na
+yaj~naiH	 with sacrifices	2	9, 16	yaj~na
+yaj~nakShapita	 being cleansed as the result of such performances	1	4	yaj~na
+yaj~nashiShTA	 of food taken after performance of yajna	1	3	yaj~na
+yaj~nashiShTa	 of the result of such performances of yajna	1	4	yaj~na, iShTa
+yaj~navidaH	 conversant with the purpose of performing sacrifices	1	4	vidaH, yaj~na
+yaj~ne	 in sacrifice	2	3, 17	yaj~neShu, j~nAnayaj~nena, yaj~nena
+yaj~neShu	 in the performances of yajna, sacrifice	1	8	yaj~ne
+yaj~nena	 by sacrifice	2	4, 18	yaj~ne, j~nAnayaj~nena
+yakSha	 the Yaksas	1	11	yakSharakShasAM, yakSharakShA.nsi, pratyakSha
+yakSharakShA.nsi	 demons	1	17	akShara, rakShA.nsi, yakSha
+yakSharakShasAM	 of the Yaksas and Raksasas	1	10	akShara, yakSha
+yakShye	 I shall sacrifice	1	16
+yamaH	 the controller of death	2	10, 11
+yantra	 on a machine	1	18
+yashaH	 fame	2	10, 11	nityashaH, ayashaH
+yasmAt.h	 from whom	2	12, 15	asmAt.h
+yasmin.h	 in which	2	6, 15	asmin.h
+yasyAM	 in which	1	2	asyAM
+yasya	 one whose	8	2, 2, 4, 7, 8, 15, 18, 18	rAjyasya, shrotavyasya, sa.nnyasya, indriyasya, sainyasya, sa.nshayasya, aprameyasya, nityasya, kShatriyasya, avyayasya
+yat.h	 because	74	1, 2, 2, 2, 3, 4, 4, 5, 5, 5, 6, 6, 7, 8, 8, 8, 8, 8, 9, 9, 9, 9, 9, 9, 10, 10, 10, 10, 11, 11, 11, 11, 11, 11, 11, 13, 13, 13, 13, 13, 13, 13, 13, 14, 15, 15, 15, 15, 15, 15, 17, 17, 17, 17, 17, 17, 17, 17, 17, 17, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18, 18	vyadArayat.h, apashyat.h, anyat.h, yadyat.h
+yatAtma	 self-controlled	1	12	prayatAtmanaH, niyatAtmabhiH, yatAtmanAH, yatAtmavAn.h
+yatAtmanAH	 engaged in self-realization	1	5	AtmanA, yatAtma
+yatAtmavAn.h	 self-situated.	1	12	yatAtma, AtmavAn.h
+yatInAM	 of the saintly persons	1	5
+yata	 controlled	3	4, 5, 18
+yataH	 from which	3	13, 15, 18	abhAvayataH, prAdhAnyataH, dhyAyataH, upAyataH, kathayataH, yatasyataH, pashyataH
+yatachetasAM	 who have full control over the mind	1	5	chetasAM, chetasA
+yatachittAtmA	 always careful in mind	1	6	chittAtmA
+yatachitta	 controlling the mind	1	6	chitta, yatachittasya
+yatachittasya	 whose mind is controlled	1	6	yatachitta, chitta, tasya
+yatamAnaH	 endeavoring	1	6
+yatantaH	 fully endeavoring	3	9, 15, 15	antaH
+yatanti	 endeavor	1	7
+yatasyataH	 wherever	1	6	yataH, tasya
+yatatA	 while endeavoring	1	6	yatatAM
+yatatAM	 of those so endeavoring	1	7	yatatA
+yatataH	 while endeavoring	1	2	tataH
+yatate	 he endeavors	1	6
+yatati	 endeavors	1	7
+yatayaH	 enlightened persons	2	4, 8
+yathA	 as	20	2, 2, 3, 3, 3, 4, 4, 6, 7, 9, 11, 11, 11, 11, 12, 13, 13, 18, 18, 18	gatavyathAH, ayathAvat.h, yathAbhAgaM, anyathA, vyathA, yathAvat.h
+yathAbhAgaM	 as differently arranged	1	1	yathA
+yathAvat.h	 as they are	1	18	ayathAvat.h, yathA
+yatra	 in that state of affairs where	7	6, 6, 6, 8, 18, 18, 18	anyatra
+yauvanaM	 youth	1	2
+yayA	 by which	6	2, 7, 18, 18, 18, 18
+ye	 who	27	1, 1, 3, 3, 3, 4, 5, 7, 7, 7, 7, 7, 9, 9, 9, 9, 11, 11, 12, 12, 12, 12, 12, 12, 13, 17, 17
+yeShAM	 of whom	6	1, 2, 5, 5, 7, 10	eShAM
+yena	 by whom	8	2, 3, 4, 6, 8, 10, 18, 18
+yenakenachit.h	 with anything	1	12
+yo.ayaM	 this system	1	6
+yoddhavyaM	 have to fight	1	1
+yoddhukAmAn.h	 desiring to fight	1	1	kAmAn.h
+yodhAH	 the soldiers.	1	11
+yodhamukhyaiH	 chiefs among the warriors	1	11
+yodhavIrAn.h	 great warriors	1	11
+yogArUDhaH	 elevated in yoga	1	6
+yogAt.h	 from the mystic link	1	6	AtmayogAt.h, buddhiyogAt.h, sa.nyogAt.h
+yogAya	 for the sake of devotional service	1	2
+yogI	 a mystic	17	5, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 6, 8, 8, 8, 12
+yoga	 the linking process	7	4, 4, 4, 6, 9, 9, 16
+yogaH	 yoga	9	2, 2, 4, 4, 6, 6, 6, 6, 6	karmayogaH
+yogaM	 self-realization	14	2, 4, 4, 5, 5, 6, 6, 6, 6, 7, 10, 10, 12, 18	viyogaM, sa.nyogaM, karmayogaM, buddhiyogaM, buddhisa.nyogaM
+yogabalena	 by the power of mystic yoga	1	8
+yogabhraShTaH	 one who has fallen from the path of self-realization	1	6
+yogadhAraNAM	 the yogic situation.	1	8
+yogaiH	 by devotional service	1	5
+yogamAyA	 by internal potency	1	7
+yogamaishvaraM	 inconceivable mystic power	2	9, 11	aishvaraM
+yogasa.nj~nitaM	 called trance in yoga.	1	6	sa.nj~nitaM
+yogasa.nsiddhiM	 the highest perfection in mysticism	1	6	siddhi, siddhiM, sa.nsiddhiM
+yogasevayA	 by performance of yoga	1	6	sevayA
+yogasthaH	 equipoised	1	2	sthaH
+yogasya	 about yoga	1	6
+yogau	 work in devotional service	1	5
+yogavittamAH	 the most perfect in knowledge of yoga.	1	12
+yogayaj~nAH	 sacrifice in eightfold mysticism	1	4	yaj~nAH
+yogayuktAtmA	 one who is dovetailed in KRiShNa consciousness	1	6	yuktAtmA
+yogayuktaH	 one engaged in devotional service	3	5, 5, 8	yukta, uktaH, yuktaH, ayuktaH
+yoge	 in work without fruitive result	1	2
+yogena	 in devotional service	4	10, 12, 13, 18	bhaktiyogena, abhyAsayogena, j~nAnayogena, ananyayogena
+yogeshvarAt.h	 from the master of all mysticism	1	18
+yogeshvara	 O Lord of all mystic power	1	11	mahAyogeshvaraH, yogeshvaraH
+yogeshvaraH	 the master of mysticism	1	18	mahAyogeshvaraH, yogeshvara
+yogin.h	 O supreme mystic	1	10
+yoginAM	 of the devotees.	3	3, 6, 6
+yoginaH	 mystics	6	4, 5, 6, 8, 8, 15
+yoginaM	 yogi	1	6
+yoktavyaH	 must be practiced	1	6
+yonIni	 whose source of birth	1	7
+yonayaH	 sources of	1	5	pApayonayaH
+yoni	 species of life	1	13
+yoniH	 source of birth	1	14	mahadyoniH
+yoniM	 species	1	16
+yoniShu	 into the wombs.	1	16	sarvayoniShu, mUDhayoniShu
+yotsyamAnAn.h	 those who will be fighting	1	1
+yuddhAt.h	 than fighting	1	2
+yuddhAya	 to fight	2	2, 2
+yuddhaM	 war	1	2
+yuddhavishAradAH	 experienced in military science.	1	1
+yuddhe	 in the fight	3	1, 1, 18
+yudhAmanyuH	 Yudhamanyu	1	1	dhAma
+yudhi	 in the fight	1	1	yudhiShThiraH
+yudhiShThiraH	 Yudhisthira	1	1	yudhi
+yudhya	 fight	1	8	yudhyasva
+yudhyasva	 fight	3	2, 3, 11	yudhya
+yuga	 millenniums	2	8, 8
+yugapat.h	 simultaneously	1	11
+yuge	 millennium	2	4, 4
+yujyasva	 engage (fight)	2	2, 2
+yujyate	 is engaged	2	10, 17	prayujyate
+yuktAH	 engaged	1	12	buddhiyuktAH, nityayuktAH, sa.nyuktAH, uktAH
+yuktAtmA	 self-connected	2	5, 7	yogayuktAtmA
+yuktAtma	 having the mind firmly set on	1	9
+yukta	 regulated	3	6, 6, 6	yuktatamAH, yuktatamaH, yuktaH, buddhiyuktaH, yuktachetasaH, samAyuktaH, ayuktasya, yuktasya, yogayuktaH, nityayuktaH, yuktaiH, ayuktaH, prayuktaH
+yuktaH	 dovetailed	14	2, 2, 3, 4, 5, 5, 5, 6, 6, 6, 7, 8, 12, 18	yukta, uktaH, buddhiyuktaH, samAyuktaH, yogayuktaH, nityayuktaH, ayuktaH, prayuktaH
+yuktachetasaH	 their minds engaged in Me.	1	7	yukta, achetasaH, chetasaH
+yuktaiH	 engaged	1	17	yukta
+yuktasya	 engaged	1	8	yukta, tasya, ayuktasya
+yuktatamAH	 most perfect in yoga	1	12	yukta
+yuktatamaH	 the greatest yogi	1	6	yukta, tamaH
+yukte	 being yoked	1	1	yuktena
+yuktena	 being engaged in meditation	1	8	yukte
+yuktvA	 being absorbed	1	9	uktvA
+yuyudhAnaH	 Yuyudhana	1	1
+yuyutsavaH	 desiring to fight	1	1
+yuyutsuM	 all in a fighting spirit	1	1
+yu~njIta	 must concentrate in KRiShNa consciousness	1	6
+yu~njan.h	 practicing	3	6, 6, 7
+yu~njataH	 constantly engaged	1	6
+yu~njyAt.h	 should execute	1	6
+
